@@ -1,0 +1,1102 @@
+[
+  {
+    "question": "A rectangle has a length that is double its width. If the diagonal measures $5\\sqrt{5}$, what is the rectangle’s area?",
+    "subject": "high_school_mathematics",
+    "choices": [
+      "2500",
+      "2",
+      "50",
+      "25"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Joe randomly picks an apple, an orange, or a banana with equal chance at each of three meals. What’s the probability that he eats at least two different fruits in one day?",
+    "subject": "high_school_mathematics",
+    "choices": [
+      "\\frac{7}{9}",
+      "\\frac{8}{9}",
+      "\\frac{5}{9}",
+      "\\frac{9}{11}"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Let $f(x)$ be a function such that for any real numbers $a < b$, the graph of $y = f(x)$ from $x = a$ to $x = b$ stays below the straight line connecting $(a, f(a))$ and $(b, f(b))$—this defines a strictly convex function. If $f(x)$ goes through the points $(-2,5)$ and $(2,9)$, what are the possible values of $f(1)$? Give your answer in interval notation.",
+    "subject": "high_school_mathematics",
+    "choices": [
+      "(-inf, 10)",
+      "(-inf, 9)",
+      "(-inf, 8)",
+      "(-inf, 7)"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "John split his collection of souvenir hat pins evenly into two piles. He gave his brother half of one-third of one pile. After that, he had 66 pins remaining. How many pins did he start with?",
+    "subject": "high_school_mathematics",
+    "choices": [
+      "396",
+      "72",
+      "66",
+      "36"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "A weather report says there’s a 30% chance of rain without sunshine. If the chance of no rain is 40%, what’s the probability that it both rains and the sun is shining?",
+    "subject": "high_school_mathematics",
+    "choices": [
+      "0.16",
+      "0.24",
+      "0.3",
+      "0.5"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "A fair 6-sided die is rolled 5 times. What is the probability that the number 6 appears in at most 2 of those rolls?",
+    "subject": "high_school_mathematics",
+    "choices": [
+      "\\frac{125}{648}",
+      "\\frac{25}{648}",
+      "\\frac{625}{648}",
+      "\\frac{1}{648}"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "How many arithmetic sequences made up of consecutive odd numbers have a total sum of 240?",
+    "subject": "high_school_mathematics",
+    "choices": [
+      "8",
+      "12",
+      "10",
+      "4"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Positive integers $x$ and $y$ multiply to 56 with $x < y$. If seven times the reciprocal of the smaller number plus fourteen times the reciprocal of the larger equals 4, what is the value of $x$?",
+    "subject": "high_school_mathematics",
+    "choices": [
+      "13",
+      "14",
+      "1",
+      "2"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "For $n > 1$, what is the smallest positive integer $n$ such that the product of all its positive divisors is equal to $n^6$?",
+    "subject": "high_school_mathematics",
+    "choices": [
+      "30",
+      "64",
+      "2048",
+      "60"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the remainder when $2^{87} + 3$ is divided by 7?",
+    "subject": "high_school_mathematics",
+    "choices": [
+      "0",
+      "1",
+      "2",
+      "4"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Jane scored 98, 97, 92, 85, and 93 on her quizzes. What was her average score?",
+    "subject": "high_school_mathematics",
+    "choices": [
+      "92",
+      "93",
+      "94.5",
+      "95"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "If the graph of $f$ is increasing and concave up on the interval $a \\leq x \\leq b$, and we use the same number of subdivisions, how do the left, right, midpoint, and trapezoid sums (L, R, M, T) compare?",
+    "subject": "high_school_mathematics",
+    "choices": [
+      "R <= T <= M <= L",
+      "L <= T <= M <= R",
+      "R <= M <= T <= L",
+      "L <= M <= T <= R"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "An ant moves in a straight line from $(-4,6)$ to the origin, then continues straight to the point $(4,3)$. How much distance does it travel in total?",
+    "subject": "high_school_mathematics",
+    "choices": [
+      "16",
+      "2\\sqrt{2}",
+      "5",
+      "5+2\\sqrt{13}"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "The result of expanding $(x^2+5x+6)^2+(px+q)(x^3+7x^2+3x)$ is a polynomial of degree 2. What is the value of $p+q$?",
+    "subject": "high_school_mathematics",
+    "choices": [
+      "-2",
+      "-4",
+      "-1",
+      "1"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the range of the function $f(x) = \\frac{1}{1-x}$? Write your answer using interval notation.",
+    "subject": "high_school_mathematics",
+    "choices": [
+      "(-\\infty,-1)\\cup (1,\\infty)",
+      "(-\\infty,0)\\cup (0,\\infty)",
+      "[-1,1]",
+      "(-1,1)"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the inverse function of $f(x) = 4 - 5x$?",
+    "subject": "high_school_mathematics",
+    "choices": [
+      "\\frac{5}{x-4}",
+      "\\frac{x-4}{5}",
+      "\\frac{x+4}{5}",
+      "-\\frac{x-4}{5}"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "In how many ways can you place 4 distinct balls into 2 boxes that are not distinguishable?",
+    "subject": "high_school_mathematics",
+    "choices": [
+      "7",
+      "11",
+      "16",
+      "8"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "How many positive integers divide both 120 and 40?",
+    "subject": "high_school_mathematics",
+    "choices": [
+      "4",
+      "8",
+      "2",
+      "1"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "The expression $5!$ equals $5\\cdot 4\\cdot 3\\cdot 2\\cdot 1$. What is the largest odd number that divides $5!$?",
+    "subject": "high_school_mathematics",
+    "choices": [
+      "5",
+      "3",
+      "15",
+      "31"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "In parallelogram $ABCD$, angle $B$ measures $110^\\circ$. How many degrees are in angle $C$?",
+    "subject": "high_school_mathematics",
+    "choices": [
+      "145",
+      "90",
+      "60",
+      "70"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "The speed at which a purification system removes contaminants from water is proportional to how much contaminant remains. If 20% is removed in the first minute and 98% must be removed to make the water safe, about how long will the process take?",
+    "subject": "high_school_mathematics",
+    "choices": [
+      "2 min",
+      "5 min",
+      "18 min",
+      "20 min"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Find the domain of the following function: $f(x)=\\frac{x+6}{\\sqrt{x^2 - 3x - 4}}$",
+    "subject": "high_school_mathematics",
+    "choices": [
+      "(-4,4)",
+      "[0,4]",
+      "(-inf, -1) U (4, inf)",
+      "(-inf, -1) U (-1, 4) U (4, inf)"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the relative maximum value of the function $y = \\frac{\\ln x}{x}$?",
+    "subject": "high_school_mathematics",
+    "choices": [
+      "1",
+      "e",
+      "2/e",
+      "1/e"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the ones digit of the product $1 \\cdot 2 \\cdot 3 \\cdot 4 \\cdot 5 \\cdot 6 \\cdot 7 \\cdot 8 \\cdot 9$?",
+    "subject": "high_school_mathematics",
+    "choices": [
+      "1",
+      "2",
+      "0",
+      "5"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the smallest positive number that has 16, 15, and 12 as factors?",
+    "subject": "high_school_mathematics",
+    "choices": [
+      "12",
+      "22",
+      "840",
+      "240"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Given that the graph of $y = f(x)$ passes through the points $(1,5)$, $(2,3)$, and $(3,1)$, what are the two points that must appear on the graph of $y = f(f(x))$, and what is the value of $ab + cd$ if those points are $(a,b)$ and $(c,d)$?",
+    "subject": "high_school_mathematics",
+    "choices": [
+      "15",
+      "5",
+      "9",
+      "17"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Find the value of the combination $\\dbinom{85}{82}$.",
+    "subject": "high_school_mathematics",
+    "choices": [
+      "252",
+      "4680",
+      "98770",
+      "101170"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "A sheet of paper measuring 8.5 by 11 inches is folded in half twice (without unfolding), always folding the longer side. What is the length of the longest side right after the second fold? Round your answer to the nearest tenth.",
+    "subject": "high_school_mathematics",
+    "choices": [
+      "4.5",
+      "1",
+      "5.5",
+      "5"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Given the equations $888x + 889y = 890$ and $891x + 892y = 893$, find the value of $x - y$:",
+    "subject": "high_school_mathematics",
+    "choices": [
+      "1",
+      "-3",
+      "-1",
+      "3"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "A number has 2, 5, 7, 13, and 31 as its prime factors. Which of the following is guaranteed to be one of its factors?",
+    "subject": "high_school_mathematics",
+    "choices": [
+      "4",
+      "6",
+      "10",
+      "15"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "A group has the number 12345.6789 written down. Each person rounds it differently: Alice to the nearest ten-thousand, Bob to the nearest thousand, Carol to the nearest hundred, Devon to the nearest ten, Eugene to the nearest whole number, Felicity to the nearest tenth, Gerald to the nearest hundredth, Harry to the nearest thousandth, and Irene to the nearest ten-thousandth. Who gets the highest rounded number and wins the game?",
+    "subject": "high_school_mathematics",
+    "choices": [
+      "Alice",
+      "Devon",
+      "Bob",
+      "Gerald"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Factor the expression $36 - 9x^2$.",
+    "subject": "high_school_mathematics",
+    "choices": [
+      "(6-3x)(6+3x)",
+      "(-3x+6)(3x+6)",
+      "9(2-x)(2+x)",
+      "3(2+x)^2"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "To place the first paving stone, Alex walks 3 feet from the crate, puts it down, then walks back. For each next stone, he walks 2 feet farther out and back than the previous one. If he places 50 stones this way, what total distance does he walk by the time he returns after placing the 50th stone?",
+    "subject": "high_school_mathematics",
+    "choices": [
+      "100",
+      "90950",
+      "5200",
+      "50"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "A box holds 4 white balls and 4 black balls. If I draw them one at a time, what’s the probability that the colors alternate with every draw?",
+    "subject": "high_school_mathematics",
+    "choices": [
+      "\\frac{1}{8}",
+      "\\frac{1}{7}",
+      "\\frac{1}{40}",
+      "\\frac{1}{35}"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the smallest prime number whose digits add up to 19?",
+    "subject": "high_school_mathematics",
+    "choices": [
+      "5",
+      "11",
+      "17",
+      "199"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "John split his hat pin collection evenly into two piles. He gave his brother half of one-third of one pile, and was left with 66 pins. How many pins did he originally have?",
+    "subject": "high_school_mathematics",
+    "choices": [
+      "792",
+      "66",
+      "396",
+      "72"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "If $f(x) = 8x^3 - 6x^2 - 4x + 5$, what is the value of $f(-2)$?",
+    "subject": "high_school_mathematics",
+    "choices": [
+      "5",
+      "-75",
+      "-64",
+      "-24"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Mrs. Busywork told her class to multiply 10 by $\\frac{1}{3}$ five times as punishment. John realizes he can get the same result by multiplying 10 by a single fraction. What is that fraction?",
+    "subject": "high_school_mathematics",
+    "choices": [
+      "\\frac{1}{27}",
+      "\\frac{1}{68}",
+      "\\frac{1}{3}",
+      "\\frac{1}{243}"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "How many different numbers can be formed by making a fraction where both the numerator and denominator are chosen from 2, 3, 4, or 6?",
+    "subject": "high_school_mathematics",
+    "choices": [
+      "1",
+      "9",
+      "2",
+      "10"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the second entry in the row of Pascal’s Triangle that contains 43 elements?",
+    "subject": "high_school_mathematics",
+    "choices": [
+      "43",
+      "16",
+      "42",
+      "44"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Mr. Patrick is writing a five-question true-false quiz. For each question, he flips a coin: heads means true, tails means false. What’s the probability the answer sequence ends up being TFTFT? Give your answer as a common fraction.",
+    "subject": "high_school_mathematics",
+    "choices": [
+      "\\frac{1}{6}",
+      "\\frac{1}{64}",
+      "\\frac{1}{32}",
+      "\\frac{1}{2}"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Find the value of $b$ such that $\\log_b 343 = -\\frac{3}{2}$.",
+    "subject": "high_school_mathematics",
+    "choices": [
+      "3",
+      "\\frac{1}{49}",
+      "\\frac{1}{7}",
+      "7"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "A triangle has one side of length 10, the longest side. Which of the given options cannot be the lengths of the other two sides?",
+    "subject": "high_school_mathematics",
+    "choices": [
+      "4, 7",
+      "5, 5",
+      "3, 9",
+      "9, 8"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Two integers have a least common multiple of 240 and a greatest common divisor of 24. If one of the integers is 48, what is the other?",
+    "subject": "high_school_mathematics",
+    "choices": [
+      "1",
+      "120",
+      "20",
+      "12"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Solve for the sum of all values of $x$ that satisfy $3^{x^2 + 4x + 4} = 9^{x + 2}$.",
+    "subject": "high_school_mathematics",
+    "choices": [
+      "1",
+      "2",
+      "-2",
+      "0"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "A bacteria culture grows at a rate proportional to its size. Starting from 200, the population triples after 10 hours. If this trend continues, about how many bacteria will there be after 24 hours?",
+    "subject": "high_school_mathematics",
+    "choices": [
+      "1160",
+      "1440",
+      "2408",
+      "2793"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Given that $x$ and $y$ are directly proportional and $x = 3$ when $y = 8$, what is $x$ when $y = 13$?",
+    "subject": "high_school_mathematics",
+    "choices": [
+      "0.615",
+      "4.875",
+      "15",
+      "34.667"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Anton has two types of ants in his farm: one species doubles daily, the other triples. There were 30 ants total on Day 0, and by Day 5 the total reached 3281. How many of them are from the species that doubles?",
+    "subject": "high_school_mathematics",
+    "choices": [
+      "211",
+      "2321",
+      "11",
+      "608"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Solve $|x - 4| - 10 = 2$ and find the product of all the possible $x$ values.",
+    "subject": "high_school_mathematics",
+    "choices": [
+      "-8",
+      "128",
+      "-128",
+      "16"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What value of $x$ satisfies the equation $3^{x - 3} + 10 = 19$?",
+    "subject": "high_school_mathematics",
+    "choices": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Let $f(x)$ be a degree 6 polynomial and $g(x)$ be degree 3. If $h(x)$ makes the expression $f(g(x)) + g(h(x)) + h(f(x))$ have degree 36, what is the degree of $h(x)$?",
+    "subject": "high_school_mathematics",
+    "choices": [
+      "72",
+      "6",
+      "18",
+      "12"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "A point $(x, y)$ is randomly chosen inside a rectangle with corners at $(0, 0)$, $(3, 0)$, $(3, 2)$, and $(0, 2)$. What’s the probability that $x$ is less than $y$?",
+    "subject": "high_school_mathematics",
+    "choices": [
+      "\\frac{1}{12}",
+      "\\frac{1}{6}",
+      "\\frac{2}{3}",
+      "\\frac{1}{3}"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "How many 4-digit numbers are there where every digit is odd?",
+    "subject": "high_school_mathematics",
+    "choices": [
+      "100",
+      "999",
+      "625",
+      "500"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Simplify the expression $$\\frac{-\\frac{18}{7}}{-\\frac{6}{5}}$$.",
+    "subject": "high_school_mathematics",
+    "choices": [
+      "\\frac{7}{15}",
+      "\\frac{15}{7}",
+      "\\frac{15}{8}",
+      "\\frac{15}{11}"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "We have $(2x + 3y)^2 = 4$ and $xy = -5$, find the value of $4x^2 + 9y^2$.",
+    "subject": "high_school_mathematics",
+    "choices": [
+      "-5",
+      "13",
+      "64",
+      "25"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Three real numbers form an arithmetic sequence starting with 9. If 2 is added to the second term and 20 to the third, the new numbers form a geometric sequence. What’s the smallest value the third term in this geometric sequence can take?",
+    "subject": "high_school_mathematics",
+    "choices": [
+      "2",
+      "1",
+      "9",
+      "16"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "A sequence begins with 1, and each term afterward equals the sum of all previous terms. What is the first term in this sequence that becomes greater than 5000?",
+    "subject": "high_school_mathematics",
+    "choices": [
+      "10240",
+      "5001",
+      "5002",
+      "8192"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "February 2011 has 28 days and March has 31. What day of the week does April 1st fall on that year?",
+    "subject": "high_school_mathematics",
+    "choices": [
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "A virus spreads in a town by doubling every 3 days. If there are 1,000 residents and 10 are infected on January 1st, on what date will the entire town be infected? Assume January has 31 days and the year has 365.",
+    "subject": "high_school_mathematics",
+    "choices": [
+      "January 10th",
+      "January 21st",
+      "January 31st",
+      "February 10th"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "How many integers are there from 25 to 100 inclusive?",
+    "subject": "high_school_mathematics",
+    "choices": [
+      "75",
+      "76",
+      "22",
+      "23"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the remainder when $25^{1059}$ is divided by 23?",
+    "subject": "high_school_mathematics",
+    "choices": [
+      "11",
+      "13",
+      "8",
+      "5"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Find the greatest common divisor of 252 and 96.",
+    "subject": "high_school_mathematics",
+    "choices": [
+      "6",
+      "24",
+      "5",
+      "12"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "There are 9 bags of bird feed in storage. Over the week, deliveries of 17, 22, 3, 11, and 18 bags are made from Monday through Friday. What is the total number of bags by the end of the week?",
+    "subject": "high_school_mathematics",
+    "choices": [
+      "9",
+      "25",
+      "60",
+      "80"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Simplify the expression $\\frac{k-3}{2} + 3k + 1 + \\frac{3k+1}{2}$.",
+    "subject": "high_school_mathematics",
+    "choices": [
+      "3k+1",
+      "5k",
+      "3k",
+      "1"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "A clock chimes the hour (e.g., 3 times at 3:00) and once every 15 minutes past the hour. How many total chimes occur between 5:10 P.M. and 7:35 P.M.?",
+    "subject": "high_school_mathematics",
+    "choices": [
+      "3",
+      "15",
+      "18",
+      "21"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "A function $f(x)$, when shifted 2 units to the right and stretched vertically by a factor of 2, looks exactly the same. If $f(0) = 0.1$, what is the value of $f(10)$?",
+    "subject": "high_school_mathematics",
+    "choices": [
+      "0.01",
+      "1",
+      "32",
+      "3.2"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Let $f(x)=\\frac{1+x}{1-x}$ and $g(x)=\\frac{-2}{x+1}$. Starting with 12, alternate applying $f$ and $g$ eight times each, beginning with $f$. What is the final result?",
+    "subject": "high_school_mathematics",
+    "choices": [
+      "12",
+      "8",
+      "4",
+      "0"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "John saw that the angle between the clock’s hands was 110° when he left home sometime after 6 P.M. It was also 110° when he got back before 7 P.M. If he was gone for more than 5 minutes, how long was he away?",
+    "subject": "high_school_mathematics",
+    "choices": [
+      "36",
+      "40",
+      "38",
+      "43"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Let $f(x) = 3x + 4$ and $g(x) = 2x - 3$, and define $h(x) = f(g(x))$. What is the inverse function of $h(x)$?",
+    "subject": "high_school_mathematics",
+    "choices": [
+      "\\frac{x-5}{3}",
+      "\\frac{x+5}{3}",
+      "\\frac{x+5}{6}",
+      "\\frac{x-5}{6}"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Simplify the expression $-\\dfrac{1}{-3} \\cdot \\dfrac{1}{\\frac{1}{-3}}$.",
+    "subject": "high_school_mathematics",
+    "choices": [
+      "1",
+      "-1",
+      "0",
+      "2"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "A solid has a base bounded by the curve $x^2 = 4y$ and the line $y = 2$, and every cross-section perpendicular to the y-axis is a square. What is the volume of this solid?",
+    "subject": "high_school_mathematics",
+    "choices": [
+      "8",
+      "16",
+      "20",
+      "32"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "If the chance of rain on a given day is 70%, what is the probability, as a percentage, that it won’t rain that day?",
+    "subject": "high_school_mathematics",
+    "choices": [
+      "0%",
+      "30%",
+      "50%",
+      "70%"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What value of $N$ makes the equation $\\frac{4^{(3^3)}}{(4^3)^3} = 2^N$ true?",
+    "subject": "high_school_mathematics",
+    "choices": [
+      "9",
+      "27",
+      "36",
+      "34"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Simplify the expression $(5x + 3) - 2(2x - 4)$.",
+    "subject": "high_school_mathematics",
+    "choices": [
+      "10+x",
+      "x+11",
+      "5x+3",
+      "7+2x"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Let $f(x) = 3x^2 - 2$ and suppose $g(f(x)) = x^2 + x + 1$. What is the sum of all possible values of $g(25)$?",
+    "subject": "high_school_mathematics",
+    "choices": [
+      "13",
+      "25",
+      "9",
+      "20"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the greatest factor of 54,321 that is smaller than 54,321 itself?",
+    "subject": "high_school_mathematics",
+    "choices": [
+      "6",
+      "121",
+      "18107",
+      "54,320"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "A right triangle has a hypotenuse of 10 inches and includes a $45^\\circ$ angle. What is the area of the triangle in square inches?",
+    "subject": "high_school_mathematics",
+    "choices": [
+      "10",
+      "45",
+      "125",
+      "25"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "If 5 different integers are randomly selected from the range 20 to 69 inclusive, what is the probability that no two of them share the same tens digit?",
+    "subject": "high_school_mathematics",
+    "choices": [
+      "\\frac{1}{4}",
+      "\\frac{1}{3}",
+      "\\frac{1000}{52969}",
+      "\\frac{2500}{52969}"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Among the integers from $-200$ to $200$, how many are congruent to $5 \\pmod{13}$?",
+    "subject": "high_school_mathematics",
+    "choices": [
+      "30",
+      "31",
+      "60",
+      "45"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the smallest positive integer $n$ such that $\\sqrt{18 \\cdot n \\cdot 34}$ is a whole number?",
+    "subject": "high_school_mathematics",
+    "choices": [
+      "34",
+      "2",
+      "17",
+      "3"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "If $f(2x) = x + 5$ and $f(g(6)) = 13$, what is the value of $2 \\cdot g(6)$?",
+    "subject": "high_school_mathematics",
+    "choices": [
+      "6",
+      "16",
+      "32",
+      "36"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Write the reciprocal of $0.\\overline{7}$ as a simplified fraction.",
+    "subject": "high_school_mathematics",
+    "choices": [
+      "\\frac{7}{2}",
+      "\\frac{7}{9}",
+      "\\frac{9}{2}",
+      "\\frac{9}{7}"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Jennifer is running a marathon of 26.2 miles. If she runs the first half at 8 mph and the second half at 6 mph, about how many hours will it take her to finish the race?",
+    "subject": "high_school_mathematics",
+    "choices": [
+      "2.62",
+      "3.74",
+      "3.82",
+      "4.12"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the smallest perfect square that has three distinct prime factors?",
+    "subject": "high_school_mathematics",
+    "choices": [
+      "300",
+      "9",
+      "900",
+      "666"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Solve for $x$: $$\\left(\\frac{1}{25}\\right)^{x + 2} = 125^{-x}.$$",
+    "subject": "high_school_mathematics",
+    "choices": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Find the exact value of the infinite sum: $$\\frac{1}{2^1} + \\frac{2}{2^2} + \\frac{3}{2^3} + \\cdots + \\frac{k}{2^k} + \\cdots$$",
+    "subject": "high_school_mathematics",
+    "choices": [
+      "\\infty",
+      "1",
+      "2",
+      "4"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "A point $(x, y, z)$ is randomly chosen inside the cube where each coordinate ranges from $-1$ to $1$. What’s the probability that $x^2 + y^2 + z^2 \\le 1$?",
+    "subject": "high_school_mathematics",
+    "choices": [
+      "\\frac{\\pi}{24}",
+      "\\frac{\\pi}{12}",
+      "\\frac{\\pi}{6}",
+      "\\frac{\\pi}{3}"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Let $a$, $b$, and $c$ be positive integers such that $(a + b + c)^3 - a^3 - b^3 - c^3 = 150$. What is the value of $a + b + c$?",
+    "subject": "high_school_mathematics",
+    "choices": [
+      "16",
+      "6",
+      "12",
+      "150"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "How many positive integers between 100 and 999 are there?",
+    "subject": "high_school_mathematics",
+    "choices": [
+      "899",
+      "900",
+      "1000",
+      "999"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "In 1960, the U.S. reported 450,000 measles cases. In 1996, only 500 cases were reported. Assuming the number declined linearly, how many cases would have been reported in 1987?",
+    "subject": "high_school_mathematics",
+    "choices": [
+      "337125",
+      "449500",
+      "27",
+      "112875"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Simplify $(x\\sqrt{x^3})^4$. What is the exponent of $x$ in the final expression?",
+    "subject": "high_school_mathematics",
+    "choices": [
+      "5",
+      "10",
+      "2",
+      "12"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Three cards are randomly selected from a standard 52-card deck. What is the probability that the hand contains exactly a pair—two cards of the same rank and a third of a different rank?",
+    "subject": "high_school_mathematics",
+    "choices": [
+      "\\frac{1}{8}",
+      "\\frac{1}{36}",
+      "\\frac{1}{78}",
+      "\\frac{72}{425}"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "How many diagonals can be drawn in a regular octagon?",
+    "subject": "high_school_mathematics",
+    "choices": [
+      "8",
+      "16",
+      "17",
+      "20"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Find the length of the curve $y = \\ln x$ between the points where $y = \\frac{1}{2}$ and $y = 1$.",
+    "subject": "high_school_mathematics",
+    "choices": [
+      "0.53",
+      "0.86",
+      "1.18",
+      "1.36"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Find the area of the region in the first quadrant that is enclosed by the curves $y = x^2$, $y = \\cos(x)$, and the y-axis.",
+    "subject": "high_school_mathematics",
+    "choices": [
+      "0.292",
+      "0.508",
+      "0.547",
+      "0.667"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "How many positive and negative integers is 12 divisible by?",
+    "subject": "high_school_mathematics",
+    "choices": [
+      "3",
+      "12",
+      "4",
+      "6"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Rewrite the expression $6j^2 - 4j + 12$ in the form $c(j + p)^2 + q$. What is the value of $\\frac{q}{p}$?",
+    "subject": "high_school_mathematics",
+    "choices": [
+      "3",
+      "-34",
+      "-38",
+      "11"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Define an operation $\\#$ for all real numbers $r$ and $s$ by the rules: $r\\ \\#\\ 0 = r$, $r\\ \\#\\ s = s\\ \\#\\ r$, and $(r+1)\\ \\#\\ s = (r\\ \\#\\ s) + s + 1$. What is the value of $11\\ \\#\\ 5$?",
+    "subject": "high_school_mathematics",
+    "choices": [
+      "11",
+      "12",
+      "64",
+      "71"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Veronica wants to estimate how long it will take her to read a 400-page novel. She reads at 250 words per minute and counted about 200 words per page. To the nearest minute, how long will it take her to finish the book?",
+    "subject": "high_school_mathematics",
+    "choices": [
+      "225",
+      "320",
+      "400",
+      "450"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "A coat originally priced at $325.00 didn’t sell in November, so it was marked down by 20%. In December, it was discounted another 10%. How much would a customer pay for the coat in December?",
+    "subject": "high_school_mathematics",
+    "choices": [
+      "$227.50",
+      "$234.00",
+      "$286.00",
+      "$290.00"
+    ],
+    "answer": 1
+  }
+]

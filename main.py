@@ -10,7 +10,8 @@ from pacost import pacost
 
 MODELS = [
     "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", 
-    "deepseek-ai/DeepSeek-R1-Distill-Qwen-7B", 
+    "deepseek-ai/DeepSeek-R1-Distill-Qwen-7B",
+    "deepseek-ai/DeepSeek-R1-Distill-Qwen-14B",  
 ]
 
 
@@ -51,15 +52,16 @@ def process_log():
 if __name__ == "__main__":
     logger_result, logger_detail = process_log()
 
-    
     # Task 1: Evaluating Performance on Benchmarks
+    with open("dataset/mmlu_high_school_math_100.json", "r", encoding="utf-8") as f:
+        mmlu_bench = json.load(f)
     bench_datasets = {
         "aime": load_dataset("HuggingFaceH4/aime_2024")['train'],
-        "mmlu": load_dataset("cais/mmlu", "high_school_mathematics")['test']
+        "mmlu": mmlu_bench
     }
-    # bench_results = benchmark(MODELS, bench_datasets, logger_result, logger_detail)
-    # logger_result.info(f"Benchmark results:\n{bench_results}")
-    # logger_detail.info(f"Benchmark results:\n{bench_results}")
+    bench_results = benchmark(MODELS, bench_datasets, logger_result, logger_detail)
+    logger_result.info(f"Benchmark results:\n{bench_results}")
+    logger_detail.info(f"Benchmark results:\n{bench_results}")
 
     # Task 2: Data Extraction and Analyzing Benchmark Contamination
     # Task 2-1: applying TS-Guessing algorithm

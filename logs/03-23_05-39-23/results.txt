@@ -4420,3 +4420,2114 @@
 2025-03-24 03:08:57,130 - INFO - Wrong answer.
 2025-03-24 03:08:57,130 - INFO - 0 correct answers in 79 questions
 2025-03-24 03:08:57,130 - INFO - Question 79/100:
+2025-03-24 03:10:13,606 - INFO - Extract answer: 17
+2025-03-24 03:10:13,606 - INFO - Correct answer: 34
+2025-03-24 03:10:13,606 - INFO - Wrong answer.
+2025-03-24 03:10:13,606 - INFO - 0 correct answers in 80 questions
+2025-03-24 03:10:13,606 - INFO - Question 80/100:
+2025-03-24 03:11:13,352 - INFO - Extract answer: 32
+2025-03-24 03:11:13,352 - INFO - Correct answer: 6
+2025-03-24 03:11:13,352 - INFO - Wrong answer.
+2025-03-24 03:11:13,352 - INFO - 0 correct answers in 81 questions
+2025-03-24 03:11:13,352 - INFO - Question 81/100:
+2025-03-24 03:11:52,923 - INFO - Extract answer: \dfrac{9
+2025-03-24 03:11:52,923 - INFO - Correct answer: \frac{7}{2}
+2025-03-24 03:11:52,924 - INFO - Wrong answer.
+2025-03-24 03:11:52,924 - INFO - 0 correct answers in 82 questions
+2025-03-24 03:11:52,924 - INFO - Question 82/100:
+2025-03-24 03:12:11,418 - INFO - Extract answer: 3.82
+2025-03-24 03:12:11,418 - INFO - Correct answer: 2.62
+2025-03-24 03:12:11,418 - INFO - Wrong answer.
+2025-03-24 03:12:11,418 - INFO - 0 correct answers in 83 questions
+2025-03-24 03:12:11,418 - INFO - Question 83/100:
+2025-03-24 03:12:34,531 - INFO - Extract answer: 900
+2025-03-24 03:12:34,531 - INFO - Correct answer: 300
+2025-03-24 03:12:34,531 - INFO - Wrong answer.
+2025-03-24 03:12:34,531 - INFO - 0 correct answers in 84 questions
+2025-03-24 03:12:34,531 - INFO - Question 84/100:
+2025-03-24 03:13:34,028 - INFO - Extract answer: 4
+2025-03-24 03:13:34,028 - INFO - Correct answer: 1
+2025-03-24 03:13:34,028 - INFO - Wrong answer.
+2025-03-24 03:13:34,028 - INFO - 0 correct answers in 85 questions
+2025-03-24 03:13:34,028 - INFO - Question 85/100:
+2025-03-24 03:15:03,171 - INFO - Extract answer: 2
+2025-03-24 03:15:03,171 - INFO - Correct answer: \infty
+2025-03-24 03:15:03,171 - INFO - Wrong answer.
+2025-03-24 03:15:03,171 - INFO - 0 correct answers in 86 questions
+2025-03-24 03:15:03,171 - INFO - Question 86/100:
+2025-03-24 03:16:10,191 - INFO - Extract answer: \dfrac{\pi
+2025-03-24 03:16:10,191 - INFO - Correct answer: \frac{\pi}{24}
+2025-03-24 03:16:10,191 - INFO - Wrong answer.
+2025-03-24 03:16:10,192 - INFO - 0 correct answers in 87 questions
+2025-03-24 03:16:10,192 - INFO - Question 87/100:
+2025-03-24 03:17:52,676 - INFO - Extract answer: 6
+2025-03-24 03:17:52,676 - INFO - Correct answer: 16
+2025-03-24 03:17:52,676 - INFO - Wrong answer.
+2025-03-24 03:17:52,676 - INFO - 0 correct answers in 88 questions
+2025-03-24 03:17:52,676 - INFO - Question 88/100:
+2025-03-24 03:18:17,984 - INFO - Extract answer: 900
+2025-03-24 03:18:17,985 - INFO - Correct answer: 899
+2025-03-24 03:18:17,985 - INFO - Wrong answer.
+2025-03-24 03:18:17,985 - INFO - 0 correct answers in 89 questions
+2025-03-24 03:18:17,985 - INFO - Question 89/100:
+2025-03-24 03:19:10,194 - INFO - Extract answer: 112875
+2025-03-24 03:19:10,194 - INFO - Correct answer: 337125
+2025-03-24 03:19:10,194 - INFO - Wrong answer.
+2025-03-24 03:19:10,194 - INFO - 0 correct answers in 90 questions
+2025-03-24 03:19:10,194 - INFO - Question 90/100:
+2025-03-24 03:19:48,303 - INFO - Extract answer: 10
+2025-03-24 03:19:48,303 - INFO - Correct answer: 5
+2025-03-24 03:19:48,303 - INFO - Wrong answer.
+2025-03-24 03:19:48,303 - INFO - 0 correct answers in 91 questions
+2025-03-24 03:19:48,303 - INFO - Question 91/100:
+2025-03-24 03:20:58,566 - INFO - Extract answer: \dfrac{72
+2025-03-24 03:20:58,566 - INFO - Correct answer: \frac{1}{8}
+2025-03-24 03:20:58,566 - INFO - Wrong answer.
+2025-03-24 03:20:58,566 - INFO - 0 correct answers in 92 questions
+2025-03-24 03:20:58,566 - INFO - Question 92/100:
+2025-03-24 03:21:31,646 - INFO - Extract answer: 20
+2025-03-24 03:21:31,646 - INFO - Correct answer: 8
+2025-03-24 03:21:31,646 - INFO - Wrong answer.
+2025-03-24 03:21:31,646 - INFO - 0 correct answers in 93 questions
+2025-03-24 03:21:31,646 - INFO - Question 93/100:
+2025-03-24 03:23:24,066 - INFO - Extract answer: 1.18
+2025-03-24 03:23:24,066 - INFO - Correct answer: 0.53
+2025-03-24 03:23:24,066 - INFO - Wrong answer.
+2025-03-24 03:23:24,066 - INFO - 0 correct answers in 94 questions
+2025-03-24 03:23:24,066 - INFO - Question 94/100:
+2025-03-24 03:24:30,329 - INFO - Extract answer: 0.508
+2025-03-24 03:24:30,329 - INFO - Correct answer: 0.292
+2025-03-24 03:24:30,329 - INFO - Wrong answer.
+2025-03-24 03:24:30,329 - INFO - 0 correct answers in 95 questions
+2025-03-24 03:24:30,329 - INFO - Question 95/100:
+2025-03-24 03:25:10,644 - INFO - Extract answer: 12
+2025-03-24 03:25:10,644 - INFO - Correct answer: 3
+2025-03-24 03:25:10,645 - INFO - Wrong answer.
+2025-03-24 03:25:10,645 - INFO - 0 correct answers in 96 questions
+2025-03-24 03:25:10,645 - INFO - Question 96/100:
+2025-03-24 03:26:54,328 - INFO - Extract answer: -34
+2025-03-24 03:26:54,329 - INFO - Correct answer: 3
+2025-03-24 03:26:54,329 - INFO - Wrong answer.
+2025-03-24 03:26:54,329 - INFO - 0 correct answers in 97 questions
+2025-03-24 03:26:54,329 - INFO - Question 97/100:
+2025-03-24 03:28:38,944 - INFO - Extract answer: 71
+2025-03-24 03:28:38,944 - INFO - Correct answer: 11
+2025-03-24 03:28:38,944 - INFO - Wrong answer.
+2025-03-24 03:28:38,944 - INFO - 0 correct answers in 98 questions
+2025-03-24 03:28:38,944 - INFO - Question 98/100:
+2025-03-24 03:29:19,878 - INFO - Extract answer: 320
+2025-03-24 03:29:19,878 - INFO - Correct answer: 225
+2025-03-24 03:29:19,878 - INFO - Wrong answer.
+2025-03-24 03:29:19,878 - INFO - 0 correct answers in 99 questions
+2025-03-24 03:29:19,878 - INFO - Question 99/100:
+2025-03-24 03:29:40,068 - INFO - Extract answer: 234
+2025-03-24 03:29:40,068 - INFO - Correct answer: $227.50
+2025-03-24 03:29:40,068 - INFO - Wrong answer.
+2025-03-24 03:29:40,068 - INFO - 0 correct answers in 100 questions
+2025-03-24 03:29:40,069 - INFO - Acc in run 0: 0.0
+2025-03-24 03:29:40,069 - INFO - Question 0/100:
+2025-03-24 03:30:27,386 - INFO - Extract answer: 50
+2025-03-24 03:30:27,386 - INFO - Correct answer: 2500
+2025-03-24 03:30:27,386 - INFO - Wrong answer.
+2025-03-24 03:30:27,386 - INFO - 0 correct answers in 1 questions
+2025-03-24 03:30:27,386 - INFO - Question 1/100:
+2025-03-24 03:31:16,647 - INFO - Extract answer: \frac{8
+2025-03-24 03:31:16,647 - INFO - Correct answer: \frac{7}{9}
+2025-03-24 03:31:16,647 - INFO - Wrong answer.
+2025-03-24 03:31:16,648 - INFO - 0 correct answers in 2 questions
+2025-03-24 03:31:16,648 - INFO - Question 2/100:
+2025-03-24 03:33:03,543 - INFO - Extract answer: (-\infty, 8)
+2025-03-24 03:33:03,543 - INFO - Correct answer: (-inf, 10)
+2025-03-24 03:33:03,543 - INFO - Wrong answer.
+2025-03-24 03:33:03,543 - INFO - 0 correct answers in 3 questions
+2025-03-24 03:33:03,543 - INFO - Question 3/100:
+2025-03-24 03:34:02,421 - INFO - Extract answer: 72
+2025-03-24 03:34:02,421 - INFO - Correct answer: 396
+2025-03-24 03:34:02,421 - INFO - Wrong answer.
+2025-03-24 03:34:02,421 - INFO - 0 correct answers in 4 questions
+2025-03-24 03:34:02,421 - INFO - Question 4/100:
+2025-03-24 03:34:40,075 - INFO - Extract answer: 0.3
+2025-03-24 03:34:40,076 - INFO - Correct answer: 0.16
+2025-03-24 03:34:40,076 - INFO - Wrong answer.
+2025-03-24 03:34:40,076 - INFO - 0 correct answers in 5 questions
+2025-03-24 03:34:40,076 - INFO - Question 5/100:
+2025-03-24 03:36:55,284 - INFO - Extract answer:  
+2025-03-24 03:36:55,284 - INFO - Correct answer: \frac{125}{648}
+2025-03-24 03:36:55,284 - INFO - Wrong answer.
+2025-03-24 03:36:55,284 - INFO - 0 correct answers in 6 questions
+2025-03-24 03:36:55,284 - INFO - Question 6/100:
+2025-03-24 03:38:46,725 - INFO - Extract answer: 4
+2025-03-24 03:38:46,725 - INFO - Correct answer: 8
+2025-03-24 03:38:46,725 - INFO - Wrong answer.
+2025-03-24 03:38:46,725 - INFO - 0 correct answers in 7 questions
+2025-03-24 03:38:46,725 - INFO - Question 7/100:
+2025-03-24 03:40:50,807 - INFO - Extract answer: 2
+2025-03-24 03:40:50,807 - INFO - Correct answer: 13
+2025-03-24 03:40:50,808 - INFO - Wrong answer.
+2025-03-24 03:40:50,808 - INFO - 0 correct answers in 8 questions
+2025-03-24 03:40:50,808 - INFO - Question 8/100:
+2025-03-24 03:42:58,316 - INFO - Extract answer: 60
+2025-03-24 03:42:58,316 - INFO - Correct answer: 30
+2025-03-24 03:42:58,316 - INFO - Wrong answer.
+2025-03-24 03:42:58,316 - INFO - 0 correct answers in 9 questions
+2025-03-24 03:42:58,316 - INFO - Question 9/100:
+2025-03-24 03:43:59,127 - INFO - Extract answer: 4
+2025-03-24 03:43:59,127 - INFO - Correct answer: 0
+2025-03-24 03:43:59,127 - INFO - Wrong answer.
+2025-03-24 03:43:59,127 - INFO - 0 correct answers in 10 questions
+2025-03-24 03:43:59,127 - INFO - Question 10/100:
+2025-03-24 03:44:25,534 - INFO - Extract answer: 93
+2025-03-24 03:44:25,535 - INFO - Correct answer: 92
+2025-03-24 03:44:25,535 - INFO - Wrong answer.
+2025-03-24 03:44:25,535 - INFO - 0 correct answers in 11 questions
+2025-03-24 03:44:25,535 - INFO - Question 11/100:
+2025-03-24 03:45:58,731 - INFO - Extract answer: L \leq M \leq T \leq R
+2025-03-24 03:45:58,731 - INFO - Correct answer: R <= T <= M <= L
+2025-03-24 03:45:58,731 - INFO - Wrong answer.
+2025-03-24 03:45:58,731 - INFO - 0 correct answers in 12 questions
+2025-03-24 03:45:58,731 - INFO - Question 12/100:
+2025-03-24 03:47:18,440 - INFO - Extract answer: 5 + 2\sqrt{13
+2025-03-24 03:47:18,440 - INFO - Correct answer: 16
+2025-03-24 03:47:18,440 - INFO - Wrong answer.
+2025-03-24 03:47:18,440 - INFO - 0 correct answers in 13 questions
+2025-03-24 03:47:18,440 - INFO - Question 13/100:
+2025-03-24 03:49:32,278 - INFO - Extract answer:  
+2025-03-24 03:49:32,278 - INFO - Correct answer: -2
+2025-03-24 03:49:32,278 - INFO - Wrong answer.
+2025-03-24 03:49:32,278 - INFO - 0 correct answers in 14 questions
+2025-03-24 03:49:32,278 - INFO - Question 14/100:
+2025-03-24 03:50:52,977 - INFO - Extract answer: (-\infty, 0) \cup (0, \infty)
+2025-03-24 03:50:52,977 - INFO - Correct answer: (-\infty,-1)\cup (1,\infty)
+2025-03-24 03:50:52,977 - INFO - Wrong answer.
+2025-03-24 03:50:52,978 - INFO - 0 correct answers in 15 questions
+2025-03-24 03:50:52,978 - INFO - Question 15/100:
+2025-03-24 03:51:57,820 - INFO - Extract answer: -\frac{x-4
+2025-03-24 03:51:57,820 - INFO - Correct answer: \frac{5}{x-4}
+2025-03-24 03:51:57,820 - INFO - Wrong answer.
+2025-03-24 03:51:57,820 - INFO - 0 correct answers in 16 questions
+2025-03-24 03:51:57,820 - INFO - Question 16/100:
+2025-03-24 03:52:46,699 - INFO - Extract answer: 11
+2025-03-24 03:52:46,699 - INFO - Correct answer: 7
+2025-03-24 03:52:46,699 - INFO - Wrong answer.
+2025-03-24 03:52:46,699 - INFO - 0 correct answers in 17 questions
+2025-03-24 03:52:46,699 - INFO - Question 17/100:
+2025-03-24 03:53:52,838 - INFO - Extract answer: 8
+2025-03-24 03:53:52,838 - INFO - Correct answer: 4
+2025-03-24 03:53:52,838 - INFO - Wrong answer.
+2025-03-24 03:53:52,838 - INFO - 0 correct answers in 18 questions
+2025-03-24 03:53:52,839 - INFO - Question 18/100:
+2025-03-24 03:54:42,986 - INFO - Extract answer: 15
+2025-03-24 03:54:42,986 - INFO - Correct answer: 5
+2025-03-24 03:54:42,986 - INFO - Wrong answer.
+2025-03-24 03:54:42,986 - INFO - 0 correct answers in 19 questions
+2025-03-24 03:54:42,987 - INFO - Question 19/100:
+2025-03-24 03:55:01,120 - INFO - Extract answer: 70
+2025-03-24 03:55:01,120 - INFO - Correct answer: 145
+2025-03-24 03:55:01,120 - INFO - Wrong answer.
+2025-03-24 03:55:01,120 - INFO - 0 correct answers in 20 questions
+2025-03-24 03:55:01,120 - INFO - Question 20/100:
+2025-03-24 03:56:36,441 - INFO - Extract answer: 18
+2025-03-24 03:56:36,441 - INFO - Correct answer: 2 min
+2025-03-24 03:56:36,441 - INFO - Wrong answer.
+2025-03-24 03:56:36,441 - INFO - 0 correct answers in 21 questions
+2025-03-24 03:56:36,441 - INFO - Question 21/100:
+2025-03-24 03:58:02,588 - INFO - Extract answer: (-\infty, -1) \cup (4, \infty)
+2025-03-24 03:58:02,588 - INFO - Correct answer: (-4,4)
+2025-03-24 03:58:02,588 - INFO - Wrong answer.
+2025-03-24 03:58:02,588 - INFO - 0 correct answers in 22 questions
+2025-03-24 03:58:02,588 - INFO - Question 22/100:
+2025-03-24 03:58:45,237 - INFO - Extract answer: \dfrac{1
+2025-03-24 03:58:45,237 - INFO - Correct answer: 1
+2025-03-24 03:58:45,237 - INFO - Wrong answer.
+2025-03-24 03:58:45,237 - INFO - 0 correct answers in 23 questions
+2025-03-24 03:58:45,237 - INFO - Question 23/100:
+2025-03-24 03:59:03,202 - INFO - Extract answer: 0
+2025-03-24 03:59:03,202 - INFO - Correct answer: 1
+2025-03-24 03:59:03,202 - INFO - Wrong answer.
+2025-03-24 03:59:03,202 - INFO - 0 correct answers in 24 questions
+2025-03-24 03:59:03,202 - INFO - Question 24/100:
+2025-03-24 04:00:13,382 - INFO - Extract answer: 240
+2025-03-24 04:00:13,382 - INFO - Correct answer: 12
+2025-03-24 04:00:13,382 - INFO - Wrong answer.
+2025-03-24 04:00:13,382 - INFO - 0 correct answers in 25 questions
+2025-03-24 04:00:13,382 - INFO - Question 25/100:
+2025-03-24 04:01:43,276 - INFO - Extract answer: 17
+2025-03-24 04:01:43,276 - INFO - Correct answer: 15
+2025-03-24 04:01:43,277 - INFO - Wrong answer.
+2025-03-24 04:01:43,277 - INFO - 0 correct answers in 26 questions
+2025-03-24 04:01:43,277 - INFO - Question 26/100:
+2025-03-24 04:03:13,133 - INFO - Extract answer: 98770
+2025-03-24 04:03:13,133 - INFO - Correct answer: 252
+2025-03-24 04:03:13,133 - INFO - Wrong answer.
+2025-03-24 04:03:13,133 - INFO - 0 correct answers in 27 questions
+2025-03-24 04:03:13,133 - INFO - Question 27/100:
+2025-03-24 04:03:50,598 - INFO - Extract answer: 5.5
+2025-03-24 04:03:50,598 - INFO - Correct answer: 4.5
+2025-03-24 04:03:50,598 - INFO - Wrong answer.
+2025-03-24 04:03:50,598 - INFO - 0 correct answers in 28 questions
+2025-03-24 04:03:50,598 - INFO - Question 28/100:
+2025-03-24 04:05:05,441 - INFO - Extract answer: -3
+2025-03-24 04:05:05,441 - INFO - Correct answer: 1
+2025-03-24 04:05:05,441 - INFO - Wrong answer.
+2025-03-24 04:05:05,441 - INFO - 0 correct answers in 29 questions
+2025-03-24 04:05:05,441 - INFO - Question 29/100:
+2025-03-24 04:05:45,354 - INFO - Extract answer: 10
+2025-03-24 04:05:45,354 - INFO - Correct answer: 4
+2025-03-24 04:05:45,354 - INFO - Wrong answer.
+2025-03-24 04:05:45,354 - INFO - 0 correct answers in 30 questions
+2025-03-24 04:05:45,354 - INFO - Question 30/100:
+2025-03-24 04:06:44,287 - INFO - Extract answer: Eugene
+2025-03-24 04:06:44,287 - INFO - Correct answer: Alice
+2025-03-24 04:06:44,287 - INFO - Wrong answer.
+2025-03-24 04:06:44,287 - INFO - 0 correct answers in 31 questions
+2025-03-24 04:06:44,288 - INFO - Question 31/100:
+2025-03-24 04:07:11,994 - INFO - Extract answer: 9(2-x)(2+x)
+2025-03-24 04:07:11,995 - INFO - Correct answer: (6-3x)(6+3x)
+2025-03-24 04:07:11,995 - INFO - Wrong answer.
+2025-03-24 04:07:11,995 - INFO - 0 correct answers in 32 questions
+2025-03-24 04:07:11,995 - INFO - Question 32/100:
+2025-03-24 04:08:29,776 - INFO - Extract answer: 5200
+2025-03-24 04:08:29,776 - INFO - Correct answer: 100
+2025-03-24 04:08:29,776 - INFO - Wrong answer.
+2025-03-24 04:08:29,776 - INFO - 0 correct answers in 33 questions
+2025-03-24 04:08:29,776 - INFO - Question 33/100:
+2025-03-24 04:09:02,406 - INFO - Extract answer: \dfrac{1
+2025-03-24 04:09:02,406 - INFO - Correct answer: \frac{1}{8}
+2025-03-24 04:09:02,406 - INFO - Wrong answer.
+2025-03-24 04:09:02,406 - INFO - 0 correct answers in 34 questions
+2025-03-24 04:09:02,406 - INFO - Question 34/100:
+2025-03-24 04:09:42,688 - INFO - Extract answer: 199
+2025-03-24 04:09:42,688 - INFO - Correct answer: 5
+2025-03-24 04:09:42,688 - INFO - Wrong answer.
+2025-03-24 04:09:42,688 - INFO - 0 correct answers in 35 questions
+2025-03-24 04:09:42,688 - INFO - Question 35/100:
+2025-03-24 04:11:17,672 - INFO - Extract answer: 72
+2025-03-24 04:11:17,672 - INFO - Correct answer: 792
+2025-03-24 04:11:17,672 - INFO - Wrong answer.
+2025-03-24 04:11:17,672 - INFO - 0 correct answers in 36 questions
+2025-03-24 04:11:17,672 - INFO - Question 36/100:
+2025-03-24 04:13:04,975 - INFO - Extract answer: -75
+2025-03-24 04:13:04,975 - INFO - Correct answer: 5
+2025-03-24 04:13:04,975 - INFO - Wrong answer.
+2025-03-24 04:13:04,975 - INFO - 0 correct answers in 37 questions
+2025-03-24 04:13:04,975 - INFO - Question 37/100:
+2025-03-24 04:13:47,872 - INFO - Extract answer: \frac{1
+2025-03-24 04:13:47,872 - INFO - Correct answer: \frac{1}{27}
+2025-03-24 04:13:47,872 - INFO - Wrong answer.
+2025-03-24 04:13:47,872 - INFO - 0 correct answers in 38 questions
+2025-03-24 04:13:47,872 - INFO - Question 38/100:
+2025-03-24 04:14:36,826 - INFO - Extract answer: 9
+2025-03-24 04:14:36,826 - INFO - Correct answer: 1
+2025-03-24 04:14:36,826 - INFO - Wrong answer.
+2025-03-24 04:14:36,826 - INFO - 0 correct answers in 39 questions
+2025-03-24 04:14:36,826 - INFO - Question 39/100:
+2025-03-24 04:15:05,444 - INFO - Extract answer: 42
+2025-03-24 04:15:05,444 - INFO - Correct answer: 43
+2025-03-24 04:15:05,444 - INFO - Wrong answer.
+2025-03-24 04:15:05,444 - INFO - 0 correct answers in 40 questions
+2025-03-24 04:15:05,444 - INFO - Question 40/100:
+2025-03-24 04:16:10,692 - INFO - Extract answer: \frac{1
+2025-03-24 04:16:10,692 - INFO - Correct answer: \frac{1}{6}
+2025-03-24 04:16:10,692 - INFO - Wrong answer.
+2025-03-24 04:16:10,692 - INFO - 0 correct answers in 41 questions
+2025-03-24 04:16:10,692 - INFO - Question 41/100:
+2025-03-24 04:17:22,911 - INFO - Extract answer: \frac{1
+2025-03-24 04:17:22,911 - INFO - Correct answer: 3
+2025-03-24 04:17:22,911 - INFO - Wrong answer.
+2025-03-24 04:17:22,911 - INFO - 0 correct answers in 42 questions
+2025-03-24 04:17:22,911 - INFO - Question 42/100:
+2025-03-24 04:18:06,689 - INFO - Extract answer: 5, 5
+2025-03-24 04:18:06,689 - INFO - Correct answer: 4, 7
+2025-03-24 04:18:06,689 - INFO - Wrong answer.
+2025-03-24 04:18:06,689 - INFO - 0 correct answers in 43 questions
+2025-03-24 04:18:06,689 - INFO - Question 43/100:
+2025-03-24 04:18:56,821 - INFO - Extract answer: 120
+2025-03-24 04:18:56,821 - INFO - Correct answer: 1
+2025-03-24 04:18:56,821 - INFO - Wrong answer.
+2025-03-24 04:18:56,821 - INFO - 0 correct answers in 44 questions
+2025-03-24 04:18:56,821 - INFO - Question 44/100:
+2025-03-24 04:20:19,616 - INFO - Extract answer: -2
+2025-03-24 04:20:19,616 - INFO - Correct answer: 1
+2025-03-24 04:20:19,616 - INFO - Wrong answer.
+2025-03-24 04:20:19,616 - INFO - 0 correct answers in 45 questions
+2025-03-24 04:20:19,616 - INFO - Question 45/100:
+2025-03-24 04:20:45,059 - INFO - Extract answer: 2793
+2025-03-24 04:20:45,059 - INFO - Correct answer: 1160
+2025-03-24 04:20:45,059 - INFO - Wrong answer.
+2025-03-24 04:20:45,059 - INFO - 0 correct answers in 46 questions
+2025-03-24 04:20:45,059 - INFO - Question 46/100:
+2025-03-24 04:21:13,840 - INFO - Extract answer: 4.875
+2025-03-24 04:21:13,840 - INFO - Correct answer: 0.615
+2025-03-24 04:21:13,840 - INFO - Wrong answer.
+2025-03-24 04:21:13,840 - INFO - 0 correct answers in 47 questions
+2025-03-24 04:21:13,840 - INFO - Question 47/100:
+2025-03-24 04:22:54,443 - INFO - Extract answer: 608
+2025-03-24 04:22:54,443 - INFO - Correct answer: 211
+2025-03-24 04:22:54,443 - INFO - Wrong answer.
+2025-03-24 04:22:54,444 - INFO - 0 correct answers in 48 questions
+2025-03-24 04:22:54,444 - INFO - Question 48/100:
+2025-03-24 04:23:29,866 - INFO - Extract answer: -128
+2025-03-24 04:23:29,866 - INFO - Correct answer: -8
+2025-03-24 04:23:29,866 - INFO - Wrong answer.
+2025-03-24 04:23:29,866 - INFO - 0 correct answers in 49 questions
+2025-03-24 04:23:29,866 - INFO - Question 49/100:
+2025-03-24 04:24:07,567 - INFO - Extract answer: 5
+2025-03-24 04:24:07,567 - INFO - Correct answer: 3
+2025-03-24 04:24:07,567 - INFO - Wrong answer.
+2025-03-24 04:24:07,567 - INFO - 0 correct answers in 50 questions
+2025-03-24 04:24:07,567 - INFO - Question 50/100:
+2025-03-24 04:25:51,790 - INFO - Extract answer: 6
+2025-03-24 04:25:51,790 - INFO - Correct answer: 72
+2025-03-24 04:25:51,790 - INFO - Wrong answer.
+2025-03-24 04:25:51,790 - INFO - 0 correct answers in 51 questions
+2025-03-24 04:25:51,790 - INFO - Question 51/100:
+2025-03-24 04:27:16,422 - INFO - Extract answer: \frac{1
+2025-03-24 04:27:16,422 - INFO - Correct answer: \frac{1}{12}
+2025-03-24 04:27:16,422 - INFO - Wrong answer.
+2025-03-24 04:27:16,422 - INFO - 0 correct answers in 52 questions
+2025-03-24 04:27:16,422 - INFO - Question 52/100:
+2025-03-24 04:28:00,379 - INFO - Extract answer: 625
+2025-03-24 04:28:00,379 - INFO - Correct answer: 100
+2025-03-24 04:28:00,379 - INFO - Wrong answer.
+2025-03-24 04:28:00,380 - INFO - 0 correct answers in 53 questions
+2025-03-24 04:28:00,380 - INFO - Question 53/100:
+2025-03-24 04:29:09,042 - INFO - Extract answer: \frac{15
+2025-03-24 04:29:09,042 - INFO - Correct answer: \frac{7}{15}
+2025-03-24 04:29:09,042 - INFO - Wrong answer.
+2025-03-24 04:29:09,042 - INFO - 0 correct answers in 54 questions
+2025-03-24 04:29:09,042 - INFO - Question 54/100:
+2025-03-24 04:30:05,653 - INFO - Extract answer: 64
+2025-03-24 04:30:05,653 - INFO - Correct answer: -5
+2025-03-24 04:30:05,653 - INFO - Wrong answer.
+2025-03-24 04:30:05,653 - INFO - 0 correct answers in 55 questions
+2025-03-24 04:30:05,653 - INFO - Question 55/100:
+2025-03-24 04:31:26,066 - INFO - Extract answer: 1
+2025-03-24 04:31:26,066 - INFO - Correct answer: 2
+2025-03-24 04:31:26,066 - INFO - Wrong answer.
+2025-03-24 04:31:26,066 - INFO - 0 correct answers in 56 questions
+2025-03-24 04:31:26,066 - INFO - Question 56/100:
+2025-03-24 04:31:57,792 - INFO - Extract answer: 8192
+2025-03-24 04:31:57,792 - INFO - Correct answer: 10240
+2025-03-24 04:31:57,792 - INFO - Wrong answer.
+2025-03-24 04:31:57,792 - INFO - 0 correct answers in 57 questions
+2025-03-24 04:31:57,792 - INFO - Question 57/100:
+2025-03-24 04:32:37,693 - INFO - Extract answer: Thursday
+2025-03-24 04:32:37,693 - INFO - Correct answer: Wednesday
+2025-03-24 04:32:37,693 - INFO - Wrong answer.
+2025-03-24 04:32:37,694 - INFO - 0 correct answers in 58 questions
+2025-03-24 04:32:37,694 - INFO - Question 58/100:
+2025-03-24 04:33:25,084 - INFO - Extract answer: January 21st
+2025-03-24 04:33:25,084 - INFO - Correct answer: January 10th
+2025-03-24 04:33:25,084 - INFO - Wrong answer.
+2025-03-24 04:33:25,084 - INFO - 0 correct answers in 59 questions
+2025-03-24 04:33:25,084 - INFO - Question 59/100:
+2025-03-24 04:33:53,665 - INFO - Extract answer: 76
+2025-03-24 04:33:53,665 - INFO - Correct answer: 75
+2025-03-24 04:33:53,665 - INFO - Wrong answer.
+2025-03-24 04:33:53,665 - INFO - 0 correct answers in 60 questions
+2025-03-24 04:33:53,665 - INFO - Question 60/100:
+2025-03-24 04:35:29,613 - INFO - Extract answer: 8
+2025-03-24 04:35:29,613 - INFO - Correct answer: 11
+2025-03-24 04:35:29,613 - INFO - Wrong answer.
+2025-03-24 04:35:29,613 - INFO - 0 correct answers in 61 questions
+2025-03-24 04:35:29,613 - INFO - Question 61/100:
+2025-03-24 04:35:36,820 - INFO - Extract answer: 12
+2025-03-24 04:35:36,820 - INFO - Correct answer: 6
+2025-03-24 04:35:36,820 - INFO - Wrong answer.
+2025-03-24 04:35:36,820 - INFO - 0 correct answers in 62 questions
+2025-03-24 04:35:36,820 - INFO - Question 62/100:
+2025-03-24 04:36:12,886 - INFO - Extract answer: 80
+2025-03-24 04:36:12,886 - INFO - Correct answer: 9
+2025-03-24 04:36:12,886 - INFO - Wrong answer.
+2025-03-24 04:36:12,886 - INFO - 0 correct answers in 63 questions
+2025-03-24 04:36:12,886 - INFO - Question 63/100:
+2025-03-24 04:36:53,901 - INFO - Extract answer: 5k
+2025-03-24 04:36:53,901 - INFO - Correct answer: 3k+1
+2025-03-24 04:36:53,901 - INFO - Wrong answer.
+2025-03-24 04:36:53,901 - INFO - 0 correct answers in 64 questions
+2025-03-24 04:36:53,901 - INFO - Question 64/100:
+2025-03-24 04:39:06,936 - INFO - Extract answer:  
+2025-03-24 04:39:06,936 - INFO - Correct answer: 3
+2025-03-24 04:39:06,936 - INFO - Wrong answer.
+2025-03-24 04:39:06,936 - INFO - 0 correct answers in 65 questions
+2025-03-24 04:39:06,936 - INFO - Question 65/100:
+2025-03-24 04:40:20,055 - INFO - Extract answer: 3.2
+2025-03-24 04:40:20,055 - INFO - Correct answer: 0.01
+2025-03-24 04:40:20,055 - INFO - Wrong answer.
+2025-03-24 04:40:20,055 - INFO - 0 correct answers in 66 questions
+2025-03-24 04:40:20,055 - INFO - Question 66/100:
+2025-03-24 04:42:34,392 - INFO - Extract answer:  
+2025-03-24 04:42:34,392 - INFO - Correct answer: 12
+2025-03-24 04:42:34,392 - INFO - Wrong answer.
+2025-03-24 04:42:34,392 - INFO - 0 correct answers in 67 questions
+2025-03-24 04:42:34,392 - INFO - Question 67/100:
+2025-03-24 04:44:06,831 - INFO - Extract answer: 43
+2025-03-24 04:44:06,831 - INFO - Correct answer: 36
+2025-03-24 04:44:06,831 - INFO - Wrong answer.
+2025-03-24 04:44:06,831 - INFO - 0 correct answers in 68 questions
+2025-03-24 04:44:06,831 - INFO - Question 68/100:
+2025-03-24 04:44:55,806 - INFO - Extract answer: \dfrac{x+5
+2025-03-24 04:44:55,806 - INFO - Correct answer: \frac{x-5}{3}
+2025-03-24 04:44:55,806 - INFO - Wrong answer.
+2025-03-24 04:44:55,807 - INFO - 0 correct answers in 69 questions
+2025-03-24 04:44:55,807 - INFO - Question 69/100:
+2025-03-24 04:45:35,921 - INFO - Extract answer: -1
+2025-03-24 04:45:35,921 - INFO - Correct answer: 1
+2025-03-24 04:45:35,921 - INFO - Wrong answer.
+2025-03-24 04:45:35,921 - INFO - 0 correct answers in 70 questions
+2025-03-24 04:45:35,921 - INFO - Question 70/100:
+2025-03-24 04:46:31,668 - INFO - Extract answer: 32
+2025-03-24 04:46:31,668 - INFO - Correct answer: 8
+2025-03-24 04:46:31,668 - INFO - Wrong answer.
+2025-03-24 04:46:31,668 - INFO - 0 correct answers in 71 questions
+2025-03-24 04:46:31,668 - INFO - Question 71/100:
+2025-03-24 04:46:51,280 - INFO - Extract answer: 30\%
+2025-03-24 04:46:51,280 - INFO - Correct answer: 0%
+2025-03-24 04:46:51,280 - INFO - Wrong answer.
+2025-03-24 04:46:51,280 - INFO - 0 correct answers in 72 questions
+2025-03-24 04:46:51,280 - INFO - Question 72/100:
+2025-03-24 04:48:02,175 - INFO - Extract answer: 36
+2025-03-24 04:48:02,175 - INFO - Correct answer: 9
+2025-03-24 04:48:02,175 - INFO - Wrong answer.
+2025-03-24 04:48:02,175 - INFO - 0 correct answers in 73 questions
+2025-03-24 04:48:02,175 - INFO - Question 73/100:
+2025-03-24 04:48:36,232 - INFO - Extract answer: x+11
+2025-03-24 04:48:36,232 - INFO - Correct answer: 10+x
+2025-03-24 04:48:36,232 - INFO - Wrong answer.
+2025-03-24 04:48:36,232 - INFO - 0 correct answers in 74 questions
+2025-03-24 04:48:36,232 - INFO - Question 74/100:
+2025-03-24 04:49:47,720 - INFO - Extract answer: 20
+2025-03-24 04:49:47,720 - INFO - Correct answer: 13
+2025-03-24 04:49:47,720 - INFO - Wrong answer.
+2025-03-24 04:49:47,720 - INFO - 0 correct answers in 75 questions
+2025-03-24 04:49:47,720 - INFO - Question 75/100:
+2025-03-24 04:50:36,246 - INFO - Extract answer: 121
+2025-03-24 04:50:36,246 - INFO - Correct answer: 6
+2025-03-24 04:50:36,246 - INFO - Wrong answer.
+2025-03-24 04:50:36,246 - INFO - 0 correct answers in 76 questions
+2025-03-24 04:50:36,246 - INFO - Question 76/100:
+2025-03-24 04:51:05,900 - INFO - Extract answer: 25
+2025-03-24 04:51:05,900 - INFO - Correct answer: 10
+2025-03-24 04:51:05,900 - INFO - Wrong answer.
+2025-03-24 04:51:05,900 - INFO - 0 correct answers in 77 questions
+2025-03-24 04:51:05,900 - INFO - Question 77/100:
+2025-03-24 04:52:03,377 - INFO - Extract answer: \dfrac{1000
+2025-03-24 04:52:03,377 - INFO - Correct answer: \frac{1}{4}
+2025-03-24 04:52:03,377 - INFO - Wrong answer.
+2025-03-24 04:52:03,377 - INFO - 0 correct answers in 78 questions
+2025-03-24 04:52:03,377 - INFO - Question 78/100:
+2025-03-24 04:53:17,561 - INFO - Extract answer: 31
+2025-03-24 04:53:17,561 - INFO - Correct answer: 30
+2025-03-24 04:53:17,561 - INFO - Wrong answer.
+2025-03-24 04:53:17,561 - INFO - 0 correct answers in 79 questions
+2025-03-24 04:53:17,561 - INFO - Question 79/100:
+2025-03-24 04:54:25,410 - INFO - Extract answer: 17
+2025-03-24 04:54:25,410 - INFO - Correct answer: 34
+2025-03-24 04:54:25,410 - INFO - Wrong answer.
+2025-03-24 04:54:25,410 - INFO - 0 correct answers in 80 questions
+2025-03-24 04:54:25,410 - INFO - Question 80/100:
+2025-03-24 04:55:25,144 - INFO - Extract answer: 32
+2025-03-24 04:55:25,144 - INFO - Correct answer: 6
+2025-03-24 04:55:25,144 - INFO - Wrong answer.
+2025-03-24 04:55:25,144 - INFO - 0 correct answers in 81 questions
+2025-03-24 04:55:25,144 - INFO - Question 81/100:
+2025-03-24 04:55:55,726 - INFO - Extract answer: \dfrac{9
+2025-03-24 04:55:55,726 - INFO - Correct answer: \frac{7}{2}
+2025-03-24 04:55:55,726 - INFO - Wrong answer.
+2025-03-24 04:55:55,726 - INFO - 0 correct answers in 82 questions
+2025-03-24 04:55:55,726 - INFO - Question 82/100:
+2025-03-24 04:57:02,777 - INFO - Extract answer: 3.82
+2025-03-24 04:57:02,778 - INFO - Correct answer: 2.62
+2025-03-24 04:57:02,778 - INFO - Wrong answer.
+2025-03-24 04:57:02,778 - INFO - 0 correct answers in 83 questions
+2025-03-24 04:57:02,778 - INFO - Question 83/100:
+2025-03-24 04:57:23,698 - INFO - Extract answer: 900
+2025-03-24 04:57:23,698 - INFO - Correct answer: 300
+2025-03-24 04:57:23,698 - INFO - Wrong answer.
+2025-03-24 04:57:23,698 - INFO - 0 correct answers in 84 questions
+2025-03-24 04:57:23,698 - INFO - Question 84/100:
+2025-03-24 04:58:23,957 - INFO - Extract answer: 4
+2025-03-24 04:58:23,957 - INFO - Correct answer: 1
+2025-03-24 04:58:23,957 - INFO - Wrong answer.
+2025-03-24 04:58:23,957 - INFO - 0 correct answers in 85 questions
+2025-03-24 04:58:23,957 - INFO - Question 85/100:
+2025-03-24 04:59:19,378 - INFO - Extract answer: 2
+2025-03-24 04:59:19,378 - INFO - Correct answer: \infty
+2025-03-24 04:59:19,378 - INFO - Wrong answer.
+2025-03-24 04:59:19,378 - INFO - 0 correct answers in 86 questions
+2025-03-24 04:59:19,378 - INFO - Question 86/100:
+2025-03-24 05:00:35,326 - INFO - Extract answer: \frac{\pi
+2025-03-24 05:00:35,326 - INFO - Correct answer: \frac{\pi}{24}
+2025-03-24 05:00:35,326 - INFO - Wrong answer.
+2025-03-24 05:00:35,326 - INFO - 0 correct answers in 87 questions
+2025-03-24 05:00:35,326 - INFO - Question 87/100:
+2025-03-24 05:02:39,777 - INFO - Extract answer: 6
+2025-03-24 05:02:39,777 - INFO - Correct answer: 16
+2025-03-24 05:02:39,777 - INFO - Wrong answer.
+2025-03-24 05:02:39,778 - INFO - 0 correct answers in 88 questions
+2025-03-24 05:02:39,778 - INFO - Question 88/100:
+2025-03-24 05:03:10,893 - INFO - Extract answer: 900
+2025-03-24 05:03:10,893 - INFO - Correct answer: 899
+2025-03-24 05:03:10,893 - INFO - Wrong answer.
+2025-03-24 05:03:10,893 - INFO - 0 correct answers in 89 questions
+2025-03-24 05:03:10,893 - INFO - Question 89/100:
+2025-03-24 05:04:17,912 - INFO - Extract answer: 112875
+2025-03-24 05:04:17,912 - INFO - Correct answer: 337125
+2025-03-24 05:04:17,912 - INFO - Wrong answer.
+2025-03-24 05:04:17,912 - INFO - 0 correct answers in 90 questions
+2025-03-24 05:04:17,912 - INFO - Question 90/100:
+2025-03-24 05:04:59,714 - INFO - Extract answer: 10
+2025-03-24 05:04:59,714 - INFO - Correct answer: 5
+2025-03-24 05:04:59,714 - INFO - Wrong answer.
+2025-03-24 05:04:59,714 - INFO - 0 correct answers in 91 questions
+2025-03-24 05:04:59,714 - INFO - Question 91/100:
+2025-03-24 05:06:00,888 - INFO - Extract answer: \frac{72
+2025-03-24 05:06:00,888 - INFO - Correct answer: \frac{1}{8}
+2025-03-24 05:06:00,888 - INFO - Wrong answer.
+2025-03-24 05:06:00,888 - INFO - 0 correct answers in 92 questions
+2025-03-24 05:06:00,888 - INFO - Question 92/100:
+2025-03-24 05:06:29,981 - INFO - Extract answer: 20
+2025-03-24 05:06:29,981 - INFO - Correct answer: 8
+2025-03-24 05:06:29,981 - INFO - Wrong answer.
+2025-03-24 05:06:29,981 - INFO - 0 correct answers in 93 questions
+2025-03-24 05:06:29,981 - INFO - Question 93/100:
+2025-03-24 05:08:43,806 - INFO - Extract answer:  
+2025-03-24 05:08:43,806 - INFO - Correct answer: 0.53
+2025-03-24 05:08:43,806 - INFO - Wrong answer.
+2025-03-24 05:08:43,806 - INFO - 0 correct answers in 94 questions
+2025-03-24 05:08:43,806 - INFO - Question 94/100:
+2025-03-24 05:09:44,617 - INFO - Extract answer: 0.508
+2025-03-24 05:09:44,617 - INFO - Correct answer: 0.292
+2025-03-24 05:09:44,617 - INFO - Wrong answer.
+2025-03-24 05:09:44,617 - INFO - 0 correct answers in 95 questions
+2025-03-24 05:09:44,617 - INFO - Question 95/100:
+2025-03-24 05:10:16,813 - INFO - Extract answer: 12
+2025-03-24 05:10:16,813 - INFO - Correct answer: 3
+2025-03-24 05:10:16,813 - INFO - Wrong answer.
+2025-03-24 05:10:16,813 - INFO - 0 correct answers in 96 questions
+2025-03-24 05:10:16,813 - INFO - Question 96/100:
+2025-03-24 05:12:27,502 - INFO - Extract answer: -34
+2025-03-24 05:12:27,502 - INFO - Correct answer: 3
+2025-03-24 05:12:27,502 - INFO - Wrong answer.
+2025-03-24 05:12:27,502 - INFO - 0 correct answers in 97 questions
+2025-03-24 05:12:27,502 - INFO - Question 97/100:
+2025-03-24 05:14:40,245 - INFO - Extract answer:  
+2025-03-24 05:14:40,245 - INFO - Correct answer: 11
+2025-03-24 05:14:40,245 - INFO - Wrong answer.
+2025-03-24 05:14:40,245 - INFO - 0 correct answers in 98 questions
+2025-03-24 05:14:40,245 - INFO - Question 98/100:
+2025-03-24 05:15:02,666 - INFO - Extract answer: 320
+2025-03-24 05:15:02,666 - INFO - Correct answer: 225
+2025-03-24 05:15:02,666 - INFO - Wrong answer.
+2025-03-24 05:15:02,666 - INFO - 0 correct answers in 99 questions
+2025-03-24 05:15:02,666 - INFO - Question 99/100:
+2025-03-24 05:15:22,238 - INFO - Extract answer: 234
+2025-03-24 05:15:22,238 - INFO - Correct answer: $227.50
+2025-03-24 05:15:22,238 - INFO - Wrong answer.
+2025-03-24 05:15:22,238 - INFO - 0 correct answers in 100 questions
+2025-03-24 05:15:22,238 - INFO - Acc in run 1: 0.0
+2025-03-24 05:15:22,238 - INFO - Question 0/100:
+2025-03-24 05:16:09,396 - INFO - Extract answer: 50
+2025-03-24 05:16:09,396 - INFO - Correct answer: 2500
+2025-03-24 05:16:09,396 - INFO - Wrong answer.
+2025-03-24 05:16:09,397 - INFO - 0 correct answers in 1 questions
+2025-03-24 05:16:09,397 - INFO - Question 1/100:
+2025-03-24 05:16:53,046 - INFO - Extract answer: \dfrac{8
+2025-03-24 05:16:53,046 - INFO - Correct answer: \frac{7}{9}
+2025-03-24 05:16:53,046 - INFO - Wrong answer.
+2025-03-24 05:16:53,046 - INFO - 0 correct answers in 2 questions
+2025-03-24 05:16:53,047 - INFO - Question 2/100:
+2025-03-24 05:18:12,693 - INFO - Extract answer: (-\infty, 8)
+2025-03-24 05:18:12,693 - INFO - Correct answer: (-inf, 10)
+2025-03-24 05:18:12,693 - INFO - Wrong answer.
+2025-03-24 05:18:12,693 - INFO - 0 correct answers in 3 questions
+2025-03-24 05:18:12,693 - INFO - Question 3/100:
+2025-03-24 05:20:03,702 - INFO - Extract answer: 72
+2025-03-24 05:20:03,702 - INFO - Correct answer: 396
+2025-03-24 05:20:03,702 - INFO - Wrong answer.
+2025-03-24 05:20:03,702 - INFO - 0 correct answers in 4 questions
+2025-03-24 05:20:03,702 - INFO - Question 4/100:
+2025-03-24 05:20:58,773 - INFO - Extract answer: 0.24
+2025-03-24 05:20:58,773 - INFO - Correct answer: 0.16
+2025-03-24 05:20:58,773 - INFO - Wrong answer.
+2025-03-24 05:20:58,773 - INFO - 0 correct answers in 5 questions
+2025-03-24 05:20:58,773 - INFO - Question 5/100:
+2025-03-24 05:21:35,089 - INFO - Extract answer: \frac{25
+2025-03-24 05:21:35,089 - INFO - Correct answer: \frac{125}{648}
+2025-03-24 05:21:35,089 - INFO - Wrong answer.
+2025-03-24 05:21:35,089 - INFO - 0 correct answers in 6 questions
+2025-03-24 05:21:35,089 - INFO - Question 6/100:
+2025-03-24 05:23:40,405 - INFO - Extract answer: 10
+2025-03-24 05:23:40,405 - INFO - Correct answer: 8
+2025-03-24 05:23:40,405 - INFO - Wrong answer.
+2025-03-24 05:23:40,405 - INFO - 0 correct answers in 7 questions
+2025-03-24 05:23:40,405 - INFO - Question 7/100:
+2025-03-24 05:25:41,720 - INFO - Extract answer: 2
+2025-03-24 05:25:41,720 - INFO - Correct answer: 13
+2025-03-24 05:25:41,720 - INFO - Wrong answer.
+2025-03-24 05:25:41,720 - INFO - 0 correct answers in 8 questions
+2025-03-24 05:25:41,720 - INFO - Question 8/100:
+2025-03-24 05:27:55,849 - INFO - Extract answer:  
+2025-03-24 05:27:55,849 - INFO - Correct answer: 30
+2025-03-24 05:27:55,849 - INFO - Wrong answer.
+2025-03-24 05:27:55,849 - INFO - 0 correct answers in 9 questions
+2025-03-24 05:27:55,850 - INFO - Question 9/100:
+2025-03-24 05:29:07,109 - INFO - Extract answer: 4
+2025-03-24 05:29:07,109 - INFO - Correct answer: 0
+2025-03-24 05:29:07,110 - INFO - Wrong answer.
+2025-03-24 05:29:07,110 - INFO - 0 correct answers in 10 questions
+2025-03-24 05:29:07,110 - INFO - Question 10/100:
+2025-03-24 05:29:43,049 - INFO - Extract answer: 93
+2025-03-24 05:29:43,049 - INFO - Correct answer: 92
+2025-03-24 05:29:43,049 - INFO - Wrong answer.
+2025-03-24 05:29:43,049 - INFO - 0 correct answers in 11 questions
+2025-03-24 05:29:43,049 - INFO - Question 11/100:
+2025-03-24 05:31:04,185 - INFO - Extract answer: L \leq M \leq T \leq R
+2025-03-24 05:31:04,185 - INFO - Correct answer: R <= T <= M <= L
+2025-03-24 05:31:04,185 - INFO - Wrong answer.
+2025-03-24 05:31:04,185 - INFO - 0 correct answers in 12 questions
+2025-03-24 05:31:04,185 - INFO - Question 12/100:
+2025-03-24 05:32:04,484 - INFO - Extract answer: 5+2\sqrt{13
+2025-03-24 05:32:04,484 - INFO - Correct answer: 16
+2025-03-24 05:32:04,484 - INFO - Wrong answer.
+2025-03-24 05:32:04,484 - INFO - 0 correct answers in 13 questions
+2025-03-24 05:32:04,484 - INFO - Question 13/100:
+2025-03-24 05:34:15,269 - INFO - Extract answer:  
+2025-03-24 05:34:15,269 - INFO - Correct answer: -2
+2025-03-24 05:34:15,269 - INFO - Wrong answer.
+2025-03-24 05:34:15,269 - INFO - 0 correct answers in 14 questions
+2025-03-24 05:34:15,269 - INFO - Question 14/100:
+2025-03-24 05:35:24,087 - INFO - Extract answer: (-\infty, 0) \cup (0, \infty)
+2025-03-24 05:35:24,087 - INFO - Correct answer: (-\infty,-1)\cup (1,\infty)
+2025-03-24 05:35:24,087 - INFO - Wrong answer.
+2025-03-24 05:35:24,087 - INFO - 0 correct answers in 15 questions
+2025-03-24 05:35:24,087 - INFO - Question 15/100:
+2025-03-24 05:36:31,257 - INFO - Extract answer: -\frac{x-4
+2025-03-24 05:36:31,257 - INFO - Correct answer: \frac{5}{x-4}
+2025-03-24 05:36:31,257 - INFO - Wrong answer.
+2025-03-24 05:36:31,257 - INFO - 0 correct answers in 16 questions
+2025-03-24 05:36:31,257 - INFO - Question 16/100:
+2025-03-24 05:37:45,824 - INFO - Extract answer: 8
+2025-03-24 05:37:45,825 - INFO - Correct answer: 7
+2025-03-24 05:37:45,825 - INFO - Wrong answer.
+2025-03-24 05:37:45,825 - INFO - 0 correct answers in 17 questions
+2025-03-24 05:37:45,825 - INFO - Question 17/100:
+2025-03-24 05:38:54,675 - INFO - Extract answer: 8
+2025-03-24 05:38:54,676 - INFO - Correct answer: 4
+2025-03-24 05:38:54,676 - INFO - Wrong answer.
+2025-03-24 05:38:54,676 - INFO - 0 correct answers in 18 questions
+2025-03-24 05:38:54,676 - INFO - Question 18/100:
+2025-03-24 05:39:35,200 - INFO - Extract answer: 15
+2025-03-24 05:39:35,200 - INFO - Correct answer: 5
+2025-03-24 05:39:35,200 - INFO - Wrong answer.
+2025-03-24 05:39:35,200 - INFO - 0 correct answers in 19 questions
+2025-03-24 05:39:35,200 - INFO - Question 19/100:
+2025-03-24 05:39:49,772 - INFO - Extract answer: 70
+2025-03-24 05:39:49,772 - INFO - Correct answer: 145
+2025-03-24 05:39:49,772 - INFO - Wrong answer.
+2025-03-24 05:39:49,772 - INFO - 0 correct answers in 20 questions
+2025-03-24 05:39:49,772 - INFO - Question 20/100:
+2025-03-24 05:40:13,553 - INFO - Extract answer: 20
+2025-03-24 05:40:13,553 - INFO - Correct answer: 2 min
+2025-03-24 05:40:13,554 - INFO - Wrong answer.
+2025-03-24 05:40:13,554 - INFO - 0 correct answers in 21 questions
+2025-03-24 05:40:13,554 - INFO - Question 21/100:
+2025-03-24 05:40:51,752 - INFO - Extract answer: (-\infty, -1) \cup (4, \infty)
+2025-03-24 05:40:51,752 - INFO - Correct answer: (-4,4)
+2025-03-24 05:40:51,752 - INFO - Wrong answer.
+2025-03-24 05:40:51,752 - INFO - 0 correct answers in 22 questions
+2025-03-24 05:40:51,752 - INFO - Question 22/100:
+2025-03-24 05:42:12,136 - INFO - Extract answer: \dfrac{1
+2025-03-24 05:42:12,136 - INFO - Correct answer: 1
+2025-03-24 05:42:12,136 - INFO - Wrong answer.
+2025-03-24 05:42:12,136 - INFO - 0 correct answers in 23 questions
+2025-03-24 05:42:12,136 - INFO - Question 23/100:
+2025-03-24 05:42:31,874 - INFO - Extract answer: 0
+2025-03-24 05:42:31,874 - INFO - Correct answer: 1
+2025-03-24 05:42:31,874 - INFO - Wrong answer.
+2025-03-24 05:42:31,874 - INFO - 0 correct answers in 24 questions
+2025-03-24 05:42:31,874 - INFO - Question 24/100:
+2025-03-24 05:43:37,676 - INFO - Extract answer: 240
+2025-03-24 05:43:37,676 - INFO - Correct answer: 12
+2025-03-24 05:43:37,676 - INFO - Wrong answer.
+2025-03-24 05:43:37,676 - INFO - 0 correct answers in 25 questions
+2025-03-24 05:43:37,676 - INFO - Question 25/100:
+2025-03-24 05:45:09,354 - INFO - Extract answer: 17
+2025-03-24 05:45:09,354 - INFO - Correct answer: 15
+2025-03-24 05:45:09,354 - INFO - Wrong answer.
+2025-03-24 05:45:09,354 - INFO - 0 correct answers in 26 questions
+2025-03-24 05:45:09,354 - INFO - Question 26/100:
+2025-03-24 05:46:18,147 - INFO - Extract answer: 98770
+2025-03-24 05:46:18,147 - INFO - Correct answer: 252
+2025-03-24 05:46:18,147 - INFO - Wrong answer.
+2025-03-24 05:46:18,147 - INFO - 0 correct answers in 27 questions
+2025-03-24 05:46:18,147 - INFO - Question 27/100:
+2025-03-24 05:46:56,939 - INFO - Extract answer: 5.5
+2025-03-24 05:46:56,939 - INFO - Correct answer: 4.5
+2025-03-24 05:46:56,939 - INFO - Wrong answer.
+2025-03-24 05:46:56,939 - INFO - 0 correct answers in 28 questions
+2025-03-24 05:46:56,939 - INFO - Question 28/100:
+2025-03-24 05:48:24,345 - INFO - Extract answer: -3
+2025-03-24 05:48:24,345 - INFO - Correct answer: 1
+2025-03-24 05:48:24,345 - INFO - Wrong answer.
+2025-03-24 05:48:24,345 - INFO - 0 correct answers in 29 questions
+2025-03-24 05:48:24,345 - INFO - Question 29/100:
+2025-03-24 05:48:51,922 - INFO - Extract answer: 10
+2025-03-24 05:48:51,922 - INFO - Correct answer: 4
+2025-03-24 05:48:51,922 - INFO - Wrong answer.
+2025-03-24 05:48:51,922 - INFO - 0 correct answers in 30 questions
+2025-03-24 05:48:51,922 - INFO - Question 30/100:
+2025-03-24 05:50:09,585 - INFO - Extract answer: Devon
+2025-03-24 05:50:09,586 - INFO - Correct answer: Alice
+2025-03-24 05:50:09,586 - INFO - Wrong answer.
+2025-03-24 05:50:09,586 - INFO - 0 correct answers in 31 questions
+2025-03-24 05:50:09,586 - INFO - Question 31/100:
+2025-03-24 05:50:35,670 - INFO - Extract answer: 9(2-x)(2+x)
+2025-03-24 05:50:35,670 - INFO - Correct answer: (6-3x)(6+3x)
+2025-03-24 05:50:35,670 - INFO - Wrong answer.
+2025-03-24 05:50:35,670 - INFO - 0 correct answers in 32 questions
+2025-03-24 05:50:35,670 - INFO - Question 32/100:
+2025-03-24 05:51:38,094 - INFO - Extract answer: 5200
+2025-03-24 05:51:38,094 - INFO - Correct answer: 100
+2025-03-24 05:51:38,095 - INFO - Wrong answer.
+2025-03-24 05:51:38,095 - INFO - 0 correct answers in 33 questions
+2025-03-24 05:51:38,095 - INFO - Question 33/100:
+2025-03-24 05:52:18,583 - INFO - Extract answer: \frac{1
+2025-03-24 05:52:18,583 - INFO - Correct answer: \frac{1}{8}
+2025-03-24 05:52:18,584 - INFO - Wrong answer.
+2025-03-24 05:52:18,584 - INFO - 0 correct answers in 34 questions
+2025-03-24 05:52:18,584 - INFO - Question 34/100:
+2025-03-24 05:52:54,797 - INFO - Extract answer: 199
+2025-03-24 05:52:54,798 - INFO - Correct answer: 5
+2025-03-24 05:52:54,798 - INFO - Wrong answer.
+2025-03-24 05:52:54,798 - INFO - 0 correct answers in 35 questions
+2025-03-24 05:52:54,798 - INFO - Question 35/100:
+2025-03-24 05:54:51,603 - INFO - Extract answer: 72
+2025-03-24 05:54:51,603 - INFO - Correct answer: 792
+2025-03-24 05:54:51,603 - INFO - Wrong answer.
+2025-03-24 05:54:51,603 - INFO - 0 correct answers in 36 questions
+2025-03-24 05:54:51,603 - INFO - Question 36/100:
+2025-03-24 05:55:48,333 - INFO - Extract answer: -75
+2025-03-24 05:55:48,333 - INFO - Correct answer: 5
+2025-03-24 05:55:48,333 - INFO - Wrong answer.
+2025-03-24 05:55:48,333 - INFO - 0 correct answers in 37 questions
+2025-03-24 05:55:48,333 - INFO - Question 37/100:
+2025-03-24 05:56:52,789 - INFO - Extract answer: \frac{1
+2025-03-24 05:56:52,789 - INFO - Correct answer: \frac{1}{27}
+2025-03-24 05:56:52,789 - INFO - Wrong answer.
+2025-03-24 05:56:52,789 - INFO - 0 correct answers in 38 questions
+2025-03-24 05:56:52,789 - INFO - Question 38/100:
+2025-03-24 05:58:35,005 - INFO - Extract answer: 9
+2025-03-24 05:58:35,005 - INFO - Correct answer: 1
+2025-03-24 05:58:35,005 - INFO - Wrong answer.
+2025-03-24 05:58:35,005 - INFO - 0 correct answers in 39 questions
+2025-03-24 05:58:35,005 - INFO - Question 39/100:
+2025-03-24 05:59:12,012 - INFO - Extract answer: 42
+2025-03-24 05:59:12,012 - INFO - Correct answer: 43
+2025-03-24 05:59:12,012 - INFO - Wrong answer.
+2025-03-24 05:59:12,012 - INFO - 0 correct answers in 40 questions
+2025-03-24 05:59:12,012 - INFO - Question 40/100:
+2025-03-24 05:59:42,331 - INFO - Extract answer: \dfrac{1
+2025-03-24 05:59:42,331 - INFO - Correct answer: \frac{1}{6}
+2025-03-24 05:59:42,331 - INFO - Wrong answer.
+2025-03-24 05:59:42,332 - INFO - 0 correct answers in 41 questions
+2025-03-24 05:59:42,332 - INFO - Question 41/100:
+2025-03-24 06:00:42,351 - INFO - Extract answer: \frac{1
+2025-03-24 06:00:42,351 - INFO - Correct answer: 3
+2025-03-24 06:00:42,351 - INFO - Wrong answer.
+2025-03-24 06:00:42,351 - INFO - 0 correct answers in 42 questions
+2025-03-24 06:00:42,351 - INFO - Question 42/100:
+2025-03-24 06:01:22,775 - INFO - Extract answer: 5, 5
+2025-03-24 06:01:22,775 - INFO - Correct answer: 4, 7
+2025-03-24 06:01:22,775 - INFO - Wrong answer.
+2025-03-24 06:01:22,775 - INFO - 0 correct answers in 43 questions
+2025-03-24 06:01:22,775 - INFO - Question 43/100:
+2025-03-24 06:02:05,969 - INFO - Extract answer: 120
+2025-03-24 06:02:05,969 - INFO - Correct answer: 1
+2025-03-24 06:02:05,969 - INFO - Wrong answer.
+2025-03-24 06:02:05,969 - INFO - 0 correct answers in 44 questions
+2025-03-24 06:02:05,969 - INFO - Question 44/100:
+2025-03-24 06:03:29,559 - INFO - Extract answer: -2
+2025-03-24 06:03:29,559 - INFO - Correct answer: 1
+2025-03-24 06:03:29,559 - INFO - Wrong answer.
+2025-03-24 06:03:29,559 - INFO - 0 correct answers in 45 questions
+2025-03-24 06:03:29,559 - INFO - Question 45/100:
+2025-03-24 06:04:46,658 - INFO - Extract answer: 2408
+2025-03-24 06:04:46,658 - INFO - Correct answer: 1160
+2025-03-24 06:04:46,658 - INFO - Wrong answer.
+2025-03-24 06:04:46,658 - INFO - 0 correct answers in 46 questions
+2025-03-24 06:04:46,658 - INFO - Question 46/100:
+2025-03-24 06:05:12,891 - INFO - Extract answer: 4.875
+2025-03-24 06:05:12,891 - INFO - Correct answer: 0.615
+2025-03-24 06:05:12,891 - INFO - Wrong answer.
+2025-03-24 06:05:12,891 - INFO - 0 correct answers in 47 questions
+2025-03-24 06:05:12,891 - INFO - Question 47/100:
+2025-03-24 06:06:51,542 - INFO - Extract answer: 608
+2025-03-24 06:06:51,542 - INFO - Correct answer: 211
+2025-03-24 06:06:51,542 - INFO - Wrong answer.
+2025-03-24 06:06:51,542 - INFO - 0 correct answers in 48 questions
+2025-03-24 06:06:51,542 - INFO - Question 48/100:
+2025-03-24 06:07:27,501 - INFO - Extract answer: -128
+2025-03-24 06:07:27,501 - INFO - Correct answer: -8
+2025-03-24 06:07:27,501 - INFO - Wrong answer.
+2025-03-24 06:07:27,501 - INFO - 0 correct answers in 49 questions
+2025-03-24 06:07:27,501 - INFO - Question 49/100:
+2025-03-24 06:08:09,035 - INFO - Extract answer: 5
+2025-03-24 06:08:09,035 - INFO - Correct answer: 3
+2025-03-24 06:08:09,035 - INFO - Wrong answer.
+2025-03-24 06:08:09,035 - INFO - 0 correct answers in 50 questions
+2025-03-24 06:08:09,035 - INFO - Question 50/100:
+2025-03-24 06:09:42,687 - INFO - Extract answer: 6
+2025-03-24 06:09:42,687 - INFO - Correct answer: 72
+2025-03-24 06:09:42,687 - INFO - Wrong answer.
+2025-03-24 06:09:42,687 - INFO - 0 correct answers in 51 questions
+2025-03-24 06:09:42,687 - INFO - Question 51/100:
+2025-03-24 06:10:17,079 - INFO - Extract answer: \dfrac{1
+2025-03-24 06:10:17,080 - INFO - Correct answer: \frac{1}{12}
+2025-03-24 06:10:17,080 - INFO - Wrong answer.
+2025-03-24 06:10:17,080 - INFO - 0 correct answers in 52 questions
+2025-03-24 06:10:17,080 - INFO - Question 52/100:
+2025-03-24 06:10:46,831 - INFO - Extract answer: 625
+2025-03-24 06:10:46,831 - INFO - Correct answer: 100
+2025-03-24 06:10:46,831 - INFO - Wrong answer.
+2025-03-24 06:10:46,831 - INFO - 0 correct answers in 53 questions
+2025-03-24 06:10:46,831 - INFO - Question 53/100:
+2025-03-24 06:11:39,078 - INFO - Extract answer: \frac{15
+2025-03-24 06:11:39,078 - INFO - Correct answer: \frac{7}{15}
+2025-03-24 06:11:39,078 - INFO - Wrong answer.
+2025-03-24 06:11:39,078 - INFO - 0 correct answers in 54 questions
+2025-03-24 06:11:39,078 - INFO - Question 54/100:
+2025-03-24 06:12:31,232 - INFO - Extract answer: 64
+2025-03-24 06:12:31,232 - INFO - Correct answer: -5
+2025-03-24 06:12:31,232 - INFO - Wrong answer.
+2025-03-24 06:12:31,232 - INFO - 0 correct answers in 55 questions
+2025-03-24 06:12:31,232 - INFO - Question 55/100:
+2025-03-24 06:14:09,647 - INFO - Extract answer: 1
+2025-03-24 06:14:09,647 - INFO - Correct answer: 2
+2025-03-24 06:14:09,647 - INFO - Wrong answer.
+2025-03-24 06:14:09,647 - INFO - 0 correct answers in 56 questions
+2025-03-24 06:14:09,647 - INFO - Question 56/100:
+2025-03-24 06:16:25,008 - INFO - Extract answer:  
+2025-03-24 06:16:25,008 - INFO - Correct answer: 10240
+2025-03-24 06:16:25,008 - INFO - Wrong answer.
+2025-03-24 06:16:25,008 - INFO - 0 correct answers in 57 questions
+2025-03-24 06:16:25,008 - INFO - Question 57/100:
+2025-03-24 06:17:36,805 - INFO - Extract answer: Friday
+2025-03-24 06:17:36,805 - INFO - Correct answer: Wednesday
+2025-03-24 06:17:36,805 - INFO - Wrong answer.
+2025-03-24 06:17:36,805 - INFO - 0 correct answers in 58 questions
+2025-03-24 06:17:36,805 - INFO - Question 58/100:
+2025-03-24 06:18:28,190 - INFO - Extract answer: January 21st
+2025-03-24 06:18:28,190 - INFO - Correct answer: January 10th
+2025-03-24 06:18:28,190 - INFO - Wrong answer.
+2025-03-24 06:18:28,190 - INFO - 0 correct answers in 59 questions
+2025-03-24 06:18:28,190 - INFO - Question 59/100:
+2025-03-24 06:19:13,975 - INFO - Extract answer: 76
+2025-03-24 06:19:13,975 - INFO - Correct answer: 75
+2025-03-24 06:19:13,975 - INFO - Wrong answer.
+2025-03-24 06:19:13,975 - INFO - 0 correct answers in 60 questions
+2025-03-24 06:19:13,976 - INFO - Question 60/100:
+2025-03-24 06:21:28,993 - INFO - Extract answer:  
+2025-03-24 06:21:28,993 - INFO - Correct answer: 11
+2025-03-24 06:21:28,993 - INFO - Wrong answer.
+2025-03-24 06:21:28,993 - INFO - 0 correct answers in 61 questions
+2025-03-24 06:21:28,994 - INFO - Question 61/100:
+2025-03-24 06:21:35,623 - INFO - Extract answer: 12
+2025-03-24 06:21:35,623 - INFO - Correct answer: 6
+2025-03-24 06:21:35,623 - INFO - Wrong answer.
+2025-03-24 06:21:35,623 - INFO - 0 correct answers in 62 questions
+2025-03-24 06:21:35,623 - INFO - Question 62/100:
+2025-03-24 06:22:14,949 - INFO - Extract answer: 80
+2025-03-24 06:22:14,949 - INFO - Correct answer: 9
+2025-03-24 06:22:14,949 - INFO - Wrong answer.
+2025-03-24 06:22:14,949 - INFO - 0 correct answers in 63 questions
+2025-03-24 06:22:14,949 - INFO - Question 63/100:
+2025-03-24 06:22:55,667 - INFO - Extract answer: 5k
+2025-03-24 06:22:55,667 - INFO - Correct answer: 3k+1
+2025-03-24 06:22:55,667 - INFO - Wrong answer.
+2025-03-24 06:22:55,667 - INFO - 0 correct answers in 64 questions
+2025-03-24 06:22:55,667 - INFO - Question 64/100:
+2025-03-24 06:23:46,218 - INFO - Extract answer: 18
+2025-03-24 06:23:46,218 - INFO - Correct answer: 3
+2025-03-24 06:23:46,218 - INFO - Wrong answer.
+2025-03-24 06:23:46,218 - INFO - 0 correct answers in 65 questions
+2025-03-24 06:23:46,218 - INFO - Question 65/100:
+2025-03-24 06:25:27,481 - INFO - Extract answer: 3.2
+2025-03-24 06:25:27,481 - INFO - Correct answer: 0.01
+2025-03-24 06:25:27,481 - INFO - Wrong answer.
+2025-03-24 06:25:27,481 - INFO - 0 correct answers in 66 questions
+2025-03-24 06:25:27,481 - INFO - Question 66/100:
+2025-03-24 06:27:41,685 - INFO - Extract answer:  
+2025-03-24 06:27:41,685 - INFO - Correct answer: 12
+2025-03-24 06:27:41,685 - INFO - Wrong answer.
+2025-03-24 06:27:41,685 - INFO - 0 correct answers in 67 questions
+2025-03-24 06:27:41,685 - INFO - Question 67/100:
+2025-03-24 06:28:17,080 - INFO - Extract answer: 38
+2025-03-24 06:28:17,080 - INFO - Correct answer: 36
+2025-03-24 06:28:17,080 - INFO - Wrong answer.
+2025-03-24 06:28:17,080 - INFO - 0 correct answers in 68 questions
+2025-03-24 06:28:17,080 - INFO - Question 68/100:
+2025-03-24 06:29:02,086 - INFO - Extract answer: \frac{x + 5
+2025-03-24 06:29:02,086 - INFO - Correct answer: \frac{x-5}{3}
+2025-03-24 06:29:02,086 - INFO - Wrong answer.
+2025-03-24 06:29:02,086 - INFO - 0 correct answers in 69 questions
+2025-03-24 06:29:02,086 - INFO - Question 69/100:
+2025-03-24 06:29:49,329 - INFO - Extract answer: -1
+2025-03-24 06:29:49,329 - INFO - Correct answer: 1
+2025-03-24 06:29:49,329 - INFO - Wrong answer.
+2025-03-24 06:29:49,329 - INFO - 0 correct answers in 70 questions
+2025-03-24 06:29:49,329 - INFO - Question 70/100:
+2025-03-24 06:30:51,322 - INFO - Extract answer: 32
+2025-03-24 06:30:51,322 - INFO - Correct answer: 8
+2025-03-24 06:30:51,322 - INFO - Wrong answer.
+2025-03-24 06:30:51,322 - INFO - 0 correct answers in 71 questions
+2025-03-24 06:30:51,322 - INFO - Question 71/100:
+2025-03-24 06:31:02,594 - INFO - Extract answer: 30\%
+2025-03-24 06:31:02,594 - INFO - Correct answer: 0%
+2025-03-24 06:31:02,594 - INFO - Wrong answer.
+2025-03-24 06:31:02,594 - INFO - 0 correct answers in 72 questions
+2025-03-24 06:31:02,594 - INFO - Question 72/100:
+2025-03-24 06:32:09,899 - INFO - Extract answer: 36
+2025-03-24 06:32:09,899 - INFO - Correct answer: 9
+2025-03-24 06:32:09,899 - INFO - Wrong answer.
+2025-03-24 06:32:09,899 - INFO - 0 correct answers in 73 questions
+2025-03-24 06:32:09,899 - INFO - Question 73/100:
+2025-03-24 06:32:44,587 - INFO - Extract answer: x+11
+2025-03-24 06:32:44,587 - INFO - Correct answer: 10+x
+2025-03-24 06:32:44,587 - INFO - Wrong answer.
+2025-03-24 06:32:44,587 - INFO - 0 correct answers in 74 questions
+2025-03-24 06:32:44,587 - INFO - Question 74/100:
+2025-03-24 06:33:54,989 - INFO - Extract answer: 20
+2025-03-24 06:33:54,989 - INFO - Correct answer: 13
+2025-03-24 06:33:54,989 - INFO - Wrong answer.
+2025-03-24 06:33:54,989 - INFO - 0 correct answers in 75 questions
+2025-03-24 06:33:54,989 - INFO - Question 75/100:
+2025-03-24 06:34:06,003 - INFO - Extract answer: 18107
+2025-03-24 06:34:06,003 - INFO - Correct answer: 6
+2025-03-24 06:34:06,003 - INFO - Wrong answer.
+2025-03-24 06:34:06,003 - INFO - 0 correct answers in 76 questions
+2025-03-24 06:34:06,003 - INFO - Question 76/100:
+2025-03-24 06:34:32,395 - INFO - Extract answer: 25
+2025-03-24 06:34:32,395 - INFO - Correct answer: 10
+2025-03-24 06:34:32,395 - INFO - Wrong answer.
+2025-03-24 06:34:32,395 - INFO - 0 correct answers in 77 questions
+2025-03-24 06:34:32,395 - INFO - Question 77/100:
+2025-03-24 06:36:45,241 - INFO - Extract answer:  
+2025-03-24 06:36:45,241 - INFO - Correct answer: \frac{1}{4}
+2025-03-24 06:36:45,241 - INFO - Wrong answer.
+2025-03-24 06:36:45,241 - INFO - 0 correct answers in 78 questions
+2025-03-24 06:36:45,241 - INFO - Question 78/100:
+2025-03-24 06:37:53,817 - INFO - Extract answer: 31
+2025-03-24 06:37:53,817 - INFO - Correct answer: 30
+2025-03-24 06:37:53,817 - INFO - Wrong answer.
+2025-03-24 06:37:53,817 - INFO - 0 correct answers in 79 questions
+2025-03-24 06:37:53,817 - INFO - Question 79/100:
+2025-03-24 06:39:04,542 - INFO - Extract answer: 17
+2025-03-24 06:39:04,542 - INFO - Correct answer: 34
+2025-03-24 06:39:04,542 - INFO - Wrong answer.
+2025-03-24 06:39:04,542 - INFO - 0 correct answers in 80 questions
+2025-03-24 06:39:04,542 - INFO - Question 80/100:
+2025-03-24 06:40:20,862 - INFO - Extract answer: 32
+2025-03-24 06:40:20,862 - INFO - Correct answer: 6
+2025-03-24 06:40:20,862 - INFO - Wrong answer.
+2025-03-24 06:40:20,862 - INFO - 0 correct answers in 81 questions
+2025-03-24 06:40:20,862 - INFO - Question 81/100:
+2025-03-24 06:41:03,364 - INFO - Extract answer: \frac{9
+2025-03-24 06:41:03,364 - INFO - Correct answer: \frac{7}{2}
+2025-03-24 06:41:03,364 - INFO - Wrong answer.
+2025-03-24 06:41:03,364 - INFO - 0 correct answers in 82 questions
+2025-03-24 06:41:03,364 - INFO - Question 82/100:
+2025-03-24 06:41:42,464 - INFO - Extract answer: 3.82
+2025-03-24 06:41:42,464 - INFO - Correct answer: 2.62
+2025-03-24 06:41:42,464 - INFO - Wrong answer.
+2025-03-24 06:41:42,464 - INFO - 0 correct answers in 83 questions
+2025-03-24 06:41:42,464 - INFO - Question 83/100:
+2025-03-24 06:42:06,134 - INFO - Extract answer: 900
+2025-03-24 06:42:06,134 - INFO - Correct answer: 300
+2025-03-24 06:42:06,134 - INFO - Wrong answer.
+2025-03-24 06:42:06,134 - INFO - 0 correct answers in 84 questions
+2025-03-24 06:42:06,134 - INFO - Question 84/100:
+2025-03-24 06:43:08,060 - INFO - Extract answer: 4
+2025-03-24 06:43:08,060 - INFO - Correct answer: 1
+2025-03-24 06:43:08,060 - INFO - Wrong answer.
+2025-03-24 06:43:08,060 - INFO - 0 correct answers in 85 questions
+2025-03-24 06:43:08,060 - INFO - Question 85/100:
+2025-03-24 06:44:09,628 - INFO - Extract answer: 2
+2025-03-24 06:44:09,628 - INFO - Correct answer: \infty
+2025-03-24 06:44:09,628 - INFO - Wrong answer.
+2025-03-24 06:44:09,628 - INFO - 0 correct answers in 86 questions
+2025-03-24 06:44:09,628 - INFO - Question 86/100:
+2025-03-24 06:44:40,974 - INFO - Extract answer: \frac{\pi
+2025-03-24 06:44:40,974 - INFO - Correct answer: \frac{\pi}{24}
+2025-03-24 06:44:40,974 - INFO - Wrong answer.
+2025-03-24 06:44:40,974 - INFO - 0 correct answers in 87 questions
+2025-03-24 06:44:40,974 - INFO - Question 87/100:
+2025-03-24 06:46:34,099 - INFO - Extract answer: 6
+2025-03-24 06:46:34,099 - INFO - Correct answer: 16
+2025-03-24 06:46:34,099 - INFO - Wrong answer.
+2025-03-24 06:46:34,099 - INFO - 0 correct answers in 88 questions
+2025-03-24 06:46:34,099 - INFO - Question 88/100:
+2025-03-24 06:47:00,561 - INFO - Extract answer: 900
+2025-03-24 06:47:00,561 - INFO - Correct answer: 899
+2025-03-24 06:47:00,561 - INFO - Wrong answer.
+2025-03-24 06:47:00,561 - INFO - 0 correct answers in 89 questions
+2025-03-24 06:47:00,561 - INFO - Question 89/100:
+2025-03-24 06:48:06,883 - INFO - Extract answer: 112875
+2025-03-24 06:48:06,883 - INFO - Correct answer: 337125
+2025-03-24 06:48:06,883 - INFO - Wrong answer.
+2025-03-24 06:48:06,883 - INFO - 0 correct answers in 90 questions
+2025-03-24 06:48:06,883 - INFO - Question 90/100:
+2025-03-24 06:48:47,580 - INFO - Extract answer: 10
+2025-03-24 06:48:47,580 - INFO - Correct answer: 5
+2025-03-24 06:48:47,580 - INFO - Wrong answer.
+2025-03-24 06:48:47,580 - INFO - 0 correct answers in 91 questions
+2025-03-24 06:48:47,580 - INFO - Question 91/100:
+2025-03-24 06:49:45,722 - INFO - Extract answer: \dfrac{72
+2025-03-24 06:49:45,722 - INFO - Correct answer: \frac{1}{8}
+2025-03-24 06:49:45,722 - INFO - Wrong answer.
+2025-03-24 06:49:45,723 - INFO - 0 correct answers in 92 questions
+2025-03-24 06:49:45,723 - INFO - Question 92/100:
+2025-03-24 06:50:17,889 - INFO - Extract answer: 20
+2025-03-24 06:50:17,889 - INFO - Correct answer: 8
+2025-03-24 06:50:17,889 - INFO - Wrong answer.
+2025-03-24 06:50:17,889 - INFO - 0 correct answers in 93 questions
+2025-03-24 06:50:17,890 - INFO - Question 93/100:
+2025-03-24 06:52:16,064 - INFO - Extract answer: 1.18
+2025-03-24 06:52:16,064 - INFO - Correct answer: 0.53
+2025-03-24 06:52:16,064 - INFO - Wrong answer.
+2025-03-24 06:52:16,064 - INFO - 0 correct answers in 94 questions
+2025-03-24 06:52:16,065 - INFO - Question 94/100:
+2025-03-24 06:53:30,085 - INFO - Extract answer: 0.508
+2025-03-24 06:53:30,085 - INFO - Correct answer: 0.292
+2025-03-24 06:53:30,085 - INFO - Wrong answer.
+2025-03-24 06:53:30,085 - INFO - 0 correct answers in 95 questions
+2025-03-24 06:53:30,085 - INFO - Question 95/100:
+2025-03-24 06:54:07,045 - INFO - Extract answer: 12
+2025-03-24 06:54:07,045 - INFO - Correct answer: 3
+2025-03-24 06:54:07,045 - INFO - Wrong answer.
+2025-03-24 06:54:07,045 - INFO - 0 correct answers in 96 questions
+2025-03-24 06:54:07,045 - INFO - Question 96/100:
+2025-03-24 06:56:18,161 - INFO - Extract answer: -34
+2025-03-24 06:56:18,161 - INFO - Correct answer: 3
+2025-03-24 06:56:18,161 - INFO - Wrong answer.
+2025-03-24 06:56:18,161 - INFO - 0 correct answers in 97 questions
+2025-03-24 06:56:18,161 - INFO - Question 97/100:
+2025-03-24 06:58:28,778 - INFO - Extract answer: 71
+2025-03-24 06:58:28,778 - INFO - Correct answer: 11
+2025-03-24 06:58:28,778 - INFO - Wrong answer.
+2025-03-24 06:58:28,778 - INFO - 0 correct answers in 98 questions
+2025-03-24 06:58:28,778 - INFO - Question 98/100:
+2025-03-24 06:59:22,662 - INFO - Extract answer: 320
+2025-03-24 06:59:22,662 - INFO - Correct answer: 225
+2025-03-24 06:59:22,662 - INFO - Wrong answer.
+2025-03-24 06:59:22,662 - INFO - 0 correct answers in 99 questions
+2025-03-24 06:59:22,662 - INFO - Question 99/100:
+2025-03-24 06:59:47,688 - INFO - Extract answer: 234
+2025-03-24 06:59:47,688 - INFO - Correct answer: $227.50
+2025-03-24 06:59:47,688 - INFO - Wrong answer.
+2025-03-24 06:59:47,688 - INFO - 0 correct answers in 100 questions
+2025-03-24 06:59:47,688 - INFO - Acc in run 2: 0.0
+2025-03-24 06:59:47,688 - INFO - Question 0/100:
+2025-03-24 07:00:41,039 - INFO - Extract answer: 50
+2025-03-24 07:00:41,039 - INFO - Correct answer: 2500
+2025-03-24 07:00:41,039 - INFO - Wrong answer.
+2025-03-24 07:00:41,039 - INFO - 0 correct answers in 1 questions
+2025-03-24 07:00:41,039 - INFO - Question 1/100:
+2025-03-24 07:01:22,300 - INFO - Extract answer: \frac{8
+2025-03-24 07:01:22,300 - INFO - Correct answer: \frac{7}{9}
+2025-03-24 07:01:22,300 - INFO - Wrong answer.
+2025-03-24 07:01:22,300 - INFO - 0 correct answers in 2 questions
+2025-03-24 07:01:22,300 - INFO - Question 2/100:
+2025-03-24 07:02:38,414 - INFO - Extract answer: (-\infty, 8)
+2025-03-24 07:02:38,414 - INFO - Correct answer: (-inf, 10)
+2025-03-24 07:02:38,414 - INFO - Wrong answer.
+2025-03-24 07:02:38,415 - INFO - 0 correct answers in 3 questions
+2025-03-24 07:02:38,415 - INFO - Question 3/100:
+2025-03-24 07:03:51,517 - INFO - Extract answer: 72
+2025-03-24 07:03:51,517 - INFO - Correct answer: 396
+2025-03-24 07:03:51,517 - INFO - Wrong answer.
+2025-03-24 07:03:51,517 - INFO - 0 correct answers in 4 questions
+2025-03-24 07:03:51,517 - INFO - Question 4/100:
+2025-03-24 07:04:32,751 - INFO - Extract answer: 0.3
+2025-03-24 07:04:32,751 - INFO - Correct answer: 0.16
+2025-03-24 07:04:32,751 - INFO - Wrong answer.
+2025-03-24 07:04:32,751 - INFO - 0 correct answers in 5 questions
+2025-03-24 07:04:32,751 - INFO - Question 5/100:
+2025-03-24 07:06:46,391 - INFO - Extract answer:  
+2025-03-24 07:06:46,391 - INFO - Correct answer: \frac{125}{648}
+2025-03-24 07:06:46,391 - INFO - Wrong answer.
+2025-03-24 07:06:46,391 - INFO - 0 correct answers in 6 questions
+2025-03-24 07:06:46,391 - INFO - Question 6/100:
+2025-03-24 07:08:59,007 - INFO - Extract answer:  
+2025-03-24 07:08:59,007 - INFO - Correct answer: 8
+2025-03-24 07:08:59,007 - INFO - Wrong answer.
+2025-03-24 07:08:59,007 - INFO - 0 correct answers in 7 questions
+2025-03-24 07:08:59,007 - INFO - Question 7/100:
+2025-03-24 07:10:51,649 - INFO - Extract answer: 2
+2025-03-24 07:10:51,649 - INFO - Correct answer: 13
+2025-03-24 07:10:51,649 - INFO - Wrong answer.
+2025-03-24 07:10:51,649 - INFO - 0 correct answers in 8 questions
+2025-03-24 07:10:51,649 - INFO - Question 8/100:
+2025-03-24 07:12:59,079 - INFO - Extract answer: 60
+2025-03-24 07:12:59,079 - INFO - Correct answer: 30
+2025-03-24 07:12:59,079 - INFO - Wrong answer.
+2025-03-24 07:12:59,079 - INFO - 0 correct answers in 9 questions
+2025-03-24 07:12:59,079 - INFO - Question 9/100:
+2025-03-24 07:13:51,345 - INFO - Extract answer: 4
+2025-03-24 07:13:51,345 - INFO - Correct answer: 0
+2025-03-24 07:13:51,345 - INFO - Wrong answer.
+2025-03-24 07:13:51,345 - INFO - 0 correct answers in 10 questions
+2025-03-24 07:13:51,345 - INFO - Question 10/100:
+2025-03-24 07:14:21,559 - INFO - Extract answer: 93
+2025-03-24 07:14:21,559 - INFO - Correct answer: 92
+2025-03-24 07:14:21,559 - INFO - Wrong answer.
+2025-03-24 07:14:21,559 - INFO - 0 correct answers in 11 questions
+2025-03-24 07:14:21,559 - INFO - Question 11/100:
+2025-03-24 07:15:49,743 - INFO - Extract answer: L \leq M \leq T \leq R
+2025-03-24 07:15:49,743 - INFO - Correct answer: R <= T <= M <= L
+2025-03-24 07:15:49,743 - INFO - Wrong answer.
+2025-03-24 07:15:49,743 - INFO - 0 correct answers in 12 questions
+2025-03-24 07:15:49,743 - INFO - Question 12/100:
+2025-03-24 07:16:38,199 - INFO - Extract answer: 5+2\sqrt{13
+2025-03-24 07:16:38,199 - INFO - Correct answer: 16
+2025-03-24 07:16:38,199 - INFO - Wrong answer.
+2025-03-24 07:16:38,199 - INFO - 0 correct answers in 13 questions
+2025-03-24 07:16:38,199 - INFO - Question 13/100:
+2025-03-24 07:18:45,194 - INFO - Extract answer: -4
+2025-03-24 07:18:45,194 - INFO - Correct answer: -2
+2025-03-24 07:18:45,194 - INFO - Wrong answer.
+2025-03-24 07:18:45,194 - INFO - 0 correct answers in 14 questions
+2025-03-24 07:18:45,194 - INFO - Question 14/100:
+2025-03-24 07:19:39,326 - INFO - Extract answer: (-\infty,0)\cup (0,\infty)
+2025-03-24 07:19:39,326 - INFO - Correct answer: (-\infty,-1)\cup (1,\infty)
+2025-03-24 07:19:39,326 - INFO - Wrong answer.
+2025-03-24 07:19:39,326 - INFO - 0 correct answers in 15 questions
+2025-03-24 07:19:39,326 - INFO - Question 15/100:
+2025-03-24 07:20:30,558 - INFO - Extract answer: -\frac{x-4
+2025-03-24 07:20:30,559 - INFO - Correct answer: \frac{5}{x-4}
+2025-03-24 07:20:30,559 - INFO - Wrong answer.
+2025-03-24 07:20:30,559 - INFO - 0 correct answers in 16 questions
+2025-03-24 07:20:30,559 - INFO - Question 16/100:
+2025-03-24 07:21:24,355 - INFO - Extract answer: 11
+2025-03-24 07:21:24,355 - INFO - Correct answer: 7
+2025-03-24 07:21:24,355 - INFO - Wrong answer.
+2025-03-24 07:21:24,355 - INFO - 0 correct answers in 17 questions
+2025-03-24 07:21:24,355 - INFO - Question 17/100:
+2025-03-24 07:22:46,448 - INFO - Extract answer: 8
+2025-03-24 07:22:46,448 - INFO - Correct answer: 4
+2025-03-24 07:22:46,448 - INFO - Wrong answer.
+2025-03-24 07:22:46,449 - INFO - 0 correct answers in 18 questions
+2025-03-24 07:22:46,449 - INFO - Question 18/100:
+2025-03-24 07:23:16,631 - INFO - Extract answer: 15
+2025-03-24 07:23:16,631 - INFO - Correct answer: 5
+2025-03-24 07:23:16,631 - INFO - Wrong answer.
+2025-03-24 07:23:16,631 - INFO - 0 correct answers in 19 questions
+2025-03-24 07:23:16,632 - INFO - Question 19/100:
+2025-03-24 07:23:34,181 - INFO - Extract answer: 70
+2025-03-24 07:23:34,181 - INFO - Correct answer: 145
+2025-03-24 07:23:34,181 - INFO - Wrong answer.
+2025-03-24 07:23:34,181 - INFO - 0 correct answers in 20 questions
+2025-03-24 07:23:34,181 - INFO - Question 20/100:
+2025-03-24 07:23:57,692 - INFO - Extract answer: 20
+2025-03-24 07:23:57,692 - INFO - Correct answer: 2 min
+2025-03-24 07:23:57,692 - INFO - Wrong answer.
+2025-03-24 07:23:57,692 - INFO - 0 correct answers in 21 questions
+2025-03-24 07:23:57,692 - INFO - Question 21/100:
+2025-03-24 07:25:36,184 - INFO - Extract answer: (-\infty, -1) \cup (4, \infty)
+2025-03-24 07:25:36,184 - INFO - Correct answer: (-4,4)
+2025-03-24 07:25:36,184 - INFO - Wrong answer.
+2025-03-24 07:25:36,185 - INFO - 0 correct answers in 22 questions
+2025-03-24 07:25:36,185 - INFO - Question 22/100:
+2025-03-24 07:26:20,707 - INFO - Extract answer: \dfrac{1
+2025-03-24 07:26:20,708 - INFO - Correct answer: 1
+2025-03-24 07:26:20,708 - INFO - Wrong answer.
+2025-03-24 07:26:20,708 - INFO - 0 correct answers in 23 questions
+2025-03-24 07:26:20,708 - INFO - Question 23/100:
+2025-03-24 07:26:39,459 - INFO - Extract answer: 0
+2025-03-24 07:26:39,459 - INFO - Correct answer: 1
+2025-03-24 07:26:39,459 - INFO - Wrong answer.
+2025-03-24 07:26:39,459 - INFO - 0 correct answers in 24 questions
+2025-03-24 07:26:39,459 - INFO - Question 24/100:
+2025-03-24 07:27:47,127 - INFO - Extract answer: 240
+2025-03-24 07:27:47,127 - INFO - Correct answer: 12
+2025-03-24 07:27:47,127 - INFO - Wrong answer.
+2025-03-24 07:27:47,127 - INFO - 0 correct answers in 25 questions
+2025-03-24 07:27:47,127 - INFO - Question 25/100:
+2025-03-24 07:29:19,387 - INFO - Extract answer: 17
+2025-03-24 07:29:19,387 - INFO - Correct answer: 15
+2025-03-24 07:29:19,387 - INFO - Wrong answer.
+2025-03-24 07:29:19,387 - INFO - 0 correct answers in 26 questions
+2025-03-24 07:29:19,387 - INFO - Question 26/100:
+2025-03-24 07:31:00,727 - INFO - Extract answer: 101170
+2025-03-24 07:31:00,727 - INFO - Correct answer: 252
+2025-03-24 07:31:00,727 - INFO - Wrong answer.
+2025-03-24 07:31:00,727 - INFO - 0 correct answers in 27 questions
+2025-03-24 07:31:00,728 - INFO - Question 27/100:
+2025-03-24 07:31:40,538 - INFO - Extract answer: 5.5
+2025-03-24 07:31:40,538 - INFO - Correct answer: 4.5
+2025-03-24 07:31:40,538 - INFO - Wrong answer.
+2025-03-24 07:31:40,538 - INFO - 0 correct answers in 28 questions
+2025-03-24 07:31:40,538 - INFO - Question 28/100:
+2025-03-24 07:33:19,946 - INFO - Extract answer: -3
+2025-03-24 07:33:19,946 - INFO - Correct answer: 1
+2025-03-24 07:33:19,946 - INFO - Wrong answer.
+2025-03-24 07:33:19,946 - INFO - 0 correct answers in 29 questions
+2025-03-24 07:33:19,946 - INFO - Question 29/100:
+2025-03-24 07:33:53,424 - INFO - Extract answer: 10
+2025-03-24 07:33:53,424 - INFO - Correct answer: 4
+2025-03-24 07:33:53,424 - INFO - Wrong answer.
+2025-03-24 07:33:53,424 - INFO - 0 correct answers in 30 questions
+2025-03-24 07:33:53,424 - INFO - Question 30/100:
+2025-03-24 07:34:52,379 - INFO - Extract answer: Eugene
+2025-03-24 07:34:52,379 - INFO - Correct answer: Alice
+2025-03-24 07:34:52,379 - INFO - Wrong answer.
+2025-03-24 07:34:52,379 - INFO - 0 correct answers in 31 questions
+2025-03-24 07:34:52,379 - INFO - Question 31/100:
+2025-03-24 07:35:31,111 - INFO - Extract answer: 9(2-x)(2+x)
+2025-03-24 07:35:31,111 - INFO - Correct answer: (6-3x)(6+3x)
+2025-03-24 07:35:31,111 - INFO - Wrong answer.
+2025-03-24 07:35:31,111 - INFO - 0 correct answers in 32 questions
+2025-03-24 07:35:31,111 - INFO - Question 32/100:
+2025-03-24 07:36:13,501 - INFO - Extract answer: 5200
+2025-03-24 07:36:13,501 - INFO - Correct answer: 100
+2025-03-24 07:36:13,501 - INFO - Wrong answer.
+2025-03-24 07:36:13,501 - INFO - 0 correct answers in 33 questions
+2025-03-24 07:36:13,501 - INFO - Question 33/100:
+2025-03-24 07:37:06,986 - INFO - Extract answer: \frac{1
+2025-03-24 07:37:06,986 - INFO - Correct answer: \frac{1}{8}
+2025-03-24 07:37:06,987 - INFO - Wrong answer.
+2025-03-24 07:37:06,987 - INFO - 0 correct answers in 34 questions
+2025-03-24 07:37:06,987 - INFO - Question 34/100:
+2025-03-24 07:37:43,544 - INFO - Extract answer: 199
+2025-03-24 07:37:43,544 - INFO - Correct answer: 5
+2025-03-24 07:37:43,544 - INFO - Wrong answer.
+2025-03-24 07:37:43,544 - INFO - 0 correct answers in 35 questions
+2025-03-24 07:37:43,545 - INFO - Question 35/100:
+2025-03-24 07:38:31,859 - INFO - Extract answer: 72
+2025-03-24 07:38:31,860 - INFO - Correct answer: 792
+2025-03-24 07:38:31,860 - INFO - Wrong answer.
+2025-03-24 07:38:31,860 - INFO - 0 correct answers in 36 questions
+2025-03-24 07:38:31,860 - INFO - Question 36/100:
+2025-03-24 07:39:30,333 - INFO - Extract answer: -75
+2025-03-24 07:39:30,333 - INFO - Correct answer: 5
+2025-03-24 07:39:30,333 - INFO - Wrong answer.
+2025-03-24 07:39:30,333 - INFO - 0 correct answers in 37 questions
+2025-03-24 07:39:30,333 - INFO - Question 37/100:
+2025-03-24 07:40:06,605 - INFO - Extract answer: \frac{1
+2025-03-24 07:40:06,605 - INFO - Correct answer: \frac{1}{27}
+2025-03-24 07:40:06,605 - INFO - Wrong answer.
+2025-03-24 07:40:06,605 - INFO - 0 correct answers in 38 questions
+2025-03-24 07:40:06,605 - INFO - Question 38/100:
+2025-03-24 07:41:42,665 - INFO - Extract answer: 9
+2025-03-24 07:41:42,665 - INFO - Correct answer: 1
+2025-03-24 07:41:42,665 - INFO - Wrong answer.
+2025-03-24 07:41:42,665 - INFO - 0 correct answers in 39 questions
+2025-03-24 07:41:42,665 - INFO - Question 39/100:
+2025-03-24 07:42:53,213 - INFO - Extract answer: 42
+2025-03-24 07:42:53,213 - INFO - Correct answer: 43
+2025-03-24 07:42:53,213 - INFO - Wrong answer.
+2025-03-24 07:42:53,213 - INFO - 0 correct answers in 40 questions
+2025-03-24 07:42:53,213 - INFO - Question 40/100:
+2025-03-24 07:43:24,395 - INFO - Extract answer: \dfrac{1
+2025-03-24 07:43:24,395 - INFO - Correct answer: \frac{1}{6}
+2025-03-24 07:43:24,395 - INFO - Wrong answer.
+2025-03-24 07:43:24,395 - INFO - 0 correct answers in 41 questions
+2025-03-24 07:43:24,395 - INFO - Question 41/100:
+2025-03-24 07:44:16,275 - INFO - Extract answer: \frac{1
+2025-03-24 07:44:16,276 - INFO - Correct answer: 3
+2025-03-24 07:44:16,276 - INFO - Wrong answer.
+2025-03-24 07:44:16,276 - INFO - 0 correct answers in 42 questions
+2025-03-24 07:44:16,276 - INFO - Question 42/100:
+2025-03-24 07:44:55,619 - INFO - Extract answer: 5, 5
+2025-03-24 07:44:55,619 - INFO - Correct answer: 4, 7
+2025-03-24 07:44:55,619 - INFO - Wrong answer.
+2025-03-24 07:44:55,619 - INFO - 0 correct answers in 43 questions
+2025-03-24 07:44:55,619 - INFO - Question 43/100:
+2025-03-24 07:45:45,624 - INFO - Extract answer: 120
+2025-03-24 07:45:45,624 - INFO - Correct answer: 1
+2025-03-24 07:45:45,624 - INFO - Wrong answer.
+2025-03-24 07:45:45,624 - INFO - 0 correct answers in 44 questions
+2025-03-24 07:45:45,624 - INFO - Question 44/100:
+2025-03-24 07:47:06,301 - INFO - Extract answer: -2
+2025-03-24 07:47:06,301 - INFO - Correct answer: 1
+2025-03-24 07:47:06,301 - INFO - Wrong answer.
+2025-03-24 07:47:06,301 - INFO - 0 correct answers in 45 questions
+2025-03-24 07:47:06,301 - INFO - Question 45/100:
+2025-03-24 07:47:36,021 - INFO - Extract answer: 2793
+2025-03-24 07:47:36,021 - INFO - Correct answer: 1160
+2025-03-24 07:47:36,021 - INFO - Wrong answer.
+2025-03-24 07:47:36,021 - INFO - 0 correct answers in 46 questions
+2025-03-24 07:47:36,021 - INFO - Question 46/100:
+2025-03-24 07:48:05,697 - INFO - Extract answer: 4.875
+2025-03-24 07:48:05,697 - INFO - Correct answer: 0.615
+2025-03-24 07:48:05,697 - INFO - Wrong answer.
+2025-03-24 07:48:05,697 - INFO - 0 correct answers in 47 questions
+2025-03-24 07:48:05,697 - INFO - Question 47/100:
+2025-03-24 07:50:01,584 - INFO - Extract answer: 608
+2025-03-24 07:50:01,584 - INFO - Correct answer: 211
+2025-03-24 07:50:01,584 - INFO - Wrong answer.
+2025-03-24 07:50:01,584 - INFO - 0 correct answers in 48 questions
+2025-03-24 07:50:01,584 - INFO - Question 48/100:
+2025-03-24 07:50:35,882 - INFO - Extract answer: -128
+2025-03-24 07:50:35,882 - INFO - Correct answer: -8
+2025-03-24 07:50:35,882 - INFO - Wrong answer.
+2025-03-24 07:50:35,882 - INFO - 0 correct answers in 49 questions
+2025-03-24 07:50:35,882 - INFO - Question 49/100:
+2025-03-24 07:51:12,788 - INFO - Extract answer: 5
+2025-03-24 07:51:12,788 - INFO - Correct answer: 3
+2025-03-24 07:51:12,788 - INFO - Wrong answer.
+2025-03-24 07:51:12,788 - INFO - 0 correct answers in 50 questions
+2025-03-24 07:51:12,788 - INFO - Question 50/100:
+2025-03-24 07:53:27,531 - INFO - Extract answer:  
+2025-03-24 07:53:27,531 - INFO - Correct answer: 72
+2025-03-24 07:53:27,531 - INFO - Wrong answer.
+2025-03-24 07:53:27,531 - INFO - 0 correct answers in 51 questions
+2025-03-24 07:53:27,531 - INFO - Question 51/100:
+2025-03-24 07:54:57,471 - INFO - Extract answer: \frac{1
+2025-03-24 07:54:57,471 - INFO - Correct answer: \frac{1}{12}
+2025-03-24 07:54:57,471 - INFO - Wrong answer.
+2025-03-24 07:54:57,471 - INFO - 0 correct answers in 52 questions
+2025-03-24 07:54:57,471 - INFO - Question 52/100:
+2025-03-24 07:55:39,083 - INFO - Extract answer: 625
+2025-03-24 07:55:39,083 - INFO - Correct answer: 100
+2025-03-24 07:55:39,083 - INFO - Wrong answer.
+2025-03-24 07:55:39,083 - INFO - 0 correct answers in 53 questions
+2025-03-24 07:55:39,083 - INFO - Question 53/100:
+2025-03-24 07:56:45,700 - INFO - Extract answer: \frac{15
+2025-03-24 07:56:45,700 - INFO - Correct answer: \frac{7}{15}
+2025-03-24 07:56:45,700 - INFO - Wrong answer.
+2025-03-24 07:56:45,700 - INFO - 0 correct answers in 54 questions
+2025-03-24 07:56:45,700 - INFO - Question 54/100:
+2025-03-24 07:57:45,459 - INFO - Extract answer: 64
+2025-03-24 07:57:45,459 - INFO - Correct answer: -5
+2025-03-24 07:57:45,459 - INFO - Wrong answer.
+2025-03-24 07:57:45,459 - INFO - 0 correct answers in 55 questions
+2025-03-24 07:57:45,459 - INFO - Question 55/100:
+2025-03-24 07:58:59,416 - INFO - Extract answer: 1
+2025-03-24 07:58:59,416 - INFO - Correct answer: 2
+2025-03-24 07:58:59,416 - INFO - Wrong answer.
+2025-03-24 07:58:59,416 - INFO - 0 correct answers in 56 questions
+2025-03-24 07:58:59,416 - INFO - Question 56/100:
+2025-03-24 08:00:32,845 - INFO - Extract answer: 8192
+2025-03-24 08:00:32,845 - INFO - Correct answer: 10240
+2025-03-24 08:00:32,845 - INFO - Wrong answer.
+2025-03-24 08:00:32,845 - INFO - 0 correct answers in 57 questions
+2025-03-24 08:00:32,845 - INFO - Question 57/100:
+2025-03-24 08:01:03,910 - INFO - Extract answer: Friday
+2025-03-24 08:01:03,910 - INFO - Correct answer: Wednesday
+2025-03-24 08:01:03,910 - INFO - Wrong answer.
+2025-03-24 08:01:03,910 - INFO - 0 correct answers in 58 questions
+2025-03-24 08:01:03,910 - INFO - Question 58/100:
+2025-03-24 08:01:37,201 - INFO - Extract answer: February 10th
+2025-03-24 08:01:37,201 - INFO - Correct answer: January 10th
+2025-03-24 08:01:37,201 - INFO - Wrong answer.
+2025-03-24 08:01:37,201 - INFO - 0 correct answers in 59 questions
+2025-03-24 08:01:37,201 - INFO - Question 59/100:
+2025-03-24 08:02:11,597 - INFO - Extract answer: 76
+2025-03-24 08:02:11,597 - INFO - Correct answer: 75
+2025-03-24 08:02:11,597 - INFO - Wrong answer.
+2025-03-24 08:02:11,597 - INFO - 0 correct answers in 60 questions
+2025-03-24 08:02:11,597 - INFO - Question 60/100:
+2025-03-24 08:04:26,595 - INFO - Extract answer:  
+2025-03-24 08:04:26,595 - INFO - Correct answer: 11
+2025-03-24 08:04:26,595 - INFO - Wrong answer.
+2025-03-24 08:04:26,595 - INFO - 0 correct answers in 61 questions
+2025-03-24 08:04:26,595 - INFO - Question 61/100:
+2025-03-24 08:04:33,763 - INFO - Extract answer: 12
+2025-03-24 08:04:33,764 - INFO - Correct answer: 6
+2025-03-24 08:04:33,764 - INFO - Wrong answer.
+2025-03-24 08:04:33,764 - INFO - 0 correct answers in 62 questions
+2025-03-24 08:04:33,764 - INFO - Question 62/100:
+2025-03-24 08:05:05,706 - INFO - Extract answer: 80
+2025-03-24 08:05:05,706 - INFO - Correct answer: 9
+2025-03-24 08:05:05,706 - INFO - Wrong answer.
+2025-03-24 08:05:05,706 - INFO - 0 correct answers in 63 questions
+2025-03-24 08:05:05,706 - INFO - Question 63/100:
+2025-03-24 08:05:46,969 - INFO - Extract answer: 5k
+2025-03-24 08:05:46,969 - INFO - Correct answer: 3k+1
+2025-03-24 08:05:46,969 - INFO - Wrong answer.
+2025-03-24 08:05:46,969 - INFO - 0 correct answers in 64 questions
+2025-03-24 08:05:46,969 - INFO - Question 64/100:
+2025-03-24 08:08:02,264 - INFO - Extract answer:  
+2025-03-24 08:08:02,264 - INFO - Correct answer: 3
+2025-03-24 08:08:02,264 - INFO - Wrong answer.
+2025-03-24 08:08:02,264 - INFO - 0 correct answers in 65 questions
+2025-03-24 08:08:02,264 - INFO - Question 65/100:
+2025-03-24 08:09:18,555 - INFO - Extract answer: 3.2
+2025-03-24 08:09:18,555 - INFO - Correct answer: 0.01
+2025-03-24 08:09:18,555 - INFO - Wrong answer.
+2025-03-24 08:09:18,555 - INFO - 0 correct answers in 66 questions
+2025-03-24 08:09:18,555 - INFO - Question 66/100:
+2025-03-24 08:10:10,190 - INFO - Extract answer: 8
+2025-03-24 08:10:10,190 - INFO - Correct answer: 12
+2025-03-24 08:10:10,190 - INFO - Wrong answer.
+2025-03-24 08:10:10,191 - INFO - 0 correct answers in 67 questions
+2025-03-24 08:10:10,191 - INFO - Question 67/100:
+2025-03-24 08:11:00,574 - INFO - Extract answer: 40
+2025-03-24 08:11:00,574 - INFO - Correct answer: 36
+2025-03-24 08:11:00,574 - INFO - Wrong answer.
+2025-03-24 08:11:00,574 - INFO - 0 correct answers in 68 questions
+2025-03-24 08:11:00,574 - INFO - Question 68/100:
+2025-03-24 08:11:47,314 - INFO - Extract answer: \frac{x+5
+2025-03-24 08:11:47,314 - INFO - Correct answer: \frac{x-5}{3}
+2025-03-24 08:11:47,314 - INFO - Wrong answer.
+2025-03-24 08:11:47,314 - INFO - 0 correct answers in 69 questions
+2025-03-24 08:11:47,314 - INFO - Question 69/100:
+2025-03-24 08:12:28,633 - INFO - Extract answer: -1
+2025-03-24 08:12:28,634 - INFO - Correct answer: 1
+2025-03-24 08:12:28,634 - INFO - Wrong answer.
+2025-03-24 08:12:28,634 - INFO - 0 correct answers in 70 questions
+2025-03-24 08:12:28,634 - INFO - Question 70/100:
+2025-03-24 08:13:53,131 - INFO - Extract answer: 32
+2025-03-24 08:13:53,131 - INFO - Correct answer: 8
+2025-03-24 08:13:53,131 - INFO - Wrong answer.
+2025-03-24 08:13:53,131 - INFO - 0 correct answers in 71 questions
+2025-03-24 08:13:53,131 - INFO - Question 71/100:
+2025-03-24 08:14:03,946 - INFO - Extract answer: 30\%
+2025-03-24 08:14:03,947 - INFO - Correct answer: 0%
+2025-03-24 08:14:03,947 - INFO - Wrong answer.
+2025-03-24 08:14:03,947 - INFO - 0 correct answers in 72 questions
+2025-03-24 08:14:03,947 - INFO - Question 72/100:
+2025-03-24 08:14:54,578 - INFO - Extract answer: 36
+2025-03-24 08:14:54,578 - INFO - Correct answer: 9
+2025-03-24 08:14:54,578 - INFO - Wrong answer.
+2025-03-24 08:14:54,578 - INFO - 0 correct answers in 73 questions
+2025-03-24 08:14:54,579 - INFO - Question 73/100:
+2025-03-24 08:15:35,727 - INFO - Extract answer: x+11
+2025-03-24 08:15:35,727 - INFO - Correct answer: 10+x
+2025-03-24 08:15:35,727 - INFO - Wrong answer.
+2025-03-24 08:15:35,727 - INFO - 0 correct answers in 74 questions
+2025-03-24 08:15:35,727 - INFO - Question 74/100:
+2025-03-24 08:16:51,180 - INFO - Extract answer: 20
+2025-03-24 08:16:51,180 - INFO - Correct answer: 13
+2025-03-24 08:16:51,180 - INFO - Wrong answer.
+2025-03-24 08:16:51,180 - INFO - 0 correct answers in 75 questions
+2025-03-24 08:16:51,180 - INFO - Question 75/100:
+2025-03-24 08:17:52,392 - INFO - Extract answer: 18107
+2025-03-24 08:17:52,392 - INFO - Correct answer: 6
+2025-03-24 08:17:52,392 - INFO - Wrong answer.
+2025-03-24 08:17:52,392 - INFO - 0 correct answers in 76 questions
+2025-03-24 08:17:52,392 - INFO - Question 76/100:
+2025-03-24 08:18:24,697 - INFO - Extract answer: 25
+2025-03-24 08:18:24,697 - INFO - Correct answer: 10
+2025-03-24 08:18:24,697 - INFO - Wrong answer.
+2025-03-24 08:18:24,697 - INFO - 0 correct answers in 77 questions
+2025-03-24 08:18:24,697 - INFO - Question 77/100:
+2025-03-24 08:19:25,151 - INFO - Extract answer: \dfrac{2500
+2025-03-24 08:19:25,151 - INFO - Correct answer: \frac{1}{4}
+2025-03-24 08:19:25,151 - INFO - Wrong answer.
+2025-03-24 08:19:25,151 - INFO - 0 correct answers in 78 questions
+2025-03-24 08:19:25,152 - INFO - Question 78/100:
+2025-03-24 08:20:46,179 - INFO - Extract answer: 31
+2025-03-24 08:20:46,179 - INFO - Correct answer: 30
+2025-03-24 08:20:46,179 - INFO - Wrong answer.
+2025-03-24 08:20:46,179 - INFO - 0 correct answers in 79 questions
+2025-03-24 08:20:46,179 - INFO - Question 79/100:
+2025-03-24 08:21:38,726 - INFO - Extract answer: 17
+2025-03-24 08:21:38,726 - INFO - Correct answer: 34
+2025-03-24 08:21:38,726 - INFO - Wrong answer.
+2025-03-24 08:21:38,726 - INFO - 0 correct answers in 80 questions
+2025-03-24 08:21:38,726 - INFO - Question 80/100:
+2025-03-24 08:22:43,010 - INFO - Extract answer: 32
+2025-03-24 08:22:43,010 - INFO - Correct answer: 6
+2025-03-24 08:22:43,010 - INFO - Wrong answer.
+2025-03-24 08:22:43,010 - INFO - 0 correct answers in 81 questions
+2025-03-24 08:22:43,010 - INFO - Question 81/100:
+2025-03-24 08:23:21,530 - INFO - Extract answer: \dfrac{9
+2025-03-24 08:23:21,530 - INFO - Correct answer: \frac{7}{2}
+2025-03-24 08:23:21,530 - INFO - Wrong answer.
+2025-03-24 08:23:21,530 - INFO - 0 correct answers in 82 questions
+2025-03-24 08:23:21,530 - INFO - Question 82/100:
+2025-03-24 08:23:55,545 - INFO - Extract answer: 3.82
+2025-03-24 08:23:55,545 - INFO - Correct answer: 2.62
+2025-03-24 08:23:55,545 - INFO - Wrong answer.
+2025-03-24 08:23:55,545 - INFO - 0 correct answers in 83 questions
+2025-03-24 08:23:55,545 - INFO - Question 83/100:
+2025-03-24 08:24:18,959 - INFO - Extract answer: 900
+2025-03-24 08:24:18,959 - INFO - Correct answer: 300
+2025-03-24 08:24:18,959 - INFO - Wrong answer.
+2025-03-24 08:24:18,960 - INFO - 0 correct answers in 84 questions
+2025-03-24 08:24:18,960 - INFO - Question 84/100:
+2025-03-24 08:25:15,583 - INFO - Extract answer: 4
+2025-03-24 08:25:15,583 - INFO - Correct answer: 1
+2025-03-24 08:25:15,583 - INFO - Wrong answer.
+2025-03-24 08:25:15,583 - INFO - 0 correct answers in 85 questions
+2025-03-24 08:25:15,583 - INFO - Question 85/100:
+2025-03-24 08:25:41,387 - INFO - Extract answer: 2
+2025-03-24 08:25:41,387 - INFO - Correct answer: \infty
+2025-03-24 08:25:41,387 - INFO - Wrong answer.
+2025-03-24 08:25:41,387 - INFO - 0 correct answers in 86 questions
+2025-03-24 08:25:41,387 - INFO - Question 86/100:
+2025-03-24 08:26:44,539 - INFO - Extract answer: \frac{\pi
+2025-03-24 08:26:44,539 - INFO - Correct answer: \frac{\pi}{24}
+2025-03-24 08:26:44,539 - INFO - Wrong answer.
+2025-03-24 08:26:44,539 - INFO - 0 correct answers in 87 questions
+2025-03-24 08:26:44,540 - INFO - Question 87/100:
+2025-03-24 08:28:52,408 - INFO - Extract answer:  
+2025-03-24 08:28:52,408 - INFO - Correct answer: 16
+2025-03-24 08:28:52,408 - INFO - Wrong answer.
+2025-03-24 08:28:52,408 - INFO - 0 correct answers in 88 questions
+2025-03-24 08:28:52,408 - INFO - Question 88/100:
+2025-03-24 08:29:20,971 - INFO - Extract answer: 900
+2025-03-24 08:29:20,971 - INFO - Correct answer: 899
+2025-03-24 08:29:20,971 - INFO - Wrong answer.
+2025-03-24 08:29:20,971 - INFO - 0 correct answers in 89 questions
+2025-03-24 08:29:20,971 - INFO - Question 89/100:
+2025-03-24 08:30:13,254 - INFO - Extract answer: 112875
+2025-03-24 08:30:13,255 - INFO - Correct answer: 337125
+2025-03-24 08:30:13,255 - INFO - Wrong answer.
+2025-03-24 08:30:13,255 - INFO - 0 correct answers in 90 questions
+2025-03-24 08:30:13,255 - INFO - Question 90/100:
+2025-03-24 08:30:51,483 - INFO - Extract answer: 10
+2025-03-24 08:30:51,483 - INFO - Correct answer: 5
+2025-03-24 08:30:51,483 - INFO - Wrong answer.
+2025-03-24 08:30:51,483 - INFO - 0 correct answers in 91 questions
+2025-03-24 08:30:51,483 - INFO - Question 91/100:
+2025-03-24 08:31:49,989 - INFO - Extract answer: \frac{72
+2025-03-24 08:31:49,989 - INFO - Correct answer: \frac{1}{8}
+2025-03-24 08:31:49,989 - INFO - Wrong answer.
+2025-03-24 08:31:49,989 - INFO - 0 correct answers in 92 questions
+2025-03-24 08:31:49,990 - INFO - Question 92/100:
+2025-03-24 08:32:20,569 - INFO - Extract answer: 20
+2025-03-24 08:32:20,569 - INFO - Correct answer: 8
+2025-03-24 08:32:20,569 - INFO - Wrong answer.
+2025-03-24 08:32:20,569 - INFO - 0 correct answers in 93 questions
+2025-03-24 08:32:20,569 - INFO - Question 93/100:
+2025-03-24 08:34:28,091 - INFO - Extract answer:  
+2025-03-24 08:34:28,091 - INFO - Correct answer: 0.53
+2025-03-24 08:34:28,091 - INFO - Wrong answer.
+2025-03-24 08:34:28,091 - INFO - 0 correct answers in 94 questions
+2025-03-24 08:34:28,091 - INFO - Question 94/100:
+2025-03-24 08:35:12,546 - INFO - Extract answer: 0.508
+2025-03-24 08:35:12,546 - INFO - Correct answer: 0.292
+2025-03-24 08:35:12,546 - INFO - Wrong answer.
+2025-03-24 08:35:12,546 - INFO - 0 correct answers in 95 questions
+2025-03-24 08:35:12,546 - INFO - Question 95/100:
+2025-03-24 08:35:42,027 - INFO - Extract answer: 12
+2025-03-24 08:35:42,027 - INFO - Correct answer: 3
+2025-03-24 08:35:42,027 - INFO - Wrong answer.
+2025-03-24 08:35:42,027 - INFO - 0 correct answers in 96 questions
+2025-03-24 08:35:42,027 - INFO - Question 96/100:
+2025-03-24 08:37:34,488 - INFO - Extract answer: -34
+2025-03-24 08:37:34,488 - INFO - Correct answer: 3
+2025-03-24 08:37:34,488 - INFO - Wrong answer.
+2025-03-24 08:37:34,488 - INFO - 0 correct answers in 97 questions
+2025-03-24 08:37:34,488 - INFO - Question 97/100:
+2025-03-24 08:39:42,271 - INFO - Extract answer:  
+2025-03-24 08:39:42,271 - INFO - Correct answer: 11
+2025-03-24 08:39:42,271 - INFO - Wrong answer.
+2025-03-24 08:39:42,271 - INFO - 0 correct answers in 98 questions
+2025-03-24 08:39:42,271 - INFO - Question 98/100:
+2025-03-24 08:40:10,715 - INFO - Extract answer: 1280
+2025-03-24 08:40:10,715 - INFO - Correct answer: 225
+2025-03-24 08:40:10,715 - INFO - Wrong answer.
+2025-03-24 08:40:10,715 - INFO - 0 correct answers in 99 questions
+2025-03-24 08:40:10,715 - INFO - Question 99/100:
+2025-03-24 08:40:33,976 - INFO - Extract answer: 234
+2025-03-24 08:40:33,976 - INFO - Correct answer: $227.50
+2025-03-24 08:40:33,976 - INFO - Wrong answer.
+2025-03-24 08:40:33,976 - INFO - 0 correct answers in 100 questions
+2025-03-24 08:40:33,976 - INFO - Acc in run 3: 0.0
+2025-03-24 08:40:33,976 - INFO - Question 0/100:
+2025-03-24 08:41:19,086 - INFO - Extract answer: 50
+2025-03-24 08:41:19,086 - INFO - Correct answer: 2500
+2025-03-24 08:41:19,086 - INFO - Wrong answer.
+2025-03-24 08:41:19,086 - INFO - 0 correct answers in 1 questions
+2025-03-24 08:41:19,086 - INFO - Question 1/100:
+2025-03-24 08:42:27,085 - INFO - Extract answer: \frac{8
+2025-03-24 08:42:27,085 - INFO - Correct answer: \frac{7}{9}
+2025-03-24 08:42:27,085 - INFO - Wrong answer.
+2025-03-24 08:42:27,085 - INFO - 0 correct answers in 2 questions
+2025-03-24 08:42:27,085 - INFO - Question 2/100:
+2025-03-24 08:43:51,793 - INFO - Extract answer: (-\infty, 8)
+2025-03-24 08:43:51,793 - INFO - Correct answer: (-inf, 10)
+2025-03-24 08:43:51,793 - INFO - Wrong answer.
+2025-03-24 08:43:51,793 - INFO - 0 correct answers in 3 questions
+2025-03-24 08:43:51,793 - INFO - Question 3/100:
+2025-03-24 08:44:39,197 - INFO - Extract answer: 72
+2025-03-24 08:44:39,197 - INFO - Correct answer: 396
+2025-03-24 08:44:39,197 - INFO - Wrong answer.
+2025-03-24 08:44:39,197 - INFO - 0 correct answers in 4 questions
+2025-03-24 08:44:39,197 - INFO - Question 4/100:
+2025-03-24 08:45:17,470 - INFO - Extract answer: 0.3
+2025-03-24 08:45:17,470 - INFO - Correct answer: 0.16
+2025-03-24 08:45:17,470 - INFO - Wrong answer.
+2025-03-24 08:45:17,470 - INFO - 0 correct answers in 5 questions
+2025-03-24 08:45:17,470 - INFO - Question 5/100:
+2025-03-24 08:47:24,910 - INFO - Extract answer:  
+2025-03-24 08:47:24,910 - INFO - Correct answer: \frac{125}{648}
+2025-03-24 08:47:24,910 - INFO - Wrong answer.
+2025-03-24 08:47:24,910 - INFO - 0 correct answers in 6 questions
+2025-03-24 08:47:24,910 - INFO - Question 6/100:
+2025-03-24 08:49:02,559 - INFO - Extract answer: 4
+2025-03-24 08:49:02,559 - INFO - Correct answer: 8
+2025-03-24 08:49:02,559 - INFO - Wrong answer.
+2025-03-24 08:49:02,559 - INFO - 0 correct answers in 7 questions
+2025-03-24 08:49:02,559 - INFO - Question 7/100:
+2025-03-24 08:50:19,250 - INFO - Extract answer: 2
+2025-03-24 08:50:19,250 - INFO - Correct answer: 13
+2025-03-24 08:50:19,250 - INFO - Wrong answer.
+2025-03-24 08:50:19,250 - INFO - 0 correct answers in 8 questions
+2025-03-24 08:50:19,250 - INFO - Question 8/100:
+2025-03-24 08:51:28,691 - INFO - Extract answer: 60
+2025-03-24 08:51:28,691 - INFO - Correct answer: 30
+2025-03-24 08:51:28,691 - INFO - Wrong answer.
+2025-03-24 08:51:28,691 - INFO - 0 correct answers in 9 questions
+2025-03-24 08:51:28,691 - INFO - Question 9/100:
+2025-03-24 08:52:24,801 - INFO - Extract answer: 4
+2025-03-24 08:52:24,801 - INFO - Correct answer: 0
+2025-03-24 08:52:24,801 - INFO - Wrong answer.
+2025-03-24 08:52:24,802 - INFO - 0 correct answers in 10 questions
+2025-03-24 08:52:24,802 - INFO - Question 10/100:
+2025-03-24 08:52:42,812 - INFO - Extract answer: 93
+2025-03-24 08:52:42,812 - INFO - Correct answer: 92
+2025-03-24 08:52:42,812 - INFO - Wrong answer.
+2025-03-24 08:52:42,812 - INFO - 0 correct answers in 11 questions
+2025-03-24 08:52:42,812 - INFO - Question 11/100:
+2025-03-24 08:53:08,329 - INFO - Extract answer: L \leq M \leq T \leq R
+2025-03-24 08:53:08,329 - INFO - Correct answer: R <= T <= M <= L
+2025-03-24 08:53:08,329 - INFO - Wrong answer.
+2025-03-24 08:53:08,329 - INFO - 0 correct answers in 12 questions
+2025-03-24 08:53:08,329 - INFO - Question 12/100:
+2025-03-24 08:53:46,194 - INFO - Extract answer: 5+2\sqrt{13
+2025-03-24 08:53:46,194 - INFO - Correct answer: 16
+2025-03-24 08:53:46,194 - INFO - Wrong answer.
+2025-03-24 08:53:46,194 - INFO - 0 correct answers in 13 questions
+2025-03-24 08:53:46,194 - INFO - Question 13/100:
+2025-03-24 08:55:18,730 - INFO - Extract answer: -1
+2025-03-24 08:55:18,730 - INFO - Correct answer: -2
+2025-03-24 08:55:18,730 - INFO - Wrong answer.
+2025-03-24 08:55:18,730 - INFO - 0 correct answers in 14 questions
+2025-03-24 08:55:18,730 - INFO - Question 14/100:
+2025-03-24 08:56:15,750 - INFO - Extract answer: (-\infty,0)\cup (0,\infty)
+2025-03-24 08:56:15,750 - INFO - Correct answer: (-\infty,-1)\cup (1,\infty)
+2025-03-24 08:56:15,750 - INFO - Wrong answer.
+2025-03-24 08:56:15,750 - INFO - 0 correct answers in 15 questions
+2025-03-24 08:56:15,751 - INFO - Question 15/100:
+2025-03-24 08:56:51,042 - INFO - Extract answer: \frac{x-4
+2025-03-24 08:56:51,042 - INFO - Correct answer: \frac{5}{x-4}
+2025-03-24 08:56:51,042 - INFO - Wrong answer.
+2025-03-24 08:56:51,042 - INFO - 0 correct answers in 16 questions
+2025-03-24 08:56:51,042 - INFO - Question 16/100:
+2025-03-24 08:58:56,946 - INFO - Extract answer: 8
+2025-03-24 08:58:56,946 - INFO - Correct answer: 7
+2025-03-24 08:58:56,946 - INFO - Wrong answer.
+2025-03-24 08:58:56,946 - INFO - 0 correct answers in 17 questions
+2025-03-24 08:58:56,946 - INFO - Question 17/100:
+2025-03-24 09:00:04,970 - INFO - Extract answer: 8
+2025-03-24 09:00:04,970 - INFO - Correct answer: 4
+2025-03-24 09:00:04,970 - INFO - Wrong answer.
+2025-03-24 09:00:04,970 - INFO - 0 correct answers in 18 questions
+2025-03-24 09:00:04,971 - INFO - Question 18/100:
+2025-03-24 09:00:34,248 - INFO - Extract answer: 15
+2025-03-24 09:00:34,248 - INFO - Correct answer: 5
+2025-03-24 09:00:34,248 - INFO - Wrong answer.
+2025-03-24 09:00:34,248 - INFO - 0 correct answers in 19 questions
+2025-03-24 09:00:34,249 - INFO - Question 19/100:
+2025-03-24 09:00:51,331 - INFO - Extract answer: 70
+2025-03-24 09:00:51,331 - INFO - Correct answer: 145
+2025-03-24 09:00:51,331 - INFO - Wrong answer.
+2025-03-24 09:00:51,331 - INFO - 0 correct answers in 20 questions
+2025-03-24 09:00:51,331 - INFO - Question 20/100:
+2025-03-24 09:02:12,441 - INFO - Extract answer: 18
+2025-03-24 09:02:12,441 - INFO - Correct answer: 2 min
+2025-03-24 09:02:12,441 - INFO - Wrong answer.
+2025-03-24 09:02:12,441 - INFO - 0 correct answers in 21 questions
+2025-03-24 09:02:12,441 - INFO - Question 21/100:
+2025-03-24 09:03:15,354 - INFO - Extract answer: (-\infty, -1) \cup (4, \infty)
+2025-03-24 09:03:15,354 - INFO - Correct answer: (-4,4)
+2025-03-24 09:03:15,354 - INFO - Wrong answer.
+2025-03-24 09:03:15,354 - INFO - 0 correct answers in 22 questions
+2025-03-24 09:03:15,354 - INFO - Question 22/100:
+2025-03-24 09:04:03,941 - INFO - Extract answer: \dfrac{1
+2025-03-24 09:04:03,941 - INFO - Correct answer: 1
+2025-03-24 09:04:03,941 - INFO - Wrong answer.
+2025-03-24 09:04:03,941 - INFO - 0 correct answers in 23 questions
+2025-03-24 09:04:03,941 - INFO - Question 23/100:
+2025-03-24 09:04:23,949 - INFO - Extract answer: 0
+2025-03-24 09:04:23,949 - INFO - Correct answer: 1
+2025-03-24 09:04:23,949 - INFO - Wrong answer.
+2025-03-24 09:04:23,949 - INFO - 0 correct answers in 24 questions
+2025-03-24 09:04:23,949 - INFO - Question 24/100:
+2025-03-24 09:05:27,264 - INFO - Extract answer: 240
+2025-03-24 09:05:27,264 - INFO - Correct answer: 12
+2025-03-24 09:05:27,265 - INFO - Wrong answer.
+2025-03-24 09:05:27,265 - INFO - 0 correct answers in 25 questions
+2025-03-24 09:05:27,265 - INFO - Question 25/100:
+2025-03-24 09:07:02,625 - INFO - Extract answer: 17
+2025-03-24 09:07:02,625 - INFO - Correct answer: 15
+2025-03-24 09:07:02,625 - INFO - Wrong answer.
+2025-03-24 09:07:02,625 - INFO - 0 correct answers in 26 questions
+2025-03-24 09:07:02,625 - INFO - Question 26/100:
+2025-03-24 09:08:49,668 - INFO - Extract answer: 98770
+2025-03-24 09:08:49,668 - INFO - Correct answer: 252
+2025-03-24 09:08:49,668 - INFO - Wrong answer.
+2025-03-24 09:08:49,668 - INFO - 0 correct answers in 27 questions
+2025-03-24 09:08:49,668 - INFO - Question 27/100:
+2025-03-24 09:09:12,275 - INFO - Extract answer: 5.5
+2025-03-24 09:09:12,275 - INFO - Correct answer: 4.5
+2025-03-24 09:09:12,275 - INFO - Wrong answer.
+2025-03-24 09:09:12,275 - INFO - 0 correct answers in 28 questions
+2025-03-24 09:09:12,275 - INFO - Question 28/100:
+2025-03-24 09:10:28,156 - INFO - Extract answer: -3
+2025-03-24 09:10:28,156 - INFO - Correct answer: 1
+2025-03-24 09:10:28,156 - INFO - Wrong answer.
+2025-03-24 09:10:28,156 - INFO - 0 correct answers in 29 questions
+2025-03-24 09:10:28,156 - INFO - Question 29/100:
+2025-03-24 09:11:05,102 - INFO - Extract answer: 10
+2025-03-24 09:11:05,102 - INFO - Correct answer: 4
+2025-03-24 09:11:05,102 - INFO - Wrong answer.
+2025-03-24 09:11:05,102 - INFO - 0 correct answers in 30 questions
+2025-03-24 09:11:05,102 - INFO - Question 30/100:
+2025-03-24 09:12:04,001 - INFO - Extract answer: Eugene
+2025-03-24 09:12:04,001 - INFO - Correct answer: Alice
+2025-03-24 09:12:04,001 - INFO - Wrong answer.
+2025-03-24 09:12:04,001 - INFO - 0 correct answers in 31 questions
+2025-03-24 09:12:04,001 - INFO - Question 31/100:
+2025-03-24 09:12:29,514 - INFO - Extract answer: 9(2 - x)(2 + x)
+2025-03-24 09:12:29,514 - INFO - Correct answer: (6-3x)(6+3x)
+2025-03-24 09:12:29,514 - INFO - Wrong answer.
+2025-03-24 09:12:29,514 - INFO - 0 correct answers in 32 questions
+2025-03-24 09:12:29,514 - INFO - Question 32/100:
+2025-03-24 09:13:52,736 - INFO - Extract answer: 5200
+2025-03-24 09:13:52,736 - INFO - Correct answer: 100
+2025-03-24 09:13:52,736 - INFO - Wrong answer.
+2025-03-24 09:13:52,736 - INFO - 0 correct answers in 33 questions
+2025-03-24 09:13:52,736 - INFO - Question 33/100:
+2025-03-24 09:14:45,046 - INFO - Extract answer: \dfrac{1
+2025-03-24 09:14:45,046 - INFO - Correct answer: \frac{1}{8}
+2025-03-24 09:14:45,046 - INFO - Wrong answer.
+2025-03-24 09:14:45,046 - INFO - 0 correct answers in 34 questions
+2025-03-24 09:14:45,046 - INFO - Question 34/100:
+2025-03-24 09:15:19,843 - INFO - Extract answer: 199
+2025-03-24 09:15:19,843 - INFO - Correct answer: 5
+2025-03-24 09:15:19,843 - INFO - Wrong answer.
+2025-03-24 09:15:19,843 - INFO - 0 correct answers in 35 questions
+2025-03-24 09:15:19,843 - INFO - Question 35/100:
+2025-03-24 09:16:30,993 - INFO - Extract answer: 72
+2025-03-24 09:16:30,993 - INFO - Correct answer: 792
+2025-03-24 09:16:30,993 - INFO - Wrong answer.
+2025-03-24 09:16:30,993 - INFO - 0 correct answers in 36 questions
+2025-03-24 09:16:30,993 - INFO - Question 36/100:
+2025-03-24 09:17:22,627 - INFO - Extract answer: -75
+2025-03-24 09:17:22,627 - INFO - Correct answer: 5
+2025-03-24 09:17:22,627 - INFO - Wrong answer.
+2025-03-24 09:17:22,627 - INFO - 0 correct answers in 37 questions
+2025-03-24 09:17:22,627 - INFO - Question 37/100:
+2025-03-24 09:18:13,182 - INFO - Extract answer: \frac{1
+2025-03-24 09:18:13,182 - INFO - Correct answer: \frac{1}{27}
+2025-03-24 09:18:13,182 - INFO - Wrong answer.
+2025-03-24 09:18:13,182 - INFO - 0 correct answers in 38 questions
+2025-03-24 09:18:13,182 - INFO - Question 38/100:
+2025-03-24 09:18:28,792 - INFO - Extract answer: 9
+2025-03-24 09:18:28,792 - INFO - Correct answer: 1
+2025-03-24 09:18:28,792 - INFO - Wrong answer.
+2025-03-24 09:18:28,792 - INFO - 0 correct answers in 39 questions
+2025-03-24 09:18:28,792 - INFO - Question 39/100:
+2025-03-24 09:18:47,548 - INFO - Extract answer: 42
+2025-03-24 09:18:47,548 - INFO - Correct answer: 43
+2025-03-24 09:18:47,548 - INFO - Wrong answer.
+2025-03-24 09:18:47,548 - INFO - 0 correct answers in 40 questions
+2025-03-24 09:18:47,548 - INFO - Question 40/100:
+2025-03-24 09:19:10,999 - INFO - Extract answer: \dfrac{1
+2025-03-24 09:19:10,999 - INFO - Correct answer: \frac{1}{6}
+2025-03-24 09:19:10,999 - INFO - Wrong answer.
+2025-03-24 09:19:10,999 - INFO - 0 correct answers in 41 questions
+2025-03-24 09:19:10,999 - INFO - Question 41/100:
+2025-03-24 09:20:18,797 - INFO - Extract answer: \frac{1
+2025-03-24 09:20:18,797 - INFO - Correct answer: 3
+2025-03-24 09:20:18,797 - INFO - Wrong answer.
+2025-03-24 09:20:18,797 - INFO - 0 correct answers in 42 questions
+2025-03-24 09:20:18,798 - INFO - Question 42/100:
+2025-03-24 09:20:57,739 - INFO - Extract answer: 5, 5
+2025-03-24 09:20:57,739 - INFO - Correct answer: 4, 7
+2025-03-24 09:20:57,739 - INFO - Wrong answer.
+2025-03-24 09:20:57,739 - INFO - 0 correct answers in 43 questions
+2025-03-24 09:20:57,739 - INFO - Question 43/100:
+2025-03-24 09:21:44,620 - INFO - Extract answer: 120
+2025-03-24 09:21:44,620 - INFO - Correct answer: 1
+2025-03-24 09:21:44,620 - INFO - Wrong answer.
+2025-03-24 09:21:44,620 - INFO - 0 correct answers in 44 questions
+2025-03-24 09:21:44,620 - INFO - Question 44/100:
+2025-03-24 09:23:06,085 - INFO - Extract answer: -2
+2025-03-24 09:23:06,085 - INFO - Correct answer: 1
+2025-03-24 09:23:06,085 - INFO - Wrong answer.
+2025-03-24 09:23:06,085 - INFO - 0 correct answers in 45 questions
+2025-03-24 09:23:06,085 - INFO - Question 45/100:
+2025-03-24 09:24:31,288 - INFO - Extract answer: 2793
+2025-03-24 09:24:31,288 - INFO - Correct answer: 1160
+2025-03-24 09:24:31,288 - INFO - Wrong answer.
+2025-03-24 09:24:31,288 - INFO - 0 correct answers in 46 questions
+2025-03-24 09:24:31,288 - INFO - Question 46/100:
+2025-03-24 09:24:58,427 - INFO - Extract answer: 4.875
+2025-03-24 09:24:58,427 - INFO - Correct answer: 0.615
+2025-03-24 09:24:58,427 - INFO - Wrong answer.
+2025-03-24 09:24:58,427 - INFO - 0 correct answers in 47 questions
+2025-03-24 09:24:58,427 - INFO - Question 47/100:
+2025-03-24 09:26:16,842 - INFO - Extract answer: 2321
+2025-03-24 09:26:16,842 - INFO - Correct answer: 211
+2025-03-24 09:26:16,842 - INFO - Wrong answer.
+2025-03-24 09:26:16,843 - INFO - 0 correct answers in 48 questions
+2025-03-24 09:26:16,843 - INFO - Question 48/100:
+2025-03-24 09:26:48,904 - INFO - Extract answer: -128
+2025-03-24 09:26:48,904 - INFO - Correct answer: -8
+2025-03-24 09:26:48,904 - INFO - Wrong answer.
+2025-03-24 09:26:48,904 - INFO - 0 correct answers in 49 questions
+2025-03-24 09:26:48,904 - INFO - Question 49/100:
+2025-03-24 09:27:25,379 - INFO - Extract answer: 5
+2025-03-24 09:27:25,379 - INFO - Correct answer: 3
+2025-03-24 09:27:25,379 - INFO - Wrong answer.
+2025-03-24 09:27:25,379 - INFO - 0 correct answers in 50 questions
+2025-03-24 09:27:25,379 - INFO - Question 50/100:
+2025-03-24 09:29:18,603 - INFO - Extract answer: 12
+2025-03-24 09:29:18,603 - INFO - Correct answer: 72
+2025-03-24 09:29:18,603 - INFO - Wrong answer.
+2025-03-24 09:29:18,603 - INFO - 0 correct answers in 51 questions
+2025-03-24 09:29:18,603 - INFO - Question 51/100:
+2025-03-24 09:31:00,966 - INFO - Extract answer: \dfrac{1
+2025-03-24 09:31:00,967 - INFO - Correct answer: \frac{1}{12}
+2025-03-24 09:31:00,967 - INFO - Wrong answer.
+2025-03-24 09:31:00,967 - INFO - 0 correct answers in 52 questions
+2025-03-24 09:31:00,967 - INFO - Question 52/100:
+2025-03-24 09:31:42,506 - INFO - Extract answer: 625
+2025-03-24 09:31:42,507 - INFO - Correct answer: 100
+2025-03-24 09:31:42,507 - INFO - Wrong answer.
+2025-03-24 09:31:42,507 - INFO - 0 correct answers in 53 questions
+2025-03-24 09:31:42,507 - INFO - Question 53/100:
+2025-03-24 09:32:08,389 - INFO - Extract answer: \frac{15
+2025-03-24 09:32:08,389 - INFO - Correct answer: \frac{7}{15}
+2025-03-24 09:32:08,389 - INFO - Wrong answer.
+2025-03-24 09:32:08,389 - INFO - 0 correct answers in 54 questions
+2025-03-24 09:32:08,389 - INFO - Question 54/100:
+2025-03-24 09:33:08,688 - INFO - Extract answer: 64
+2025-03-24 09:33:08,688 - INFO - Correct answer: -5
+2025-03-24 09:33:08,688 - INFO - Wrong answer.
+2025-03-24 09:33:08,688 - INFO - 0 correct answers in 55 questions
+2025-03-24 09:33:08,688 - INFO - Question 55/100:
+2025-03-24 09:34:26,349 - INFO - Extract answer: 1
+2025-03-24 09:34:26,349 - INFO - Correct answer: 2
+2025-03-24 09:34:26,349 - INFO - Wrong answer.
+2025-03-24 09:34:26,349 - INFO - 0 correct answers in 56 questions
+2025-03-24 09:34:26,349 - INFO - Question 56/100:
+2025-03-24 09:36:08,453 - INFO - Extract answer: 8192
+2025-03-24 09:36:08,453 - INFO - Correct answer: 10240
+2025-03-24 09:36:08,453 - INFO - Wrong answer.
+2025-03-24 09:36:08,453 - INFO - 0 correct answers in 57 questions
+2025-03-24 09:36:08,453 - INFO - Question 57/100:
+2025-03-24 09:36:38,782 - INFO - Extract answer: Friday
+2025-03-24 09:36:38,782 - INFO - Correct answer: Wednesday
+2025-03-24 09:36:38,782 - INFO - Wrong answer.
+2025-03-24 09:36:38,782 - INFO - 0 correct answers in 58 questions
+2025-03-24 09:36:38,782 - INFO - Question 58/100:
+2025-03-24 09:37:41,868 - INFO - Extract answer: January 21st
+2025-03-24 09:37:41,868 - INFO - Correct answer: January 10th
+2025-03-24 09:37:41,869 - INFO - Wrong answer.
+2025-03-24 09:37:41,869 - INFO - 0 correct answers in 59 questions
+2025-03-24 09:37:41,869 - INFO - Question 59/100:
+2025-03-24 09:38:19,718 - INFO - Extract answer: 76
+2025-03-24 09:38:19,718 - INFO - Correct answer: 75
+2025-03-24 09:38:19,718 - INFO - Wrong answer.
+2025-03-24 09:38:19,719 - INFO - 0 correct answers in 60 questions
+2025-03-24 09:38:19,719 - INFO - Question 60/100:
+2025-03-24 09:39:15,060 - INFO - Extract answer: 8
+2025-03-24 09:39:15,060 - INFO - Correct answer: 11
+2025-03-24 09:39:15,060 - INFO - Wrong answer.
+2025-03-24 09:39:15,061 - INFO - 0 correct answers in 61 questions
+2025-03-24 09:39:15,061 - INFO - Question 61/100:
+2025-03-24 09:39:21,863 - INFO - Extract answer: 12
+2025-03-24 09:39:21,863 - INFO - Correct answer: 6
+2025-03-24 09:39:21,863 - INFO - Wrong answer.
+2025-03-24 09:39:21,863 - INFO - 0 correct answers in 62 questions
+2025-03-24 09:39:21,863 - INFO - Question 62/100:
+2025-03-24 09:40:03,927 - INFO - Extract answer: 80
+2025-03-24 09:40:03,927 - INFO - Correct answer: 9
+2025-03-24 09:40:03,927 - INFO - Wrong answer.
+2025-03-24 09:40:03,927 - INFO - 0 correct answers in 63 questions
+2025-03-24 09:40:03,927 - INFO - Question 63/100:
+2025-03-24 09:40:42,093 - INFO - Extract answer: 5k
+2025-03-24 09:40:42,093 - INFO - Correct answer: 3k+1
+2025-03-24 09:40:42,093 - INFO - Wrong answer.
+2025-03-24 09:40:42,093 - INFO - 0 correct answers in 64 questions
+2025-03-24 09:40:42,093 - INFO - Question 64/100:
+2025-03-24 09:41:56,405 - INFO - Extract answer: 21
+2025-03-24 09:41:56,405 - INFO - Correct answer: 3
+2025-03-24 09:41:56,405 - INFO - Wrong answer.
+2025-03-24 09:41:56,405 - INFO - 0 correct answers in 65 questions
+2025-03-24 09:41:56,405 - INFO - Question 65/100:
+2025-03-24 09:42:27,496 - INFO - Extract answer: 32
+2025-03-24 09:42:27,496 - INFO - Correct answer: 0.01
+2025-03-24 09:42:27,496 - INFO - Wrong answer.
+2025-03-24 09:42:27,496 - INFO - 0 correct answers in 66 questions
+2025-03-24 09:42:27,496 - INFO - Question 66/100:
+2025-03-24 09:44:34,580 - INFO - Extract answer:  
+2025-03-24 09:44:34,580 - INFO - Correct answer: 12
+2025-03-24 09:44:34,580 - INFO - Wrong answer.
+2025-03-24 09:44:34,580 - INFO - 0 correct answers in 67 questions
+2025-03-24 09:44:34,580 - INFO - Question 67/100:
+2025-03-24 09:46:25,703 - INFO - Extract answer: 40
+2025-03-24 09:46:25,703 - INFO - Correct answer: 36
+2025-03-24 09:46:25,703 - INFO - Wrong answer.
+2025-03-24 09:46:25,703 - INFO - 0 correct answers in 68 questions
+2025-03-24 09:46:25,703 - INFO - Question 68/100:
+2025-03-24 09:47:22,691 - INFO - Extract answer: \dfrac{x + 5
+2025-03-24 09:47:22,691 - INFO - Correct answer: \frac{x-5}{3}
+2025-03-24 09:47:22,691 - INFO - Wrong answer.
+2025-03-24 09:47:22,691 - INFO - 0 correct answers in 69 questions
+2025-03-24 09:47:22,691 - INFO - Question 69/100:
+2025-03-24 09:48:04,306 - INFO - Extract answer: -1
+2025-03-24 09:48:04,307 - INFO - Correct answer: 1
+2025-03-24 09:48:04,307 - INFO - Wrong answer.
+2025-03-24 09:48:04,307 - INFO - 0 correct answers in 70 questions
+2025-03-24 09:48:04,307 - INFO - Question 70/100:
+2025-03-24 09:48:57,272 - INFO - Extract answer: 32
+2025-03-24 09:48:57,272 - INFO - Correct answer: 8
+2025-03-24 09:48:57,272 - INFO - Wrong answer.
+2025-03-24 09:48:57,272 - INFO - 0 correct answers in 71 questions
+2025-03-24 09:48:57,272 - INFO - Question 71/100:
+2025-03-24 09:49:07,989 - INFO - Extract answer: 30\%
+2025-03-24 09:49:07,989 - INFO - Correct answer: 0%
+2025-03-24 09:49:07,989 - INFO - Wrong answer.
+2025-03-24 09:49:07,989 - INFO - 0 correct answers in 72 questions
+2025-03-24 09:49:07,989 - INFO - Question 72/100:
+2025-03-24 09:50:10,694 - INFO - Extract answer: 36
+2025-03-24 09:50:10,694 - INFO - Correct answer: 9
+2025-03-24 09:50:10,694 - INFO - Wrong answer.
+2025-03-24 09:50:10,694 - INFO - 0 correct answers in 73 questions
+2025-03-24 09:50:10,694 - INFO - Question 73/100:
+2025-03-24 09:50:52,867 - INFO - Extract answer: x+11
+2025-03-24 09:50:52,867 - INFO - Correct answer: 10+x
+2025-03-24 09:50:52,867 - INFO - Wrong answer.
+2025-03-24 09:50:52,867 - INFO - 0 correct answers in 74 questions
+2025-03-24 09:50:52,867 - INFO - Question 74/100:
+2025-03-24 09:52:07,706 - INFO - Extract answer: 20
+2025-03-24 09:52:07,706 - INFO - Correct answer: 13
+2025-03-24 09:52:07,706 - INFO - Wrong answer.
+2025-03-24 09:52:07,706 - INFO - 0 correct answers in 75 questions
+2025-03-24 09:52:07,706 - INFO - Question 75/100:
+2025-03-24 09:52:18,367 - INFO - Extract answer: 18107
+2025-03-24 09:52:18,367 - INFO - Correct answer: 6
+2025-03-24 09:52:18,367 - INFO - Wrong answer.
+2025-03-24 09:52:18,367 - INFO - 0 correct answers in 76 questions
+2025-03-24 09:52:18,367 - INFO - Question 76/100:
+2025-03-24 09:52:44,792 - INFO - Extract answer: 25
+2025-03-24 09:52:44,792 - INFO - Correct answer: 10
+2025-03-24 09:52:44,792 - INFO - Wrong answer.
+2025-03-24 09:52:44,792 - INFO - 0 correct answers in 77 questions
+2025-03-24 09:52:44,792 - INFO - Question 77/100:
+2025-03-24 09:53:34,263 - INFO - Extract answer: \dfrac{1000
+2025-03-24 09:53:34,263 - INFO - Correct answer: \frac{1}{4}
+2025-03-24 09:53:34,263 - INFO - Wrong answer.
+2025-03-24 09:53:34,263 - INFO - 0 correct answers in 78 questions
+2025-03-24 09:53:34,263 - INFO - Question 78/100:
+2025-03-24 09:54:51,431 - INFO - Extract answer: 31
+2025-03-24 09:54:51,431 - INFO - Correct answer: 30
+2025-03-24 09:54:51,431 - INFO - Wrong answer.
+2025-03-24 09:54:51,431 - INFO - 0 correct answers in 79 questions
+2025-03-24 09:54:51,431 - INFO - Question 79/100:
+2025-03-24 09:55:44,759 - INFO - Extract answer: 17
+2025-03-24 09:55:44,759 - INFO - Correct answer: 34
+2025-03-24 09:55:44,759 - INFO - Wrong answer.
+2025-03-24 09:55:44,759 - INFO - 0 correct answers in 80 questions
+2025-03-24 09:55:44,759 - INFO - Question 80/100:
+2025-03-24 09:56:44,013 - INFO - Extract answer: 32
+2025-03-24 09:56:44,013 - INFO - Correct answer: 6
+2025-03-24 09:56:44,013 - INFO - Wrong answer.
+2025-03-24 09:56:44,013 - INFO - 0 correct answers in 81 questions
+2025-03-24 09:56:44,013 - INFO - Question 81/100:
+2025-03-24 09:57:01,248 - INFO - Extract answer: \dfrac{9
+2025-03-24 09:57:01,248 - INFO - Correct answer: \frac{7}{2}
+2025-03-24 09:57:01,248 - INFO - Wrong answer.
+2025-03-24 09:57:01,248 - INFO - 0 correct answers in 82 questions
+2025-03-24 09:57:01,248 - INFO - Question 82/100:
+2025-03-24 09:57:36,878 - INFO - Extract answer: 3.82
+2025-03-24 09:57:36,878 - INFO - Correct answer: 2.62
+2025-03-24 09:57:36,878 - INFO - Wrong answer.
+2025-03-24 09:57:36,878 - INFO - 0 correct answers in 83 questions
+2025-03-24 09:57:36,879 - INFO - Question 83/100:
+2025-03-24 09:58:07,709 - INFO - Extract answer: 900
+2025-03-24 09:58:07,709 - INFO - Correct answer: 300
+2025-03-24 09:58:07,709 - INFO - Wrong answer.
+2025-03-24 09:58:07,709 - INFO - 0 correct answers in 84 questions
+2025-03-24 09:58:07,709 - INFO - Question 84/100:
+2025-03-24 09:59:09,518 - INFO - Extract answer: 4
+2025-03-24 09:59:09,518 - INFO - Correct answer: 1
+2025-03-24 09:59:09,518 - INFO - Wrong answer.
+2025-03-24 09:59:09,518 - INFO - 0 correct answers in 85 questions
+2025-03-24 09:59:09,518 - INFO - Question 85/100:
+2025-03-24 10:00:20,223 - INFO - Extract answer: 2
+2025-03-24 10:00:20,223 - INFO - Correct answer: \infty
+2025-03-24 10:00:20,223 - INFO - Wrong answer.
+2025-03-24 10:00:20,223 - INFO - 0 correct answers in 86 questions
+2025-03-24 10:00:20,223 - INFO - Question 86/100:
+2025-03-24 10:00:53,088 - INFO - Extract answer: \frac{\pi
+2025-03-24 10:00:53,088 - INFO - Correct answer: \frac{\pi}{24}
+2025-03-24 10:00:53,088 - INFO - Wrong answer.
+2025-03-24 10:00:53,088 - INFO - 0 correct answers in 87 questions
+2025-03-24 10:00:53,088 - INFO - Question 87/100:
+2025-03-24 10:02:59,724 - INFO - Extract answer:  
+2025-03-24 10:02:59,724 - INFO - Correct answer: 16
+2025-03-24 10:02:59,725 - INFO - Wrong answer.
+2025-03-24 10:02:59,725 - INFO - 0 correct answers in 88 questions
+2025-03-24 10:02:59,725 - INFO - Question 88/100:
+2025-03-24 10:03:25,491 - INFO - Extract answer: 900
+2025-03-24 10:03:25,491 - INFO - Correct answer: 899
+2025-03-24 10:03:25,491 - INFO - Wrong answer.
+2025-03-24 10:03:25,491 - INFO - 0 correct answers in 89 questions
+2025-03-24 10:03:25,491 - INFO - Question 89/100:
+2025-03-24 10:04:09,173 - INFO - Extract answer: 112875
+2025-03-24 10:04:09,173 - INFO - Correct answer: 337125
+2025-03-24 10:04:09,173 - INFO - Wrong answer.
+2025-03-24 10:04:09,173 - INFO - 0 correct answers in 90 questions
+2025-03-24 10:04:09,174 - INFO - Question 90/100:
+2025-03-24 10:04:42,386 - INFO - Extract answer: 10
+2025-03-24 10:04:42,386 - INFO - Correct answer: 5
+2025-03-24 10:04:42,386 - INFO - Wrong answer.
+2025-03-24 10:04:42,386 - INFO - 0 correct answers in 91 questions
+2025-03-24 10:04:42,386 - INFO - Question 91/100:
+2025-03-24 10:05:51,531 - INFO - Extract answer: \dfrac{72
+2025-03-24 10:05:51,531 - INFO - Correct answer: \frac{1}{8}
+2025-03-24 10:05:51,531 - INFO - Wrong answer.
+2025-03-24 10:05:51,531 - INFO - 0 correct answers in 92 questions
+2025-03-24 10:05:51,531 - INFO - Question 92/100:
+2025-03-24 10:06:20,074 - INFO - Extract answer: 20
+2025-03-24 10:06:20,074 - INFO - Correct answer: 8
+2025-03-24 10:06:20,074 - INFO - Wrong answer.
+2025-03-24 10:06:20,074 - INFO - 0 correct answers in 93 questions
+2025-03-24 10:06:20,074 - INFO - Question 93/100:
+2025-03-24 10:08:28,040 - INFO - Extract answer:  
+2025-03-24 10:08:28,040 - INFO - Correct answer: 0.53
+2025-03-24 10:08:28,040 - INFO - Wrong answer.
+2025-03-24 10:08:28,041 - INFO - 0 correct answers in 94 questions
+2025-03-24 10:08:28,041 - INFO - Question 94/100:
+2025-03-24 10:09:13,712 - INFO - Extract answer: 0.508
+2025-03-24 10:09:13,712 - INFO - Correct answer: 0.292
+2025-03-24 10:09:13,712 - INFO - Wrong answer.
+2025-03-24 10:09:13,712 - INFO - 0 correct answers in 95 questions
+2025-03-24 10:09:13,712 - INFO - Question 95/100:
+2025-03-24 10:09:56,355 - INFO - Extract answer: 12
+2025-03-24 10:09:56,356 - INFO - Correct answer: 3
+2025-03-24 10:09:56,356 - INFO - Wrong answer.
+2025-03-24 10:09:56,356 - INFO - 0 correct answers in 96 questions
+2025-03-24 10:09:56,356 - INFO - Question 96/100:
+2025-03-24 10:12:05,519 - INFO - Extract answer:  
+2025-03-24 10:12:05,519 - INFO - Correct answer: 3
+2025-03-24 10:12:05,520 - INFO - Wrong answer.
+2025-03-24 10:12:05,520 - INFO - 0 correct answers in 97 questions
+2025-03-24 10:12:05,520 - INFO - Question 97/100:
+2025-03-24 10:14:15,244 - INFO - Extract answer:  
+2025-03-24 10:14:15,244 - INFO - Correct answer: 11
+2025-03-24 10:14:15,244 - INFO - Wrong answer.
+2025-03-24 10:14:15,244 - INFO - 0 correct answers in 98 questions
+2025-03-24 10:14:15,244 - INFO - Question 98/100:
+2025-03-24 10:15:07,079 - INFO - Extract answer: 320
+2025-03-24 10:15:07,079 - INFO - Correct answer: 225
+2025-03-24 10:15:07,079 - INFO - Wrong answer.
+2025-03-24 10:15:07,079 - INFO - 0 correct answers in 99 questions
+2025-03-24 10:15:07,080 - INFO - Question 99/100:
+2025-03-24 10:15:34,519 - INFO - Extract answer: 234.00
+2025-03-24 10:15:34,519 - INFO - Correct answer: $227.50
+2025-03-24 10:15:34,519 - INFO - Wrong answer.
+2025-03-24 10:15:34,519 - INFO - 0 correct answers in 100 questions
+2025-03-24 10:15:34,519 - INFO - Acc in run 4: 0.0
+2025-03-24 10:15:34,520 - INFO - AIME-2024: 0.153 ± 0.034
+2025-03-24 10:15:34,520 - INFO - MMLU:      0.000 ± 0.000

@@ -95,6 +95,7 @@ def bench_mmlu_inference(model, tokenizer, dataset, logger_result, logger_detail
             correct_answer = str(sample["keyword"]).strip()
             logger_result.info(f"Correct answer: {correct_answer}")
             logger_detail.info(f"Correct answer: {correct_answer}")
+            correct_answer = chr(65 + int(correct_answer))
             if predicted_answer.lower() == correct_answer.lower():
                 correct += 1
                 logger_result.info("Correct answer.")

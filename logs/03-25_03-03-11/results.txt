@@ -1,0 +1,14 @@
+2025-03-25 03:03:11,338 - INFO - ========================
+2025-03-25 03:03:11,338 - INFO - Evaluating TS_Guess for deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B...
+2025-03-25 03:03:16,041 - INFO - Using masked dataset AIME-2024:
+2025-03-25 03:03:16,041 - INFO - Problem 0/30:
+2025-03-25 03:05:07,271 - INFO - Extract answer: 
+2025-03-25 03:05:07,272 - INFO - Correct answer: walk
+2025-03-25 03:05:07,272 - INFO - Wrong answer.
+2025-03-25 03:05:07,272 - INFO - 0 correct answers in 1 questions
+2025-03-25 03:05:07,272 - INFO - Problem 1/30:
+2025-03-25 03:06:58,849 - INFO - Extract answer: 
+2025-03-25 03:06:58,849 - INFO - Correct answer: triangle
+2025-03-25 03:06:58,849 - INFO - Wrong answer.
+2025-03-25 03:06:58,849 - INFO - 0 correct answers in 2 questions
+2025-03-25 03:06:58,849 - INFO - Problem 2/30:

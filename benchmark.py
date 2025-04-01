@@ -35,7 +35,7 @@ def bench_aime_inference(model, tokenizer, dataset, logger_result, logger_detail
             predicted_answer = extract_clean_answer(full_output)
             logger_result.info(f"Extract answer: {predicted_answer}")
             logger_detail.info(f"Extract answer: {predicted_answer}")
-            correct_answer = str(sample["keyword"]).strip()
+            correct_answer = str(sample["answer"]).strip()
             logger_result.info(f"Correct answer: {correct_answer}")
             logger_detail.info(f"Correct answer: {correct_answer}")
             if predicted_answer.lower().zfill(3) == correct_answer.lower():
@@ -92,7 +92,7 @@ def bench_mmlu_inference(model, tokenizer, dataset, logger_result, logger_detail
             predicted_answer = extract_clean_answer(full_output)
             logger_result.info(f"Extract answer: {predicted_answer}")
             logger_detail.info(f"Extract answer: {predicted_answer}")
-            correct_answer = str(sample["keyword"]).strip()
+            correct_answer = str(sample["answer"]).strip()
             logger_result.info(f"Correct answer: {correct_answer}")
             logger_detail.info(f"Correct answer: {correct_answer}")
             correct_answer = chr(65 + int(correct_answer))

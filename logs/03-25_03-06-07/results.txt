@@ -1,4 +1,0 @@
-2025-03-25 03:06:09,511 - INFO - ========================
-2025-03-25 03:06:09,511 - INFO - Evaluating deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B...
-2025-03-25 03:06:13,883 - INFO - Using dataset MMLU:
-2025-03-25 03:06:13,883 - INFO - Question 0/100:

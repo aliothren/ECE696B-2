@@ -7,7 +7,7 @@ This repository contains code and resources for ECE696B Project 2, focused on ev
 
 ### Main Scripts
 
-- `report.md`: Experimental notes or reporting draft.
+- `report.md`: Experimental report.
 - `main.py`: Entry point for evaluation. Runs benchmark scoring, TS-Guess, and PaCoST.
 - `benchmark.py`: Logic for standard benchmark accuracy testing.
 - `ts_guess.py`: Implements TS-Guessing method to estimate contamination by masking answers.

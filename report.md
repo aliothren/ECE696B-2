@@ -172,6 +172,8 @@ These fields are parsed and structured into model-ready prompts, as described in
 
 - To ensure consistency across contamination detection experiments, we further filter the MMLU dataset by selecting only the first 100 samples **whose correct answer is not option 'A'**. This subset is saved as `dataset/mmlu_high_school_math_100.json` and reused in both TS-Guess and PaCoST evaluations. This step simplifies TS-Guess analysis by avoiding hardcoded option ordering.
 
+---
+
 #### Prompt Design
 
 Prompts were carefully crafted to simulate exam conditions and elicit structured reasoning. We primarily use the following prompt to do the benchmark tests:
@@ -206,6 +208,7 @@ This format ensures that the model understands the task and produces well-format
 
 - **Boxed answer extraction**: to facilitate reliable answer extraction from free-form generations, we instruct the model to place its final answer inside a LaTeX-style box, e.g., `\boxed{C}` or `\boxed{204}`. This convention is common in math and reasoning benchmarks, and helps distinguish the final answer from intermediate steps, formulas, or distractions in verbose outputs. The use of `\boxed{}` simplifies post-processing and evaluation by enabling a consistent extraction rule, even when the generation includes lengthy explanations.
 
+---
 
 #### Inference Procedure
 
@@ -224,6 +227,8 @@ This prevents infinite generation loops while allowing sufficient reasoning spac
 
 This setting balances completeness and efficiency.
 
+---
+
 #### Output Handling
 
 The output string is processed by a utility function `extract_clean_answer` to extract the final answer in the form of a letter. The predicted answer is then compared with the correct one, which is converted from numeric label (0-3) to letter (A-D) as:
@@ -234,6 +239,7 @@ correct_answer = chr(65 + int(sample["answer"]))
 
 This ensures that the string comparison is compatible with the model output format.
 
+---
 
 #### Summary
 
@@ -252,6 +258,8 @@ In the original paper, TS-Guess is applied across a variety of datasets and sett
 - Based on results form the paper, we hypothesize that for clean datasets, models should not be able to guess the masked answer with any notable accuracy, leading to a score near 0.
 - In contrast, if a model demonstrates significantly above-zero accuracy on masked examples, we interpret this as evidence of contamination.
 - We therefore run the test on one dataset at a time and compare results across models.
+
+---
 
 #### Dataset Setups
 
@@ -279,6 +287,8 @@ Example (MMLU):
   "keyword": "396"
 }
 ```
+
+---
 
 #### Prompt Design
 
@@ -310,8 +320,230 @@ Choices:
 Reply with answer only. Only put your answer in the form \boxed{ }.
 ```
 
+---
+
 ### Evaluation
 
 A correct prediction is determined by matching the model's generated boxed response with the saved `keyword`. Overall accuracy is reported across 100 examples per dataset.
 
 ### 3.3 PaCoST Evaluation
+
+#### Method Adaptation
+
+The original PaCoST method (Zhao et al., 2023) proposes to detect contamination by comparing model confidence on the original versus paraphrased benchmark questions. Specifically, it queries the model with both the original and a paraphrased version, asks the model to produce an answer, and then measures certainty via a follow-up "Is this answer correct?" question, analyzing the likelihood assigned to "yes".
+
+However, in our case, the DeepSeek-R1-Distill-Qwen series models consistently enter a reasoning mode, regardless of prompt design. Even when explicitly instructed not to reason, the models produce lengthy outputs.  
+Thus, we modify the original PaCoST method as follows:
+
+- We **directly input** the original or paraphrased prompt to the model and capture the probability of producing the **correct answer token** immediately after the prompt.
+- We **do not query follow-up yes/no certainty**, avoiding instability from free-form generation.
+- The underlying assumption remains: if the model memorized the original benchmark, it will assign **higher likelihood** to the correct answer when prompted with the original versus the paraphrase.
+
+This design preserves the core statistical testing idea while bypassing problems related to reasoning drift.
+
+
+---
+
+#### Dataset Preparation
+
+We prepared paraphrased datasets for both AIME and MMLU benchmarks by paraphrasing each math problem using GPT-4o and manually validated.
+
+For AIME-2024:
+
+Original: 
+
+```json
+
+  "problem": "There exist real numbers $x$ and $y$, both greater than 1, such that $\\log_x\\left(y^x\\right)=\\log_y\\left(x^{4y}\\right)=10$. Find $xy$.",
+
+```
+
+Paraphrased:
+
+```json
+
+  "problem": "There are real numbers $x$ and $y$ greater than 1 that satisfy the equations $\\log_x(y^x) = \\log_y(x^{4y}) = 10$. Find the product $xy$.",
+
+```
+
+For MMLU:
+
+Original:
+
+```json
+
+  "question": "How many arithmetic sequences of consecutive odd integers sum to 240?",
+
+```
+
+Paraphrased:
+
+```json
+
+  "question": "How many arithmetic sequences made up of consecutive odd numbers have a total sum of 240?",
+
+```
+
+---
+
+#### Prompt Design
+
+We design the prompts to minimize generation artifacts and maximize reliability of contamination detection.
+
+Example for AIME:
+
+```text
+Problem: Each vertex of a regular octagon is independently colored either red or blue with equal probability. The probability that the octagon can then be rotated so that all of the blue vertices end up at positions where there were originally red vertices is $\\tfrac{m}{n}$, where $m$ and $n$ are relatively prime positive integers. What is $m+n$?
+Answer:
+```
+
+Example for MMLU:
+```text
+Question: A coat has a list price of $325.00. During November, it did not sell, and the merchant marked it down 20 percent. Then in December, she marked it down an additional 10 percent. What would a Christmas shopper in December pay for the coat?
+Choices:
+A. $227.50
+B. $234.00
+C. $286.00
+D. $290.00
+Answer:
+```
+
+
+---
+
+#### Post-Processing and Token Selection
+
+Since AIME problems involve mathematical expressions with potential formatting artifacts (e.g., LaTeX commands, newline characters), and MMLU options sometimes include noise tokens, we introduced a **blacklist** to ignore meaningless tokens during evaluation.
+
+Specifically:
+
+- We manually screened and blacklisted tokens like `"Ġ"`, `"Ċ"`, and similar meaningless outputs.
+- During evaluation, if the next-token probability corresponds to a blacklisted token, it is excluded.
+
+**Correct token matching rule:**
+
+- **For AIME**: We extract and match the **first digit** of the answer string.
+  - Example: For answer `"699"`, the tracked token is `"6"`.
+
+- **For MMLU**: We match the **space-prefixed letter** corresponding to the correct choice.
+  - Example: For option B, we match the token `"ĠB"`.
+
+This ensures that the evaluation reflects the model's memorization behavior rather than random format artifacts.
+
+
+
+
+# 4. Results and Analysis
+
+## 4.1 Benchmark Evaluation Results
+
+In the benchmark phase, we evaluated each model on AIME-2024 and MMLU datasets. Each model-dataset pair was run **5 times independently**, and we report the **mean accuracy** and **standard deviation** across runs.
+
+The results are as follows:
+
+| Model | AIME-2024 (mean ± std) | MMLU (mean ± std) |
+|:-----:|:----------------------:|:-----------------:|
+| DeepSeek-R1-Distill-Qwen-1.5B | 0.187 ± 0.034 | 0.796 ± 0.033 |
+| DeepSeek-R1-Distill-Qwen-7B   | 0.347 ± 0.054 | 0.684 ± 0.021 |
+| DeepSeek-R1-Distill-Qwen-14B  | 0.420 ± 0.016 | 0.080 ± 0.011 |
+
+### Analysis
+
+We observed an **abnormally low accuracy** on MMLU for the 14B model. Log inspection revealed that the model often **directly outputs a numerical answer** (e.g., "234.00") rather than selecting a letter choice (A/B/C/D).
+
+Example from logs:
+```text
+Extract answer: 234.00
+Correct answer: 1
+Wrong answer.
+```
+
+Since our evaluation script expects a **choice letter**, such outputs are considered incorrect, which artificially lowers the measured accuracy.
+
+**Apart from this artifact**, the results align with expectations:
+- Larger models (7B, 14B) perform better than the smaller 1.5B model on AIME-2024.
+- Surprisingly, 1.5B outperforms 7B and 14B on MMLU under our strict answer format.
+- 14B exhibits instability on MMLU due to diverse answer styles.
+
+---
+
+## 4.2 TS-Guess Results
+
+We evaluated TS-Guess contamination detection by running **5 independent rounds** for each model and dataset.
+
+The TS-Guess results are:
+
+| Model | AIME-2024 (mean ± std) | MMLU (mean ± std) |
+|:-----:|:----------------------:|:-----------------:|
+| DeepSeek-R1-Distill-Qwen-1.5B | 0.000 ± 0.000 | 0.002 ± 0.004 |
+| DeepSeek-R1-Distill-Qwen-7B   | 0.127 ± 0.033 | 0.002 ± 0.004 |
+| DeepSeek-R1-Distill-Qwen-14B  | 0.133 ± 0.047 | 0.000 ± 0.000 |
+
+
+### Analysis:
+- On **AIME-2024**, the 7B and 14B models exhibit **noticeable TS-Guess scores (~12-13%)**, suggesting potential contamination or memorization effects.
+- The **1.5B model** shows **0% TS-Guess score**, consistent with no contamination.
+- On **MMLU**, all models show scores close to 0%, implying no detectable contamination.
+
+These results align with the hypothesis that **larger models tend to memorize benchmark data more easily**.
+
+---
+
+## 4.3 PaCoST Results
+
+PaCoST evaluation was also performed with **5 repeated runs**, reporting mean delta, paired t-statistic, and p-value.
+
+The PaCoST results are:
+
+| Model | AIME-2024 Δ (p-value) | MMLU Δ (p-value) |
+|:-----:|:---------------------:|:---------------:|
+| DeepSeek-R1-Distill-Qwen-1.5B | +5.45e-4 (p=0.108) | +8.22e-3 (p=0.318) |
+| DeepSeek-R1-Distill-Qwen-7B   | +3.59e-3 (p=0.032) | +1.04e-2 (p=0.327) |
+| DeepSeek-R1-Distill-Qwen-14B  | +1.97e-3 (p=0.010) | -7.32e-3 (p=0.555) |
+
+### Analysis
+
+- On **AIME-2024**, the 7B and 14B models show **significant p-values (<0.05)**, suggesting bias toward the original phrasing, a strong indicator of contamination.
+- On **MMLU**, all p-values are >0.3, indicating no statistically significant preference toward the original prompts.
+- The **1.5B model** shows no strong contamination signals on either benchmark.
+
+These PaCoST findings are **consistent** with the TS-Guess analysis:
+- AIME-2024 contamination is visible for larger models (7B, 14B).
+- MMLU appears clean across all models.
+
+---
+
+### 5. Conclusion
+
+In this project, we implemented and evaluated benchmark contamination detection methods on the DeepSeek-R1-Distill-Qwen series models (1.5B, 7B, 14B parameters). We systematically applied two major techniques: TS-Guess and PaCoST.
+
+Our key findings are summarized as follows:
+
+- **Benchmark Performance**:
+  - Models achieve reasonably high accuracy on MMLU (up to 79.6% for 1.5B, 68.4% for 7B) but perform much worse on AIME (best 42.0% for 14B).
+  - The 14B model exhibited strange behavior on MMLU due to generating direct numerical answers instead of selecting from multiple-choice options, highlighting the challenge of controlling model outputs even under strict prompt engineering.
+
+- **TS-Guess Results**:
+  - For MMLU, across all model sizes, TS-Guess accuracy remains very low (~0-0.2%), strongly suggesting no significant contamination.
+  - For AIME, TS-Guess accuracy is near zero for the 1.5B model but rises to ~12-13% for the 7B and 14B models, indicating potential contamination at larger scales.
+
+- **PaCoST Results**:
+  - On AIME, the 14B model shows significant differences (p = 0.01) between original and paraphrased prompts, and the 7B model also shows a significant gap (p = 0.03), further supporting the contamination hypothesis.
+  - On MMLU, PaCoST results are not statistically significant, consistent with TS-Guess findings that MMLU remains largely uncontaminated.
+
+**Overall Analysis**:
+
+- Our experiments confirm that contamination detection is highly sensitive to the design of probing techniques. In particular, when models naturally drift into complex reasoning modes, special care (e.g., `<think>` tags, truncation) must be taken to isolate the specific behaviors related to memorization.
+- TS-Guess and PaCoST, when carefully adapted, complement each other: TS-Guess quickly identifies memorization via direct prediction, while PaCoST statistically verifies subtle biases.
+- Contamination is more pronounced for difficult, niche benchmarks (like AIME) and in larger models (7B and 14B), consistent with the intuition that larger models memorize more training data.
+
+**Limitations and Future Work**:
+
+- Our study focuses on relatively small subsets of benchmarks due to computational constraints. Extending TS-Guess and PaCoST evaluation to full datasets would provide more robust conclusions.
+- Further refinement of paraphrasing quality and better methods for matching outputs (e.g., fuzzy matching) could improve the sensitivity of detection.
+- Exploring more models across open and closed weight families (e.g., GPT, Claude) would provide broader insights into contamination risks.
+
+In conclusion, benchmark contamination remains a critical issue in evaluating LLMs. Carefully designed, resource-efficient detection methods like TS-Guess and PaCoST are essential tools for maintaining the integrity of benchmark-based evaluation.
+
+---
+
